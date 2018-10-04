@@ -17,7 +17,7 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Power Transmission Rate:</Left>
+					<Left>Taux de Transmission d'Energie:</Left>
 					<Right>200%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

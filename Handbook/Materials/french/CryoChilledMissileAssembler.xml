@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>CryoChilled Missile Assembler</Text>
+					<Text>Assembleur de Missile Cryogéniques</Text>
 				</Title>
 				<Icon>
 					<Name>CryoChilled Missile Assembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses Freezon Canisters to make Plasma-Imbued Missiles have a slowing effect and slightly higher damage.</Text>
+					<Text>Utilise des Cartouches Freezon pour fabriquer des missiles imprégnés de plasma qui ont un effet de ralentissement et des dégâts légèrement supérieurs.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Freezon Canister and Plasma-Imbued Missile to start the chilling process.</Text>
+					<Text>Pour démarrer le processus de refroidissement, cette machine nécessite des trémies contenant au moins une Cartouche Freezon et un Missile imprégné de Plasma.</Text>
 				</Paragraph>
 
 				<Header>

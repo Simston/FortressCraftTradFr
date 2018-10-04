@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Wire</Text>
+					<Text>Fil de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Wiring</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple copper wire used for machines with electrical components. Can be manufactured via the Extrusion Plant.</Text>
+					<Text>Un simple fil de cuivre utilisé pour les machines avec des composants électriques. Peut être fabriqué via l'usine d'extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

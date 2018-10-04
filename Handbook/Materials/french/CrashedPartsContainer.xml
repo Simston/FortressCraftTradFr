@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crashed parts container</Text>
+					<Text>Container Pièces Écrasé</Text>
 				</Title>
 				<Icon>
 					<Name>Crashed parts container</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Contains technical components we can use for research.</Text>
+					<Text>Contient des composants techniques utilisables pour la recherche.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

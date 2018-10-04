@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A nondescript plant found on the surface and within the caverns of this planet.</Text>
+					<Text>Une plante indéfinissable trouvée à la surface et dans les cavernes de cette planète.</Text>
 				</Paragraph>
 		
 				<Spacer/>
@@ -20,7 +20,7 @@
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Seeds of this can be used in the Ampule Crafter.</Text>
+					<Text>Ces graines peuvent être utilisées dans le Fabricateur d'Ampoule.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

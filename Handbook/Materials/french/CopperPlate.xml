@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Plate</Text>
+					<Text>Plaque de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple copper plate created from copper bars in a Stamper Plant.</Text>
+					<Text>Une simple plaque de cuivre créée à partir de lingots de cuivre dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

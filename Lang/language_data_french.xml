@@ -865,7 +865,7 @@
   <string name="UnderGrump_DESC">Cela ne semble pas être très utile.</string>
   <string name="GoopyDangler">GoopyDangler</string>
   <string name="GoopyDangler_DESC">Cela ne semble pas être très utile.</string>
-  <string name="CoxComb">Muscadin</string>
+  <string name="CoxComb">CoxComb</string>
   <string name="CoxComb_DESC">Cela ne semble pas être très utile.</string>
   <string name="LeafyDangler">Dangler Feuillu</string>
   <string name="LeafyDangler_DESC">Cela ne semble pas être très utile.</string>
@@ -1353,7 +1353,7 @@
   <string name="Crystal Coal Infuser_DESC">Infuseur du charbon enrichi avec du cristal.</string>
   <string name="Fuel Canister Crafter">Constructeur de Cartouches à Carburant</string>
   <string name="Fuel Canister Crafter_DESC">Utilise un seul tuyau en Fer pour faire une Cartouche de Carburant Vide.</string>
-  <string name="CryoChilled Missile Assembler">Assembleur de Missile Cryo</string>
+  <string name="CryoChilled Missile Assembler">Assembleur de Missile Cryogéniques</string>
   <string name="CryoChilled Missile Assembler_DESC">Utilise des Cartouches de Freezon pour ajouter un effet de ralentissement au cibles atteintes. Ajoute un bonus de 15% aux dégâts !</string>
   <string name="Mephitic Missile Assembler">Assembleur de Missile Méphitique</string>
   <string name="Mephitic Missile Assembler_DESC">Utilise des Cartouches de Chlore pour ajouter des dégâts dans le temps aux cibles atteintes, ajoute 50% de dégâts sur 30 secondes.</string>
@@ -1367,7 +1367,7 @@
   <string name="Lens Polisher_DESC">Utilise une technologie de pointe pour produire une lentille non focalisée à partir de lentilles de plus mauvaise qualité. Peut être plaqué de Chrome pour être utilisé dans les Lasers Transmetteurs d&apos;Énergie.</string>
   <string name="Lens Chromer">Chromage de Lentille</string>
   <string name="Lens Chromer_DESC">Plaque une couche réfléchissante de Chrome de haute précision sur une Lentille non focalisée pour lui donner une utilité.</string>
-  <string name="Cryo Bomb Assembler">Assembleur de Bombe Gelée</string>
+  <string name="Cryo Bomb Assembler">Assembleur de Bombe Cryo</string>
   <string name="Cryo Bomb Assembler_DESC">"Crée une bombe  spécifiquement conçue pour être livrée par le bombardier FALCORs pour vaincre de grandes quantités de CryoPlasm à longue portée."</string>
   <string name="Chromed Block Assembler">Assembleur de Bloc Chromé</string>
   <string name="Chromed Block Assembler_DESC">Assembleuse de Blocs Machine Chromés.</string>

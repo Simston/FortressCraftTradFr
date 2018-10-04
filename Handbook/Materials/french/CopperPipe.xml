@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Pipe</Text>
+					<Text>Tuyau de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple copper pipe created from copper bars in a Pipe Extrusion Plant. Used in the manufacture of Basic Missiles.</Text>
+					<Text>Un simple tuyau de cuivre créé à partir de lingots de cuivre dans une usine d’extrusion de tuyaux. Utilisé dans la fabrication de missile basique.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

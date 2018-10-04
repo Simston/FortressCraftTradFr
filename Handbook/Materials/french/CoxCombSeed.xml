@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>CoxComb Seed</Text>
+					<Text>Graine de CoxComb</Text>
 				</Title>
 				<Icon>
 					<Name>CoxComb</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Used to plant CoxCombs or for use in the Ampule Crafter</Text>
+					<Text>Utilisé pour planter des CoxComb ou pour être utilisé dans le fabricateur d’ampoule.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

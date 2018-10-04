@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Ore Ping</Text>
+					<Text>Ping de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Ore Ping</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Copper ore Ping is used to find additional Copper ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</Text>
+					<Text>Le Ping de Cuivre est utilisé pour rechercher des veines de minerai de cuivre supplémentaires si celle précédemment découverte sont sur le point de s'épuiser ou est trop petite pour être utilisée. Pour plus d'informations, reportez-vous au guide d'aide relatif au Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Blank Ore Ping</Material>
 					</Target>
-					<Text>Blank Ore Ping</Text>
+					<Text>Ping de Minerai Vierge</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

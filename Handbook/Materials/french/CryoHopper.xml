@@ -4,46 +4,46 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cryo Hopper</Text>
+					<Text>Trémie Cryo</Text>
 				</Title>
 				<Icon>
 					<Name>CryoHopper</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The cryo hopper is a more expensive version of the standard storage hopper which can store 50 items and takes can process items very quickly. The cryo hopper main use is to stop ruined bug parts from spoiling, this the machine uses a decent amount of power to cool itself down. As the hopper gets closer to optimal temperature the power required lowers. You should place these in the cold caverns to save on power.</Text>
+					<Text>La trémie cryogénique est une version plus coûteuse de la trémie de stockage standard, elle peut stocker 50 articles et traiter les objets très rapidement. L’utilisation principale de la trémie cryogénique est d’empêcher de gâcher les morceaux d'insectes abîmés, cette machine utilise une quantité raisonable d'énergie pour se refroidir. Lorsque la trémie se rapproche de la température optimale, la puissance requise diminue. Vous devriez les placer dans les cavernes froides pour économiser de l'énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Power Usage (1000 Temp):
-					Power Usage (0 Temp):
-					Power Usage (-1000 Temp):
-					Cold Caverns Boost:
+					<Left>Utilisation Energie (1000 Temp):
+					Utilisation Energie (0 Temp):
+					Utilisation Energie (-1000 Temp):
+					Boost Caverne Froide:
 					Capacité Energie:
 					Max. Taux Transfert Energie:
-					Preservation Temp:
-					Fuel:</Left>
+					Temp de Conservation:
+					Carburant:</Left>
 					<Right>1300 par seconde
 					300 par seconde
 					700 par seconde
 					1/2 power usage
 					500
 					500 par seconde
-					lower than -250
+					en dessous de -250
 					</Right>
 				</TwoColumnParagraph>
 				<Paragraph>
-					<Text>For more information on storage hoppers please refer to the standard storage hopper guide.</Text>
+					<Text>Pour plus d'informations sur les trémies de stockage, reportez-vous au guide standard des trémies de stockage.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Page>0</Page>
 						<Material>StorageHopper</Material>
 					</Target>
-					<Text>Storage Hopper</Text>
+					<Text>Trémie de Stockage</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

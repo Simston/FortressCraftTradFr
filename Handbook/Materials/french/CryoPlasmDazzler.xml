@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>CryoPlasm Dazzler Turret</Text>
+					<Text>Tourelle Dazzler CryoPlasm</Text>
 				</Title>
 				<Icon>
 					<Name>CryoPlasmBurner</Name>
@@ -12,13 +12,13 @@
 				</Icon>
         <Paragraph>
           <Text>
-            Long-range, fast, CryoPlasm defence, designed to fire in long-distance straight lines. Excellent when paired with terraforming work and Melters, the Dazzler requires 250k power to trigger.
-            Once there is a sufficient density of CryoPlasm along one of the cardinal directions, it will charge, and then begin to fire.
-            Once triggered will burn through power and CryoPlasm until there is no more CryoPlasm or power.</Text>
+            Défense CryoPlasm longue portée, rapide, conçue pour tirer en lignes droites longue distance. Excellent lorsqu'il est associé à des travaux de terraformation et à des fonderies, le Dazzler nécessite une puissance de 250k pour se déclencher.
+            Une fois que la densité de CryoPlasm est suffisante le long de l’une des directions cardinales, elle se charge et commence à tirer.
+            Une fois déclenché, il consommera l'énergie pour brûler le CryoPlasm jusqu’à ce qu’il n’y ait plus de CryoPlasm ou d'énergie.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Please note - exposure to the beam will prove to be instantly fatal. Listen out for the charging noise and stay clear!
+          <Text>Veuillez noter que l'exposition au faisceau s'avérera immédiatement fatale. Écoutez le bruit de charge et restez loin!
           </Text>
         </Paragraph>
 				<Spacer/>
@@ -26,7 +26,7 @@
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Range:
+					<Left>Portée:
 					Max. Capacité Energie:
 					Max. Taux de Recharge:
 					</Left>

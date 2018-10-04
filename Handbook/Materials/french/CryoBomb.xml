@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cryo Bomb</Text>
+					<Text>Bombe Cryo</Text>
 				</Title>
 				<Icon>
 					<Name>CryoBomb</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Used together with Bomber FALCORs to clear large amounts of CryoPlasm.</Text>
+					<Text>Utilisé avec les Bombardiers FALCOR pour éliminer de grandes quantités de CryoPlasm.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

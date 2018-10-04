@@ -4,20 +4,20 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crude Organic Lens</Text>
+					<Text>Lentille Organique Brute</Text>
 				</Title>
 				<Icon>
 					<Name>Crude Organic Lens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Insert into a Laser Power Transmitter to improve its power transmission rate.</Text>
+					<Text>Insérer dans un Transmetteur d&apos;Énergie Laser pour améliorer son taux de transmission d'énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Power Transmission Rate:</Left>
+					<Left>Taux de Transmission d'Energie:</Left>
 					<Right>125%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
