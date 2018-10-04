@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Charged Experimental Pod</Text>
+					<Text>Capsule Expérimentale Chargé</Text>
 				</Title>
 				<Icon>
 					<Name>ResearchPod_Complex</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Charged Experimental pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Lithium. For more information on laboratory research please visit the following guide.</Text>
+					<Text>Les Capsules Expérimentales Chargé sont utilisés dans le Laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de Lithium. Pour plus d'informations sur la recherche en Laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>For more information on creating Experimental Pods please read the following guide.</Text>
+					<Text>Pour plus d'informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant.</Text>
 				</Paragraph>
 				
 				<Link>
@@ -30,7 +30,7 @@
 						<Chapter>experimental pods</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Experimental Pods</Text>
+					<Text>Capsules Expérimentales</Text>
 				</Link>
 		
 			</Paragraphs>

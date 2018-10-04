@@ -4,34 +4,34 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Ore</Text>
+					<Text>Minerai de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Ore_Sparse</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Found near the surface, Copper Ore can be smelted into Copper Bars using the smelter. Copper Bars are generally used in a wide range of machines with electrical components.</Text>
+					<Text>Trouvé près de la surface, le minerai de cuivre peut être fondu en Lingots de Cuivre à l'aide de la Fonderie. Les Lingots de Cuivre sont largement utilisées dans une large gamme de machines à composants électriques.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Spacer/>
-				<Header><Text>Short Facts</Text></Header>
+				<Header><Text>En Bref</Text></Header>
 				<TwoColumnParagraph>
 					<Left>Occurrence:
-					Ping Color:
-					1st Stage of Extraction:
-					2nd Stage of Extraction:				
+					Couleur Ping:
+					1ère Etape de l'Extraction:
+					2ème Etape de l'Extraction:				
 					
-					1st Stage of Smelting:
-					2nd Stage of Smelting:</Left>
+					1ère Etape de Fonte:
+					2ème Etape de Fonte:</Left>
 					<Right>-5 to -850m
-					Very Green
-					Build Gun MK1
-					Ore Extractor
+					Très Vert
+					Fusil Constructeur MK1
+					Extracteur de Minerai
 					
-					Ore Smelter
-					Blast Furnace setup</Right>
+					Fonderie
+					Config Haut Fourneau</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

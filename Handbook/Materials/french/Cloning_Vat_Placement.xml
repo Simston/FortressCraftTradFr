@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cloning Vat</Text>
+					<Text>Cuve de Clonage</Text>
 				</Title>
 				<Icon>
 					<Name>Cloning_Vat</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Your CPH is equipped with a default cloning fail-safe. If for some reason you should, you know... die... then your CPH is capable of reconstructing your body and (Depending on difficulty) some or all of your inventory.</Text>
+					<Text>Votre HAC est équipé d’un système de clonage par défaut à sécurité intégrée. Si, pour une raison quelconque, vous ... mourez ... alors votre HAC est capable de reconstruire votre corps et (en fonction de la difficulté) tout ou partie de votre inventaire.</Text>
 				</Paragraph>
          <Paragraph>
-					<Text>After building your Cloning Vat in a stack, 3 blocks high, simply provide it with enough power to grow a new clone, then select it and press Interact (E). From then on if, or indeed when, you die, you&apos;ll spawn back at the same location. 
+					<Text>Après avoir construit votre Cuve de Clonage dans un emplacement de hauteur 3 blocs, donnez-lui simplement assez d'énergie pour créer un nouveau clone, puis sélectionnez-le et appuyez sur Intéraction (E). À partir de ce moment-là, même si vous mourrez, votre apparition s'éffectura au même endroit.
           
-This location is also used as the default spawn location for new players on multiplayer servers.</Text>
+Cet emplacement est également utilisé comme emplacement de spawn par défaut pour les nouveaux joueurs sur les serveurs multijoueurs.</Text>
 				</Paragraph>
         <Paragraph>
-					<Text>Clones will spawn with low health, so to this end, you may wish to spawn next to the Medical Bay.</Text>
+					<Text>Les clones apparaîtront avec une santé basse, alors une station MedBay(Médicale) serait souhaitable.</Text>
 				</Paragraph>
        
 	      <Link>

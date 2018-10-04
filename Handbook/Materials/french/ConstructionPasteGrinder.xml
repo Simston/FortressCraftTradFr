@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Construction Paste Grinder</Text>
+					<Text>Broyeur de Pâte de Construction</Text>
 				</Title>
 				<Icon>
 					<Name>ConstructionPasteGrinder</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The construction paste grinder utilizes a primitive version of the suits inorganic re-assemblers to create construction paste from useless materials like the various rock and soil types found on this new planet. The machine itself is able to be assembled by using the minerals found in the planet&#39;s topsoil. The low cost of manufacturing this machine and its nonexistent power requirements make it possible to run several in parallel. Setting up a garbage thief in a frequented hallway attached to multiple of these machines is a good way to get a large amount of construction paste early in the game.</Text>
+					<Text>Le broyeur de pâte de construction utilise une version primitive des réassembleurs inorganiques de combinaisons pour créer une pâte de construction à partir de matériaux inutiles tels que divers types de roches et de sols trouvés sur cette nouvelle planète. La machine elle-même peut être assemblée en utilisant les minéraux trouvés dans la terre arable de la planète. Le faible coût de fabrication de cette machine et ses besoins en énergie inexistants permettent de faire fonctionner plusieurs machines en parallèle. Mettre en place un voleur de déchets(Garbage Thief) dans un couloir fréquenté relié à plusieurs de ces machines est un bon moyen d'obtenir une grande quantité de pâte de construction au début du jeu.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Construction Paste</Material>
 					</Target>
-					<Text>Construction Paste</Text>
+					<Text>Pâte de Construction</Text>
 				</Link>
 				
 			</Paragraphs>

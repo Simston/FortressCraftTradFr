@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Construction Paste</Text>
+					<Text>Pâte de Construction</Text>
 				</Title>
 				<Icon>
 					<Name>Construction Paste</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Construction Paste is a material made by reconfiguring the suits inorganic re-assemblers. The suits inorganic re-assemblers are used to automatically patch critically damaged sections of the suit to avoid rapid decompression in the vacuum of space. By studying these systems the substance that is normally used in these repair process has been fused with microbes found in this planets stone. The new substance has been christened Construction Paste as it can be used to make various decorative and reinforced blocks. A system has been designed that should be able to mimic the suit’s inorganic re-assemblers for the express purpose of making this new substance. Carrying this paste seems to also provide the benefit of increasing available inventory space.</Text>
+					<Text>La Pâte de Construction est un matériau fabriqué en reconfigurant les combinaisons de ré-assembleurs inorganiques. Les combinaisons ré-assembleurs inorganiques sont utilisées pour réparer automatiquement les sections gravement endommagées de la combinaison afin d'éviter une décompression rapide dans le vide de l'espace. En étudiant ces systèmes, la substance normalement utilisée dans ce processus de réparation a été fusionnée avec des microbes trouvés dans la roche de cette planète. La nouvelle substance a été baptisée Colle de Constrz car elle peut être utilisée pour fabriquer divers blocs décoratifs et renforcés. Un système a été conçu pour pouvoir imiter les réassembleurs inorganiques de la combinaison dans le seul but de fabriquer cette nouvelle substance. Le port de cette pâte semble également offrir l’avantage d’augmenter l’espace disponible de l'inventaire.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Construction Paste Grinder</Material>
 					</Target>
-					<Text>Construction Paste Grinder</Text>
+					<Text>Broyeur de Pâte de Construction</Text>
 				</Link>
 				
 			</Paragraphs>

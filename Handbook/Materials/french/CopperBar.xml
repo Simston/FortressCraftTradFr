@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Bar</Text>
+					<Text>Lingot de Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Copper Bars are generally used in a wide range of machines with electrical components. They are crafted from Copper Ore, which can be found near the surface.</Text>
+					<Text>Les Lingots de Cuivre sont utilisés dans une large gamme de machines avec des composants électriques. Ils sont fabriqués à partir de minerai de cuivre, qui peut être trouvé près de la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

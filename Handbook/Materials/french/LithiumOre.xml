@@ -16,15 +16,15 @@
 				
 				<Spacer/>
 				<Spacer/>
-				<Header><Text>Short Facts</Text></Header>
+				<Header><Text>En Bref</Text></Header>
 				<TwoColumnParagraph>
 					<Left>Occurrence:
-					Ping Color:
-					1st Stage of Extraction:
-					2nd Stage of Extraction:
+					Couleur Ping:
+					1ère Etape de l'Extraction:
+					2ème Etape de l'Extraction:
 					
-					1st Stage of Smelting:
-					2nd Stage of Smelting:</Left>
+					1ère Etape de Fonte:
+					2ème Etape de Fonte:</Left>
 					<Right>-120 to -850m
 					Grey with Teal
 					Build Gun MK1

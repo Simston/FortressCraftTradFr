@@ -4,27 +4,27 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Coal</Text>
+					<Text>Charbon</Text>
 				</Title>
 				<Icon>
 					<Name>Coal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>An energy dense material which can be burnt in the Central Power Hub and Pyrothermic Generator.</Text>
+					<Text>Un matériau dense en énergie qui peut être brûlé dans le HAC et dans les Générateurs Pyrothermique.</Text>
 				</Paragraph>
 				
 				<Spacer/>
-				<Header><Text>Short Facts</Text></Header>
+				<Header><Text>En Bref</Text></Header>
 				<TwoColumnParagraph>
 					<Left>Occurrence:
-					Ping Color:
-					1st Stage of Extraction:
-					2nd Stage of Extraction:</Left>
+					Couleur Ping:
+					1ère Etape de l'Extraction:
+					2ème Etape de l'Extraction:</Left>
 					<Right>65 to -250m
 					Pink-Purple
-					Build Gun MK1
-					Ore Extractor</Right>
+					Fusil Constructeur MK1
+					Extracteur de Minerai</Right>
 				</TwoColumnParagraph>
 				
 			</Paragraphs>

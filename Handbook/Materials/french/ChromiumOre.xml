@@ -4,43 +4,43 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Chromuim Ore</Text>
+					<Text>Minerai de Chrome</Text>
 				</Title>
 				<Icon>
 					<Name>Chromium Ore</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Chromium Ore is found below the Toxic Caverns. As you go deeper the richness of the veins will increase. It can be mined by the Build Gun MK3, the Hard Rock Grinder and Trencher Extractors.</Text>
+					<Text>Minerai de Chrome se trouve sous les Cavernes Toxiques. Au fur et à mesure que vous avancez, la richesse des veines augmentera. Il peut être exploité par le Fusil Constructeur MK3, la Broyeuse de Roche Dure et le Fôreuse à Tranchant.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The first stages of Ore smelting can be done with standard Ore Smelters. Chromium Ore requires the "Arc Smelter" upgrade to be processed by Ore Smelters as it requires higher melting temperatures than normal. Later, when throughput is valued over efficiency, a Blast Furnace setup is strongly recommended.</Text>
+					<Text>Les premières étapes de la Fonte du Minerai peuvent être réalisées avec des Fonderies de minerai standard. Le minerai de chrome nécessite l'amélioration "Fonderie ARC" car il nécessite des températures de fusion plus élevées que la normale. Plus tard, lorsque le débit sera supérieur à l'efficacité, une configuration de Haut Fourneau est fortement recommandée.</Text>
 				</Paragraph>
 				</Paragraphs>
 		</Page>
 		<Page>
 		<Paragraphs>
 		
-				<Header><Text>Short Facts</Text></Header>
+				<Header><Text>En Bref</Text></Header>
 				<TwoColumnParagraph>
 					<Left>Occurrence:
-					Ping Color:
-					1st Stage of Extraction:
-					2nd Stage of Extraction:
-					3rd Stage of Extraction:
+					Couleur Ping:
+					1ère Etape de l'Extraction:
+					2ème Etape de l'Extraction:
+					3ème Etape de l'Extraction:
 					
-					1st Stage of Smelting:
+					1ère Etape de Fonte:
 					
-					2nd Stage of Smelting:</Left>
+					2ème Etape de Fonte:</Left>
 					<Right>-700 to -2500m
 					Magenta
-					Build Gun MK3
-					Hard rock grinder
-					Trencher Extractor MK1-MK3
+					Fusil Constructeur MK3
+					Broyeur de Roche Dure
+					Fôreuse à Tranchant MK1-MK3
 					
-					Ore Smelter with "Arc Smelter" upgrade
-					Blast Furnace setup</Right>
+					Fonderie avec amélioration "Arc"
+					Configuration Haut Fourneau</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

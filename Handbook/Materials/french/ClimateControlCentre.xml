@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Climate Control Centre</Text>
+					<Text>Centre de Contrôle Climat</Text>
 				</Title>
 				<Icon>
 					<Name>Climate Control Centre</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Starts heating up the Cold Caverns to make them habitable for human life and allows many high tech machines to function inside. May also cause the awakening of something less desirable. Will start working once most of its internal buffer has been filled. Depends on the CPH for some key function and will stop functioning if it is destroyed.</Text>
+					<Text>Commence à chauffer les cavernes froides pour les rendre habitables à la vie humaine et permet à de nombreuses machines de haute technologie de fonctionner à l'intérieur. Peut aussi provoquer l'éveil de quelque chose de moins souhaitable. Commencera à fonctionner une fois que la majeure partie de sa mémoire tampon interne aura été remplie. Dépend du HAC pour certaines fonctions clés et cessera de fonctionner s'il est détruit.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>Should be built in a 5x7x5.</Text>
+					<Text>Doit être consruit dans un 5x7x5.</Text>
 				</Paragraph>
 
 				<Header>

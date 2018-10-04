@@ -4,26 +4,26 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Conveyor Turntable</Text>
+					<Text>Convoyeur à Plateau Tournant</Text>
 				</Title>
 				<Icon>
 					<Name>Conveyor Turntable</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
         <Paragraph>
-          <Text>The Conveyor Turntable can be used to split one conveyor line into two or three others equally distributing the items between each line. To ensure material flows correctly avoid placing turntables directly adjacent to Storage Hoppers or other turntables.</Text>
+          <Text>Le Convoyeur à Plateau Tournant peut être utilisé pour diviser une ligne de convoyeur en deux ou trois autres répartissant les articles de manière égale entre chaque ligne. Pour garantir le bon déroulement des flux de matériel, évitez de placer des plaques tournantes en contact direct des trémies de stockage ou d’autres plaques tournantes.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The Turntable will split things evenly as long as the incoming items are more often than once per 15 secondes. It will also deal with blocked inputs and move on to the next output.</Text>
+          <Text>La Plateau Tournant divisera les objets de manière égale tant que les éléments entrants passent au moins 1 fois toutes les 15 secondes. Il traitera également les entrées bloquées et passera à la sortie suivante.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The Turntable is capable of dealing with a fully-saturated Tube, and will not introduce any slowdown; if you feed 100 items a minute into it, and it has 4 free outputs, it will deliver 25/min to each one.</Text>
+          <Text>La Plateau Tournant est capable de traiter avec un Tube complètement saturé, et n'introduira aucun ralentissement; si vous alimentez 100 éléments par minute et qu’il dispose de 4 sorties libres, il délivrera 25/min à chaque parties.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Hint : You can feed the Turntable from below!</Text>
+          <Text>Astuce: vous pouvez alimenter le plateau tournant par le bas!</Text>
         </Paragraph>
 				
 			</Paragraphs>

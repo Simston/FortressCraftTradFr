@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Conveyor Belt Filter</Text>
+					<Text>Convoyeur Filtrant</Text>
 				</Title>
 				<Icon>
 					<Name>Conveyor Belt Filter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Use of a Conveyor Belt Filter allows you to have more accurate control over the distribution of resources in a conveyor network. This type of filter is used to control the material ejected from hoppers in a conveyor network. You can set a Filter to remove GARBAGE, ORE, ORGANIC, GEMS, COAL, BIOMASS, SMELTABLE, COMBUSTIBLE, CRAFTED ITEMS, CRYSTAL and BARS ONLY.  </Text>
+					<Text>L'utilisation d'Convoyeur Filtrant vous permet de contrôler plus précisément la distribution des ressources dans un réseau de convoyeurs. Ce type de filtre est utilisé pour contrôler le matériel éjecté des trémies dans un réseau de convoyeurs. Vous pouvez définir un filtre pour supprimer les déchets, les minerais, les produits organiques, les gemmes, le charbon, la biomasse, les matières fondues, les objets combustibles, les articles artificiels, le cristal et les lingots seulement.  </Text>
 				</Paragraph>
 				
 			</Paragraphs>

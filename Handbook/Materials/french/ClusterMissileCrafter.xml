@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cluster Missile Crafter</Text>
+					<Text>Assembleur de Missile à Fragmentation</Text>
 				</Title>
 				<Icon>
 					<Name>ClusterMissileCrafter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Turns a single Imbued Missile into 8 rapid-fire missiles, each doing 1/4 of the original damage, for a total of double the damage.</Text>
+					<Text>Transforme un simple Missile Imprégné en 8 missiles à tir rapide, chacun infligeant 1/4 des dégâts d'origine, pour un total du double des dégâts.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 1 Plasma-Imbued Missile to start the refitting process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins 1 missile imbibé de plasma pour démarrer le processus d'assemblage.</Text>
 				</Paragraph>
 
 				<Header>

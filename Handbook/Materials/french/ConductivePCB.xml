@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Conductive PCB</Text>
+					<Text>PCB Conducteur</Text>
 				</Title>
 				<Icon>
 					<Name>Conductive PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A gold based PCB created from gold coils in a PCB Assembling Plant.</Text>
+					<Text>Un PCB à base d'Or créé à partir de Bobines d'Or dans une Usine d'Assemblage de PCB.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

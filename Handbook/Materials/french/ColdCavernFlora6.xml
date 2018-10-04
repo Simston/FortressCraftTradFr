@@ -4,19 +4,19 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cold Cavern Flora 6</Text>
+					<Text>Flore de Caverne Gelée 6</Text>
 				</Title>
 				<Icon>
 					<Name>Cold Cavern Flora 6</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This incredible plant can survive the extreme conditions in the cold cavern.</Text>
+					<Text>Cette plante incroyable peut survivre aux conditions extrêmes des cavernes gelées.</Text>
 				</Paragraph>
 		
 				<Spacer/>
 				<Paragraph>
-					<Text>This plant can be burned for power.</Text>
+					<Text>Cette plante peut être brûlée pour créer de l'énergie.</Text>
 				</Paragraph>
 		
 			</Paragraphs>

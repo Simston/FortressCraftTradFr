@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Copper Housing</Text>
+					<Text>Boîtier en Cuivre</Text>
 				</Title>
 				<Icon>
 					<Name>Copper Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple copper housing created from copper plates.</Text>
+					<Text>Un simple Boîtier en Cuivre créé à partir de plaques de cuivre.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
