@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Central Processing Hub</Text>
+					<Text>Hub Alimentation Centrale</Text>
 				</Title>
 				<Icon>
 					<Name>Central Power Hub</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Central Processing Hub (CPH) is the most important machine in your base. It is too advanced to replicate and you cannot survive on this world without it so you must protect it at all costs.</Text>
+					<Text>Le Hub Alimentation Centrale (HAC) est la machine la plus importante de votre base. Trop avancé pour être répliqué et vous ne pouvez pas survivre sur ce monde sans lui, vous devez donc le protéger à tout prix.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Energy Production</Text>
+					<Text>Production d'Energie</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>The CPH contains a large internal battery which can store energy collected by its solar panels and from the small fossil fuel generator inside. There is only enough space for a single unit of fuel at a time so you should look to automate fuel delivery using a storage hopper or mini hopper as soon as possible.</Text>
+					<Text>Le HAC contient une grande batterie interne capable de stocker l'énergie récupérée par ses panneaux solaires et par le petit générateur de combustible fossile situé à l'intérieur. L'espace disponible est d'une seule unité de carburant distribué à la fois. Par conséquent, vous devriez automatiser la distribution de carburant à l'aide d'une trémie de stockage ou d'une mini-trémie dès que possible.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The CPH will automatically push energy out to surrounding machines which need it. You can also insert or extract energy from it directly by interacting with it (default &#39;E&#39;). This control panel also allows you to insert fuel into the generator.</Text>
+					<Text>Le HAC enverra automatiquement de l'énergie aux machines environnantes qui en ont besoin. Vous pouvez également insérer ou extraire de l'énergie directement en interagissant avec celle-ci (défaut &#39;E&#39;).Ce panneau de contrôle vous permet également d’insérer du carburant dans le générateur.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -30,16 +30,16 @@
 		<Page>
 			<Paragraphs>				
 				<Header>
-					<Text>Orbital Laser</Text>
+					<Text>Laser Orbital</Text>
 				</Header>
 				<Paragraph>
-					<Text>The laser beam fired from the top of the CPH can be used as a handy beacon for finding your base, however be careful not to place any blocks near it or they risk being destroyed.</Text>
+					<Text>Le faisceau laser émis depuis le haut du HAC peut être utilisé comme balise pour retrouver votre base. Toutefois, veillez à ne pas placer de blocs à proximité de celui-ci, car ils risquent d'être détruits..</Text>
 				</Paragraph>
 			<Header>
-					<Text>Computer Systems</Text>
+					<Text>Systèmes Informatiques</Text>
 				</Header>
 				<Paragraph>
-					<Text>The CPH contains most of the computer systems which coordinate your base, the control signals can be sent wirelessly, encoded in power and matter transmission beams, and along conveyor lines. The wireless connection is boosted by your suit, however if you find isolated, distant machines are shutting down when you are away consider running a basic laser power transmission line.</Text>
+					<Text>Le HAC contient la plupart des systèmes informatiques qui coordonnent votre base. Les signaux de commande peuvent être envoyés sans fil, encodés dans des faisceaux de transmission de puissance et de matière, ainsi que le long de lignes de convoyage. Votre combinaison renforce la connexion sans fil. Toutefois, si vous trouvez des machines isolées et distantes qui s’arrêtent en votre absence, envisagez de faire fonctionner une ligne de Laser Transmetteur d&apos;Énergie Basique.</Text>
 				</Paragraph>
 	
 			</Paragraphs>

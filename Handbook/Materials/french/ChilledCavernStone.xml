@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Chilled Cavern Stone</Text>
+					<Text>Pierre de Caverne Glacée</Text>
 				</Title>
 				<Icon>
 					<Name>Cold Cavern Flora 1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Main block type between around -215 and -270 meters deep. The block causes no cold itself, although the caverns in which you find them are very cold. Can be crushed in macerator to occasionally extract useful ore. The block can be placed.</Text>
+					<Text>Type de bloc principal entre -215 et -270 mètres de profondeur. Le bloc ne produit pas de froid, même si les cavernes dans lesquelles vous les trouvez sont très froides. Peut être broyé dans un macérateur pour extraire occasionnellement du minerai utile. Le bloc peut être placé.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

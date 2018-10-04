@@ -4,16 +4,16 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Chromium Bars</Text>
+					<Text>Lingot de Chrome</Text>
 				</Title>
 				<Icon>
 					<Name>Chromium Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Chromium bars are used in cold resistant machinery.
-					Required in large amounts for all kinds of cold cavern machinery.
-					They are crafted from Chrome Ore, found at least 700m below the surface. </Text>
+					<Text>Les Lingots de Chrome sont utilisées dans les machines résistant au froid.
+					Requis en grande quantité pour toutes sortes de machines dans les cavernes froide.
+					Ils sont fabriqués à partir de minerai de chrome, trouvé à au moins 700m sous la surface. </Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

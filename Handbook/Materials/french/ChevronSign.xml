@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Chevron Sign</Text>
+					<Text>Signe Chevron</Text>
 				</Title>
 				<Icon>
 					<Name>Chevron Sign</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Red and white arrow-marked block which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+					<Text>Bloc fléché rouge et blanc pouvant être usiné n'importe où sans faire appel aux services de l'usine de fabrication. Ouvrez l'interface d'artisanat (par défaut &#39;C&#39;) pour les fabriquer.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Chromed Machine Block Assembler</Text>
+					<Text>Assembleur Bloc Machine Chromé</Text>
 				</Title>
 				<Icon>
 					<Name>ChromedMachineBlockAssembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses multiple Chrome Bars to plate Imbued Machine Blocks in chrome.</Text>
+					<Text>Utilise plusieurs Lingots de Chrome pour plaquer et imprégnés des Blocs Machine en Chrome.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Imbued Machine Block and 8 Chromium Bars to start the plating process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins 1 bloc de machine imprégnée et 8 barres de chrome pour démarrer le processus de placage.</Text>
 				</Paragraph>
 
 				<Header>

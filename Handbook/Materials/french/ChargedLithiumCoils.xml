@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Charged Lithium Coils</Text>
+					<Text>Bobines de Lithium Chargées</Text>
 				</Title>
 				<Icon>
 					<Name>Charged Lithium Coils</Name>
  					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Charged Lithium Coils are made by using the Lithium Coil Charger and charging 5x Lithium Coils. They are used by many energy handling machines. </Text>
+					<Text>Les Bobines de Lithium Chargées sont fabriquées en utilisant le Chargeur de Bobines de Lithium et en chargeant 5 Bobines de Lithium. Ils sont utilisés par de nombreuses machines de traitement de l'énergie. </Text>
 				</Paragraph>
 							</Paragraphs>
 		</Page>

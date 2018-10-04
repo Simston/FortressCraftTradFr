@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Charged PCB</Text>
+					<Text>PCB Chargé</Text>
 				</Title>
 				<Icon>
 					<Name>Charged PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A lithium based PCB created from lithium coils in a PCB Assembling Plant.</Text>
+					<Text>Un PCB à base de lithium créé à partir de bobines de lithium dans une Usine d'Assemblage de PCB.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

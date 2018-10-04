@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Casting Basin component</Text>
+					<Text>Composant Bassin de Coulée</Text>
 				</Title>
 				<Icon>
 					<Name>Casting Basin component</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The other half of the means to efficiently smelt Chromium and Molybdenum. Requires pipes connected to a Blast Furnace for liquid metals. Can be connected to up to 4 Blast furnaces at a time. Requires no power to function. Must be built in a 5x3x5.</Text>
+					<Text>Permet de fondre efficacement le Chrome et le Molybdène. Nécessite des tuyaux connectés à un Haut Fourneau pour les métaux liquides. Peut être connecté à 4 hauts fourneaux à la fois. Ne nécessite aucune énergie pour fonctionner. Doit être construit dans un 5x3x5.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Whilst this technically will work anywhere, for maximum efficiency, it should be placed in as cold an area as possible. A cooled room will not suffice.</Text>
+          <Text>Bien que cela fonctionne techniquement n'importe où, pour une efficacité maximale, il convient de le placer dans une zone aussi froide que possible. Une Chambre Froide ne suffira pas.</Text>
         </Paragraph>
 
         <Header>

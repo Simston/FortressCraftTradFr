@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Casting Pipe (Straight)</Text>
+					<Text>Tuyau De Coulée (Droit)</Text>
 				</Title>
 				<Icon>
 					<Name>Straight Casting Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Allows molten metal to flow from Blast Furnace to Continuous Casting Basin</Text>
+					<Text>Permet au métal en fusion de s'écouler du Haut Fourneau au Bassin de Coulée continue.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

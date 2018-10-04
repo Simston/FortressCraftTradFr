@@ -1433,9 +1433,9 @@
   <string name="Trencher Motor component_DESC">Forme le moteur d&apos;une Foreuse. Construire en configuration 3*3*3 à l&apos;arrière d&apos;une Tête de Coupe. (27 au total)</string>
   <string name="Blast Furnace component">Composant Haut Fourneau</string>
   <string name="Blast Furnace component_DESC">Forme un haut fourneau. Construire dans une configuration 3x7x3. (63 au total)</string>
-  <string name="Casting Basin component">Composant Cuve Fonderie</string>
+  <string name="Casting Basin component">Composant Bassin de Coulée</string>
   <string name="Casting Basin component_DESC">Forme un Bassin de Coulée Continue. Construire dans une configuration 5x3x5. (75 au total)</string>
-  <string name="Cargo Lift Controller">Contrôleur Ascenseur de Fret</string>
+  <string name="Cargo Lift Controller">Contrôleur Ascenseur de Cargaison</string>
   <string name="Cargo Lift Controller_DESC">Déploie les rails et permet à un ascenseur de fret de fonctionner. Construire dans une configuration 3x1x3</string>
   <string name="Spiderbot Base Component">Composant Base SpiderBot</string>
   <string name="Spiderbot Base Component_DESC">Permet les mises à niveau et la recharge des armes et objets SpiderBot. Construire dans une configuration 15x1x15.</string>
@@ -2245,7 +2245,7 @@
   <string name="Blast Furnace component_CRAFT_HINT">Utilisez des Tuyaux pour connecter ceci.</string>
   <string name="Casting Pipe (Straight)_CRAFT_DESC">Utilisez ceci pour connecter vos Hauts Fourneaux à votre Bassin de Coulée Continue.</string>
   <string name="Casting Pipe (Straight)_CRAFT_HINT">Utilisez des Tuyaux pour connecter ceci.</string>
-  <string name="Casting Pipe (Bend)_CRAFT_DESC">Utilisez ceci pour connecter vos Hauts Fourneaux à votre Bassin de Coulée Continue.</string>
+  <string name="Casting Pipe (Bend)_CRAFT_DESC">Utilisez pour connecter vos Hauts Fourneaux à votre Bassin de Coulée Continue.</string>
   <string name="Casting Pipe (Bend)_CRAFT_HINT">Utilisez des Tuyaux pour connecter ceci.</string>
   <string name="Mesh Weaver_CRAFT_DESC">Maille de Fibre de Cristal</string>
   <string name="Mesh Weaver_CRAFT_HINT">No hint.</string>
@@ -2682,7 +2682,7 @@
   <string name ="Skin_ViewGameInStore">VOIR LE JEU EN MAGASIN</string>
   <string name ="Skin_ViewInfo">VOIR INFORMATION</string>
   <!--Matter Mover-->
-  <string name ="Matter_Mover">Déplaceur à Matière</string>
+  <string name ="Matter_Mover">Déplaceur de Matière</string>
   <string name ="Dual_Matter_Mover">Dual Déplaceur à Matière</string>
   <string name ="Quad_Matter_Mover">Quad Déplaceur à Matière</string>
   <string name ="Multi_Matter_Mover">Multi-Déplaceur à Matière</string>

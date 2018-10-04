@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Improved Cargo Lift</Text>
+					<Text>Ascenseur de Cargaison Amélioré</Text>
 				</Title>
 				<Icon>
 					<Name>Improved Cargo Lift</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The second available Cargo Lift is much faster and much larger than the Basic one. This is ideal for en-masse delivery of deeper materials such as Nickel, Crystal and Biomass.</Text>
+					<Text>Le deuxième Ascenseur disponible beaucoup plus rapide et beaucoup plus grand que celui de base. C'est idéal pour la livraison en masse de matériaux plus profonds tels que le nickel, le cristal et la biomasse.</Text>
 					<Text>If you&apos;re in Rapid Game Mode, the Improved Cargo Lift will Carry double the Cargo</Text>
 				</Paragraph>
 
@@ -24,12 +24,12 @@
 					Vitesse Maximale:
 					Accélération:
 					Capacité Maximale:
-					Power Usage (Travelling):
+					Utilisation Energie (Voyage):
 					</Left>
 					<Right>Illimité
-					10 mètres/sec (20 on rapid)
+					10 mètres/sec (20 en Rapide)
 					0.5 mètres/sec/sec
-					1000 (2000 on Rapid)
+					1000 (2000 en Rapide)
 					250 EPS
 					</Right>
 				</TwoColumnParagraph>
