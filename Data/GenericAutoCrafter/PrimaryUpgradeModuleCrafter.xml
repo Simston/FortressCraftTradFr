@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Primary Upgrade Module Crafter</FriendlyName>
+	<SpawnObject>PrimaryUpgradeModuleCrafter</SpawnObject>
+	<Value>PrimaryUpgradeModuleMaker</Value>
+			
+  <!-- Do I want power? -->
+	<PowerUsePerSecond>5</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>50</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>10</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <Key>PrimaryUpgradeModule_Unused_Irrelevant_stupid</Key>
+    <CraftedKey>PrimaryUpgradeModule</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>PrimaryPCB</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Assembles a number of simple Tin circuit boards into a more complex upgrade module, used to upgrade lower tiers of machines to more advanced ones.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

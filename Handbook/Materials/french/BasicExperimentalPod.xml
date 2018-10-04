@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Capsule Expérimentale Basique</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Basic</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Capsules Expérimentale Basique sont utilisés dans un laboratoire pour mener des expériences et compléter des projets de recherche. Ces Capsules sont fabriqués à partir de cuivre. Pour plus d'informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Recherche en Laboratoire</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour plus d'informations sur la création des Capsules Expérimentales, veuillez lire le guide suivant.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Capsules Expérimentales</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

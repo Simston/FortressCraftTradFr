@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AirLock_Inner_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SAS Intérieur</Text>
+				</Title>
+				<Icon>
+					<Name>AirLock_Inner_Placement</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Connecte les Salles aux SAS</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

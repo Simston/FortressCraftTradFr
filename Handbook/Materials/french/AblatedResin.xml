@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AblatedResin</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Résine Ablatée</Text>
+				</Title>
+				<Icon>
+					<Name>Ablated Resin</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La couche(Le revêtement) extérieure dure a été ablatée(enlevée); nous devrions maintenant pouvoir liquéfier le cœur intérieur doux.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

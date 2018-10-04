@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>AdvancedMachineBlockAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Assembleur de Blocs Machine Avancé</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Machine Block Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Crée des composants de machine robustes à partir de Lingots d&apos;Acier de qualité inférieure et d&apos;Horloges en Cristal.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Cette machine nécessite des Trémies contenant au moins 2 Lingots d&apos;Acier de qualité inférieure et des Horloges en Cristal pour commencer le processus d&apos;assemblage.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de fabrication:
+					Energie requise:
+					Capacité Energie:
+					Max. Taux Recharge Energie:</Left>
+					<Right>8 secondes
+					15 par seconde
+					500
+					100 par seconde</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

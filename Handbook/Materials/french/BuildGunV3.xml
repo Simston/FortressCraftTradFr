@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>BuildGunV3</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fusil Constructeur V3</Text>
+				</Title>
+				<Icon>
+					<Name>Build Gun V3</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fusil Constructeur V3 est une nouvelle mise à niveau du Fusil Constructeur déjà mis à niveau. Cette amélioration fournit un refroidissement approprié pour faciliter les activations rapides et continues de la fonction de grappin. Parallèlement à l’augmentation de la capacité de refroidissement, le Fusil Constructeur V3 permet la destruction de matériaux plus durs et le désassemblage de machines plus sophistiquées. Seule l'une de ces mises à niveau est nécessaire pour améliorer la fonctionnalité de l'outil.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>SuitBuildModuleMK1</Material>
+					</Target>
+					<Text>Fusil Constructeur V1</Text>
+				</Link>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Build Gun V2</Material>
+					</Target>
+					<Text>Fusil Constructeur V2</Text>
+				</Link>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

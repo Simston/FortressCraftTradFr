@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Key>ARTHERTurret</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Tourelle ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Turret</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Tourelle économe en énergie et longue portée avec elle doit être exploitée par ARTHER. Pour l’utiliser, mettez la tourelle en surbrillance et appuyez sur la touche d'interaction  (défaut &#39;E&#39;) pour dock ARTHER à la tourelle.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>La tourelle peut être alimentée en externe ou en utilisant les réserves d'énergie d’ARTHER. Si la tourelle est alimentée de manière externe, ARTHER recevra une charge suffisante pour y rester indéfiniment. Si ARTHER manque de puissance, il se retire de la tourelle et revient à l'utilisateur.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Portée:
+					Dégâts Par Tir:
+					Enérgie Par Tir:
+					Max. Capacité d'Energie:
+					Temps de Recharge:
+					Équipage:</Left>
+					<Right>64m
+					33
+					5
+					150
+					10 secondes
+					1 (ARTHER)</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

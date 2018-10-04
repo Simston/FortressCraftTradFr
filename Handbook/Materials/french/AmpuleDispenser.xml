@@ -1,0 +1,31 @@
+<MaterialEntry>
+	<Key>Ampule_Dispenser</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Distributeur d&apos;Ampoules</Text>
+				</Title>
+				<Icon>
+					<Name>Ampule Dispenser</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Doit être placé au-dessus du Fabricateur d&apos;Ampoule, dans une Salle. Les ampoules seront alors automatiquement chargées et améliorées à partir du Fabricateur d&apos;Ampoule. </Text>
+				</Paragraph>
+        <Spacer/>
+        <Icon>
+          <Name>Ampule Crafter</Name>
+          <Target>
+            <Material>Ampule_Crafter</Material>
+          </Target>
+        </Icon>
+        <Paragraph>
+          <Text>Le Fabricateur d&apos;Ampoule doit être placée dans une Salle.</Text>
+        </Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

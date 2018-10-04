@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Servomotor Maker</FriendlyName>
+	<SpawnObject>ServoMotorMaker</SpawnObject>
+	<Value>ServoMotorMaker</Value><!-- 152 -->
+<!-- This is CURRENTLY a direct port of the existing Servo Motor maker, but will change to take Solenoids and Gearboxes -->			
+	<PowerUsePerSecond>0</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>0</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>0</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <CraftedKey>ServoMotor</CraftedKey>
+		<CraftedName>Servo Motor</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperWire</Key>
+				<Amount>1</Amount>
+			</CraftCost>
+			</Costs>
+		<Description>Fashions 3 Copper Wires into super-useful Servo Motors.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

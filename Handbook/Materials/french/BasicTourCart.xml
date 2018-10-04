@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicTourCart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Chariot de Voyage Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Minecart_T10</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Chariot de Voyage Basique sert à voyager entre les Stations de Voyage.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Vitesse Max:
+					Stockage Max:
+					Accélération:
+					</Left>
+					<Right>2m/s
+					0
+					1.0m/s/s</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Tour Cart Station</Material>
+					</Target>
+					<Text>Station Chariot de Voyage</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>

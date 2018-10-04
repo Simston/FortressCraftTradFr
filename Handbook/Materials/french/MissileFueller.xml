@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>MissileFueller</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Missile Fueller</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Fueller</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Fuels up missiles with High Energy Composite Fuel to make it ready for use.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires hoppers holding at least 1 High Energy Composite Fuel and Empty Missile to start the fuelling process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de Fabrication:
+					Energie Requise:
+					Capacité Energie:
+					Max. Taux de Recharge:</Left>
+					<Right>15 secondes
+					8 par seconde
+					128
+					100 par seconde</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

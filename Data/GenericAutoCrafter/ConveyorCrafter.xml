@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Conveyor Crafter</FriendlyName>
+  <SpawnObject>ConveyorCrafter</SpawnObject>
+  <Value>ConveyorCrafter</Value>   <!-- 155 -->
+
+  <PowerUsePerSecond>0</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>0</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>0</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+  <AnimScalar>3</AnimScalar>
+  
+  <CraftTime>9</CraftTime>
+  <!-- 3:1 Basics to Regular. THE MAGIC RATIO -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>RegularConveyorBelt</CraftedKey>
+    <CraftedName>Conveyor</CraftedName>
+    <!-- Is this used? It shouldn't be -->
+    <CraftedAmount>1</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>BasicConveyorBelt</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+      <CraftCost>
+        <Key>TinPlate</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+      <CraftCost>
+        <Key>CopperWire</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Automatically Upcrafts Basic Conveyor Belts into faster Conveyor Belts. Requires 3 inputs and 1 output. For maximum efficiency, use 3 Basic Conveyor Crafters to feed this - a 9:3 ratio is generally ideal.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

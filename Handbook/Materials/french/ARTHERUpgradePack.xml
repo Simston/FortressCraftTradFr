@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERUpgradePack</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Module d&apos;Amélioration ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Upgrade Pack</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Multi-pack Panneau Solaire, Noyau et Batterie. Utilisez-le pour économiser de l&apos;espace d&apos;inventaire. Un seul requis dans l'inventaire pour fonctionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

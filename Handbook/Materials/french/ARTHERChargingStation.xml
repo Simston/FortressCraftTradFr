@@ -1,0 +1,32 @@
+<MaterialEntry>
+	<Key>ARTHERChargingStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Station de Charge ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Charging Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Recharge rapidement ARTHER à partir du réseau énergétique de votre Base. Meilleur combiné avec l&apos;amélioration de Batterie ARTHER.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taux Recharge ARTHER:
+					Capacité Energie Station:
+					Taux Recharge Station:</Left>
+					<Right>25 par seconde
+					1500
+					10 par seconde</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,40 @@
+﻿<MaterialEntry>
+	<Key>AdvancedExperimentalPod</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Capsule Expérimentale Avancée</Text>
+				</Title>
+				<Icon>
+					<Name>ResearchPod_Advanced</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Capsules Expérimentales Avancées sont utilisés dans un Laboratoire pour expérimenter et compléter des projets de recherche, Ces capsules sont fabriqués à partir d&apos;Or. Pour plus d&apos;informations sur la recherche en Laboratoire voir le guide suivant.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Laboratory Research</Text>
+				</Link>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour plus d&apos;informations sur la création de Capsules Expérimentale lisez le guide suivant.</Text>
+				</Paragraph>
+				
+				<Link>
+					<Target>
+						<Chapter>experimental pods</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Experimental Pods</Text>
+				</Link>
+		
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>ArmourPiercingWarheadFitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Monteur d&apos;Ogive Perce-Armure</Text>
+				</Title>
+				<Icon>
+					<Name>Warhead Fitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliore les Missiles Imprégnés de Plasma en utilisant des Dards Parfaits pour aiguiser l&apos;ogive et durcir le missile. Augmente les dégâts de 6x.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Cette machine nécessite des trémies contenant au moins un Missile Imbibé de Plasma et un Dard parfait pour commencer le processus de montage.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de Fabrication:
+					Energie requise:
+					Capacité Energie:
+					Max. Taux Recharge Energie:</Left>
+					<Right>15 secondes
+					8 par seconde
+					128
+					100 par seconde</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

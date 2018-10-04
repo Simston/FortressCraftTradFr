@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>BasicOreSmelter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fonderie Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Ore Smelter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La fonderie convertira le minerai brut en lingots pouvant être utilisées dans l’usine de fabrication et ailleurs pour fabriquer de nouvelles machines et de nouveaux objets. La Fonderie Basique est deux fois plus rapide et utilise deux fois moins d'énergie qu'une fonderie classique, mais ne peut pas être améliorée avec des Modules d'Induction Forcée.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Au début, vous devrez alimenter la fonderie manuellement. Vous pouvez le faire en appuyant sur la touche &#39;Interaction&#39; (défaut &#39;E&#39;) ouvrir le panneau de contrôle de la Fonderie. Vous pouvez ensuite ajouter du minerai en appuyant sur la touche &#39;Ajouter Minerai&#39;, ou en faisant glisser un type spécifique de minerai dans la fonderie. Le panneau de contrôle indiquera combien de minerai est requis par lingot tant qu'il est vide.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une fois que la fonderie a suffisamment de minerai, elle commence à chauffer, cela nécessite de l'énergie provenant d'un bloc de stockage ou d'un générateur connecté. Quand il atteint la température correcte, il commence à fondre le minerai en lingots qui peuvent être collectées en cliquant sur la fente de sortie située au bas du panneau de commande.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>				
+				<Header>
+					<Text>Automatisation</Text>
+				</Header>
+			
+				<Paragraph>
+					<Text>La fonderie devrait être automatisée dès que possible avec l'ajout de trémies de stockage d'entrée et de sortie. La trémie d’entrée doit être réglé sur l'état E/S &#39;Retrait Seul&#39;. La trémie d'entrée doit être suffisamment grande pour contenir le minimum de minerai requis.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+					
+	</Pages>
+</MaterialEntry>
+

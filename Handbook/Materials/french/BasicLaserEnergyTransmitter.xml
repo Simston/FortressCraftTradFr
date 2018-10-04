@@ -1,0 +1,47 @@
+<MaterialEntry>
+	<Key>BasicLaserEnergyTransmitter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Laser Transmetteur d&apos;Énergie Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Laser Energy Transmitter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Dispositif de transmission d'énergie le plus économique et le plus rudimentaire, cet émetteur ne convient à aucune tâche et ne doit être utilisé que s’il est la seule option disponible.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>L'émetteur d'énergie laser basique peut transmettre suffisamment d'énergie pour faire fonctionner seulement deux extracteurs de minerai non améliorés. En raison de sa vitesse de transmission extraordinairement basse, il est conseillé de passer à une option de transmission plus avancée dès qu'elle est découverte.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour ouvrir le panneau de contrôles du LTE, appuyez sur &#39;Intéraction&#39; bouton (défaut &#39;E&#39;). Cela vous permet d'améliorer la lentille, ce qui stimulera le transfert de puissance. Vous pouvez également changer le mode de tir pour qu'il attende d'avoir la batterie pleine avant d'envoyer de l'énergie. Les LET ayant une faible capacité interne, envisagez de les compléter avec des blocs de stockage d'énergie pour assurer une alimentation fiable en énergie, car l'offre et la demande varient.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille Paquet Energie:
+					Taux Paquets Maximum:
+					Max. Taux Transfert Energie:
+					Capacité Energie:
+					Portée Maximale:</Left>
+					<Right>1.75
+					1 par seconde
+					0.9 par seconde
+					18
+					64m</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>ConstructoBot Herb Arm Assembler</FriendlyName>
+	<SpawnObject>ConstructoBot_Arm_Assembler_T8_Herb</SpawnObject>
+	<Value>ConstructoBotHerbArmAssembler</Value>
+			
+	<PowerUsePerSecond>50</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>15</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <Key>ConstructoBot_Arm_09</Key>
+    <CraftedName>ConstructoBot Herb Arm</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>BasicPCB</Key><!-- This has to be Name, as it's an item, not a material -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>A useful version of the ConstructoBot Arm, this allows the Bot to automatically harvest plants and carry the resulting plant to a hopper. This arm cannot offload from hoppers.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

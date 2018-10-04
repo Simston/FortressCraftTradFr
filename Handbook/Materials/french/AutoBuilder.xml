@@ -1,0 +1,47 @@
+<MaterialEntry>
+	<Key>AutoBuilder</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Constructeur Automatique</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Builder</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Peut construire des lignes de Convoyeur régulières dans n'importe quelle directions cardinales lorsqu'il est alimenté en Convoyeurs.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Trucs et Astuces!</Text>
+				</Header>
+				<Paragraph><Text>- Cette machine a besoin de assez d'énergie pour fonctionner à pleine vitesse!</Text>
+</Paragraph>
+				<Paragraph><Text>- Une Trémie de Stockage est nécessaire pour alimenter les blocs de convoyeur.</Text>
+</Paragraph>
+				<Paragraph><Text>- Ne pas utiliser d'autres blocs! Impossible de placer d'autres blocs!</Text>
+</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Capacité d'Energie:
+					Energie Par Bloc:
+					Max. Taux Transfert Energie:
+					</Left>
+					<Right>384
+					24 + distance
+					Illimité
+					</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

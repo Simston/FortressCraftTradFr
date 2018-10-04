@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AutoOrganicRemoverPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Voleur Organique Auto</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Organic Thief</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Enlève automatiquement les parties abimées de votre inventaire.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

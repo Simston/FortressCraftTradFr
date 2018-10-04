@@ -1,0 +1,41 @@
+<MaterialEntry>
+	<Key>MedBay_T1</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Basique MedBay</Text>
+				</Title>
+				<Icon>
+					<Name>Medbay</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Cette machine de guérison automatisée doit être placée dans une pièce. Une fois cela fait, elle nécessite une quantité minimale d'énergie, vous guérira continuellement tant que vous serez à portée. La guérison n'est pas aussi rapide qu'une ampoule de haut niveau, mais il est constant et ne nécessite pas de ressources.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Energie Requise:
+					Capacité Energie:
+					Max. Taux de Recharge:
+					Timer Heal Boost :
+					Montant Heal Boost:
+Portée:
+					</Left>
+					<Right>10 par seconde
+					1500
+					10/sec
+					0.5 secondes
+					+5
+          10m
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

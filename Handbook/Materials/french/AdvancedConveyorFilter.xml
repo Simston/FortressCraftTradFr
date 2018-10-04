@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AdvancedConveyorFilter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Filtre de Convoyeur Avancé</Text>
+				</Title>
+				<Icon>
+					<Name>Advanced Conveyor Filter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Filtre des éléments spécifiques à des vitesses de tuyau T2.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

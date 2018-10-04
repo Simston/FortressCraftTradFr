@@ -1,0 +1,35 @@
+<MaterialEntry>
+	<Key>AutoBarRemoverPlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Cyberdyne Bar Repossession System</Text>
+				</Title>
+				<Icon>
+					<Name>Bar Keeper</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Cyberdyne Bar Repossession System est une machine utilisée pour prendre les lingots d'un inventaire de joueurs. Cette machine est destinée à empêcher le vol involontaire de ressources lorsqu'un joueur se déconnecte. Contrairement à ses deux prédécesseurs, le voleur de minerai et de déchets (Garbage thief, Ore Thief) gêne plutôt que d'aider les joueurs car placés dans les couloirs. Lorsque vous jouez sur un serveur, cette machine doit être placée à un emplacement central accessible à tous les joueurs mais étiquetée de manière évidente afin de ne pas être l'activée par inadvertance.
+
+					Créez simplement notre tout nouveau système Bar Repossession (tm) dans une configuration 3x3 5 d'énergie requis par Lingot, montez dessus laissez nous faire le travail pour vous!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vitesse Collecte Lingot:
+					Stockage Interne:
+					Utilisation Energie:
+					</Left>
+					<Right>Jusqu'à 3,300/minute!
+					100 unités par Lingot!
+					Seulement 5 énergie par Lingot!
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

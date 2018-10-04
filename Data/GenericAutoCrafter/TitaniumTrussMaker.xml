@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Titanium Housing Crafter</FriendlyName>
+  <SpawnObject>TitaniumHousingCrafter</SpawnObject>
+  <Value>TitaniumHousingCrafter</Value>   <!-- 153 -->
+
+  <PowerUsePerSecond>25</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>250</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>250</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+
+  <CraftTime>30</CraftTime><!-- This is more like 5 seconds per plate incoming -->
+  <!-- optional -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>TitaniumHousing</CraftedKey>
+    <CraftedName>Titanium Housing</CraftedName><!-- Is this used? It shouldn't be -->
+    <CraftedAmount>1</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>TitaniumPlate</Key>
+        <Amount>6</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Efficiently turns Titanium Plates into useful Titanium Housing.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

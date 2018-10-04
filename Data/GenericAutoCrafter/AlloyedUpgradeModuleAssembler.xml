@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Alloyed Upgrade Module Maker</FriendlyName>
+	<SpawnObject>AlloyedMachineBlockAssembler</SpawnObject>
+	<Value>AlloyedUpgradeModuleMaker</Value>
+			
+	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>25</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+
+  <WorkingAnimation>In</WorkingAnimation>
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <LoadingAnimation>Idle</LoadingAnimation>
+ 
+  <!-- 50 bars per item, 10 of each T2 type, each needing 5 bars -->
+	
+	<CraftTime>16</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>AlloyedPCB</Key>
+		<CraftedName>Alloyed Upgrade Module</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>SecondaryUpgradeModule</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>GoldFoil</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+    	<CraftCost>
+				<Key>TitaniumHousing</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Used in very high-end recipes only.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

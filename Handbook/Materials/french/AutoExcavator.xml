@@ -1,0 +1,45 @@
+<MaterialEntry>
+	<Key>AutoExcavator</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Excavateur Automatique</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Excavator</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>L'Excavateur Automatique est une machine permettant de creuser de grands puits verticaux par le bas. Il n’est pas capable de creuser les filons de minerai (sauf en mode de jeu Rapide).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header>
+					<Text>Utilisation</Text>
+				</Header>
+				<Paragraph>
+					<Text>Creusez un petit tunnel jusqu'au fond du puit désirée et placez y L'Excavateur Automatique. Il devra être alimenté par un émetteur de puissance laser ou une autre source d'alimentation.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Taille Puit:
+					Maximum Hauteur Puit:
+					Energie requise:
+					Capacité d'Energie:
+					Max. Taux de recharge:
+					Taux d'Excavation Maximum:</Left>
+					<Right>3m x 3m
+					512m
+					10 par 1m cube excaver
+					160
+					Illimité
+					5 blocs par seconde</Right>
+				</TwoColumnParagraph>
+					
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

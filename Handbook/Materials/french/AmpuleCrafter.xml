@@ -1,0 +1,40 @@
+<MaterialEntry>
+	<Key>Ampule_Crafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Fabricateur d&apos;Ampoule</Text>
+				</Title>
+				<Icon>
+					<Name>Ampule Crafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Requiert 8 types de plantes pour créer une Ampoule de Santé. Placez dessous un Distributeur d&apos;Ampoules, fixé à une trémie de stockage de plantes.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de fabrication:</Left>
+					<Right>20 secondes</Right>
+				</TwoColumnParagraph>
+
+        <Spacer/>
+        <Icon>
+          <Name>Ampule Dispenser</Name>
+          <Target>
+            <Material>Ampule_Dispenser</Material>
+          </Target>
+        </Icon>
+        <Paragraph>
+          <Text>Le Distributeur d&apos;Ampoules doit être placé dans une Salle.</Text>
+        </Paragraph>
+        
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

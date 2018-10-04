@@ -1,0 +1,48 @@
+<MaterialEntry>
+	<Key>CargoLiftBasic</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ascenseur de Cargaison Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le plus petit des Ascenseurs de Cargaison disponibles, il est idéal pour la livraison en masse de matériaux tels que le fer et le lithium.</Text>
+					<Text>Si vous êtes en mode de jeu Rapide, l'Ascenseur de Cargaison Basique transportera le double du chargement</Text>
+				</Paragraph>
+				<Spacer/>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Portée Maximale:
+					Vitesse Maximale:
+					Accélération:
+					Capacité Maximale:
+					Utilisation d'Energie (Voyage):
+					</Left>
+					<Right>Illimité
+					5 mètres/sec (10 en rapide)
+					0.5 mètres/sec/sec
+					300 (600 en Rapide)
+					35 EPS
+					</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>Controlleur Ascenseur de Cargaison</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

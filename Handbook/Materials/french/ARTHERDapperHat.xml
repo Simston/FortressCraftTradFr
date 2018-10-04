@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERDapperHat</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>ARTHER Dapper Hat</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Dapper Hat</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Garder le look d&apos;ARTHER impeccable ET au sec! Ne fonctionne que si vous avez le DLC Dapper Indie Supporter. Un seul requis et doit être porté dans votre inventaire.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

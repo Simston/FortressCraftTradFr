@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>MissileTurretMK4</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Missile Turret MK4</Text>
+				</Title>
+				<Icon>
+					<Name>Missile Turret MK4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				OUTDATED
+				<Paragraph>
+					<Text>Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Minimum Range:
+					Portée Maximale:
+					Damage (per missile):
+					Missiles per Salvo:
+					Reload Time:</Left>
+					<Right>64m
+					512m
+					50,000 (basic missile)
+					4
+					15 secondes</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

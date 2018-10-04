@@ -1,0 +1,288 @@
+﻿<Chapter>
+	<Handle>welcome</Handle>
+	<Title>Guide de Départ</Title>
+	<Icon>Solar Panel-old</Icon>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bienvenu à FortressCraft Evolved</Text>
+				</Title>
+				<Header>
+					<Text>Mode de survie</Text>
+				</Header>
+				<Paragraph>
+					<Text>Vous venez de vous échapper de la station orbitale sur une navette d&apos;évacuation endommagée. Elle n&apos;a pas survécu à la réintégration, mais par chance, vous avez réussi à vous éjecter en toute sécurité. Maintenant, vous devrez survivre sur cette terrible planète extraterrestre !</Text>
+				</Paragraph>
+				<Header>
+					<Text>Démarrer</Text>
+				</Header>
+				<Paragraph>
+					<Text>Votre combinaison de pointe vous permet de rester en sécurité dans le froid, mais elle réclame plus d&apos;énergie pour le faire. Le site du crash du vaisseau peut vous donner les ressources nécessaires pour survivre à court terme, alors vous devriez vous y diriger dès que possible.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Contrôles</Text>
+				</Header>
+				<Paragraph>
+					<Text>Les contrôles de jeu sont répertoriés dans un guide séparé ci-dessous.</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<Chapter>controls</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Controls Guide</Text>
+				</Link>
+
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=KT_eI01IKDE</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Vous préférez une vidéo? Cliquez ici pour le tutoriel FortressCraft</Text>
+				</Link>
+				<Link>
+					<Target>
+						<URL>www.youtube.com/tv#/watch?v=1MLHgXDFczo</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Cliquez ici pour regarder un tutoriel sur le Scanner de Cristal</Text>
+				</Link>
+
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Conseils de survie 1/2</Text>
+				</Header>
+				<Spacer/>
+
+				<Paragraph>
+					<Text>
+					Pour ceux qui ne veulent pas lire un guide complet, voici quelques conseils rapides sur le jeu. Les pages suivantes donnent plus de détails sur la façon de commencer.
+					</Text>
+				</Paragraph>
+					<Spacer/>
+				<Paragraph>
+					<Text>
+					- Pendant la journée, votre combinaison est conçue pour charger sa batterie avec la lumière solaire.
+					- Votre zone de départ a un Centre d&apos;Énergie Principale, utilisez-le pour transformer les ressources récoltées en énergie pour alimenter des machines adjacentes.
+					- Vous pouvez charger votre combinaison depuis le Concentrateur de d&apos;Énergie Central ou en appuyant sur &apos;Q&apos; sur un Bloc de Stockage d&apos;Énergie.
+					- Interagir (&apos;E&apos;) avec l&apos;usine de fabrication pour voir ce que vous pouvez faire.
+					- Fabriquez des Torches pour vous chauffer en utilisant la fenêtre d&apos;Auto Craft (&apos;C&apos;).
+					- Utilisez le Scanner (&apos;M&apos;) pour scanner des blocs et ensuite les traiter à la station de recherche pour obtenir de nouvelles recettes.
+					- Le Scanner peut également effectuer des balayages d&apos;environnement comme le ping Minerai Inconnu pour trouver de nouveaux minerais.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Conseils de survie 2/2</Text>
+				</Header>
+				<Spacer/>
+				<Paragraph>
+					<Text>
+- Faites attention au taux de décharge de la batterie sur votre combinaison, un texte bleu indique que le froid extrême affecte votre combinaison et un texte rouge indique une chaleur extrême.
+- La lampe frontale utilise de l&apos;énergie. C&apos;est génial pour explorer mais ne la laissez pas allumé !
+- Le charbon est le meilleur carburant pour commencer, mais si vous êtes en manque, vous pouvez brûler la flore locale.
+- Vous devrez peut-être creuser très profondément pour trouver les minerais que vous recherchez.
+- Vous avez une grande portée de construction, alors utilisez-le pour placer des torches dans de grandes cavernes.
+					</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Équipement du site de crash</Text>
+				</Header>
+				<Icon>
+					<Name>Central Power Hub</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Le Concentrateur de d&apos;Énergie Central est votre premier fournisseur d&apos;énergie. Il a des panneaux solaires, et peut brûler des carburants pour générer de l&apos;énergie. Il ne peut contenir qu&apos;un élément de carburant à la fois, de sorte que l&apos;automatisation de la livraison de carburant est essentielle. Il dispose d&apos;une grande capacité de stockage interne.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>CentralPowerHub</Material>
+					</Target>
+					<Text> Concentrateur de d&apos;Énergie Central</Text>
+				</Link>
+				<Spacer/>
+<Spacer/>
+<Spacer/>
+				<Icon>
+					<Name>PowerStorageBlock</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Le Bloc de Stockage d&apos;Énergie peut stocker 250 d&apos;énergie et la distribuer aux machines adjacentes.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>PowerStorageMK1</Material>
+					</Target>
+					<Text>Bloc de Stockage d&apos;Énergie</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Ore Smelter</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Afin d&apos;acquérir des barres utiles pour l&apos;élaboration de nouvelles machines, vous devrez traiter des minerais dans la Fonderie de minerai. Vous pouvez y interagir manuellement ou automatiser l'approvisionnement en minerai. La fusion commencera une fois avoir reçu suffisamment de minerai pour couler un lingot.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>StandardOreSmelter</Material>
+					</Target>
+					<Text>Fonderie</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Manufacturing Plant</Name>
+				</Icon>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Vous pouvez fabriquer de simple chose en utilisant la fenêtre de fabrication, que vous ouvrez avec &quot;C&quot;, cependant pour les machines et composant plus complexe, vous devrez utiliser l&apos;Usine de Fabrication. Les recettes sont divisées en catégories que vous pouvez voir en cliquant sur les carrés de couleur. À ce stade, l'usine ne peut utiliser que des objets de votre inventaire, et les objets d'artisanat les y remettront directement.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>ManufacturingPlant</Material>
+					</Target>
+					<Text>Usine de Fabrication</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Research Station</Name>
+				</Icon>
+				<Spacer/>
+				<Spacer/>
+				<Paragraph>
+					<Text>Lorsque vous commencez, votre scanner n'a aucune connaissance des matériaux trouvés sur la planète. Les analyses que vous faites peuvent être traitées à la station de recherche et vous donneront des points de recherche. Vous pouvez également entreprendre différents projets de recherche ici et développer de nouvelles recettes pour l'Usine de Fabrication en y dépensant des points de recherche. La station de recherche a besoin d'énergie pour fonctionner.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>ResearchStation</Material>
+					</Target>
+					<Text>Station de Recherche</Text>
+				</Link>
+				</Paragraphs>
+		</Page>
+	
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Trouver vos premiers minerais</Text>
+				</Header>
+				<Spacer/>
+				<Paragraph>
+					<Text>Votre scanner a la capacité de rechercher des types de minerai connus, mais pour cela, il faut d'abord les connaître. La clé pour trouver de nouveaux minerais est d'utiliser le Ping de matériel inconnu sur votre scanner. Au début, cela vous renverra tous les blocs autour de vous car il ne les connaît pas.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Donc, votre première tâche sera de scanner votre environnement et de traiter ces analyses à la station de recherche. Dès que vous avez scanné tout les matériaux communs et la poussière qui vous entourent, le Ping Inconnu vous rapportera des informations utiles.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une fois que vous avez trouvé une veine de minerai proche, vous pouvez les scanner et les traiter pour les enseigner à votre scanner. A partir de ce moment, l'utilisation d'un Ping Minerai avec votre scanner renverra des veines de ce type de minerai</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Extraction de minerai</Text>
+				</Header>
+				<Paragraph>
+					<Text>Maintenant que vous avez trouvé votre première veine de minerai, vous devez extraire le minerai pour pouvoir l'utiliser. Vous pouvez le creuser en cliquant avec le bouton droit de la souris, mais cette méthode ne donne qu'un minerai de temps en temps et génère des gravats.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Une meilleure option est d'utiliser votre mode SuperDig (SuperCreusement), que vous activez en maintenant la touche CTRL enfoncée tout en creusant. Cela va creuser de grandes quantités de minerai, va également drainer vos réserves d'énergie à grande vitesse.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Attention ne pas drainer toute votre énergie avec le SuperCreusement d'une veine de minerai, votre combinaison a également besoin d'énergie pour garder votre corps au chaud! Essayez d'établir un itinéraire sécurisé vers vos générateurs d'énergie, avec des torches le long du chemin pour vous réchauffer.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+		<Page>
+			<Paragraphs>
+					<Header>
+						<Text>Automatisation de l'extraction 1/2</Text>
+					</Header>
+					<Spacer/>
+					<Icon>
+						<Name>Ore Extractor</Name>
+					</Icon>
+					<Paragraph>
+						<Text>Une méthode durable d'exploitation du minerai consiste à utiliser l'Extracteur de minerai. Vous en avez quelque'uns en arrivant sur la planète, placez en un sur une veine et le remplir de puissance pour commencer à creuser. L'espace de stockage interne est petit, donc jusqu’à ce que vous puissiez vous le décharger ailleurs, vous devrez le récupérer manuellement.</Text>
+					</Paragraph>
+					<Spacer/>
+					<Paragraph>
+						<Text>Un extracteur de minerai peut extraire une veine entière de minerai lorsqu'il touche un seul bloc de minerai. Par conséquent, vous ne devrez pas le déplacer avant la fin de l'exploitation de la veine</Text>
+					</Paragraph>
+					<Link>
+						<Target>
+							<Material>OreExtractor</Material>
+						</Target>
+						<Text> Extracteur de Minerai</Text>
+					</Link>	
+				</Paragraphs>
+			</Page>
+			<Page>
+				<Paragraphs>
+					<Header>
+						<Text>Automatisation de l'extraction 1/2</Text>
+					</Header>
+					<Icon>
+						<Name>StorageHopper</Name>
+					</Icon>
+					<Paragraph>
+						<Text>Les Trémies de Stockage acceptent les minerais et articles des machines adjacentes et peut les fournir à d'autres machines. Cela les rend indispensables pour automatiser toute la partie du processus d'extraction et de fusion.</Text>
+					</Paragraph>
+					<Link>
+						<Target>
+							<Material>StorageHopper</Material>
+						</Target>
+						<Text>Storage Hopper</Text>
+					</Link>
+				</Paragraphs>
+			</Page>
+			
+			<Page>
+			<Paragraphs>
+				<Icon>
+					<Name>Conveyor Belt</Name>
+				</Icon>
+				<Paragraph>
+					<Text>Pour les distribution de ressources, les convoyeurs aides à automatiser le transport du minerai de votre extracteur vers votre fonderie de minerai. Ils sont bon marché, vous en aurez besoin pour connecter vos opérations minières à votre base principale. Ils n'ont pas besoin d'énergie pour fonctionner.</Text>
+				</Paragraph>
+				<Link>
+					<Target>
+						<Material>RegularConveyorBelt</Material>
+					</Target>
+					<Text> Convoyeurs</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
+
+		

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>Attack_Scanner</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Scanner d&apos;Attaque</Text>
+				</Title>
+				<Icon>
+					<Name>Crystal Clock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Nous pouvons déterminer avec précision quand de nouvelles attaques se produiraient dans notre base. En les plaçant autour de votre base, vous ne devriez plus avoir de surprises.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

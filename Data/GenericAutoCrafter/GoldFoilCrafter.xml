@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Gold Foil Crafter</FriendlyName>
+  <SpawnObject>GoldFoilCrafter</SpawnObject>
+  <Value>GoldFoilCrafter</Value>   <!-- 154 -->
+
+  <PowerUsePerSecond>0</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>0</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>0</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+
+  <CraftTime>30</CraftTime><!-- This is more like 5 seconds per plate incoming -->
+  <!-- optional -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>GoldFoil</CraftedKey>
+    <CraftedName>Gold Foil</CraftedName><!-- Is this used? It shouldn't be -->
+    <CraftedAmount>1</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>GoldWire</Key>
+        <Amount>5</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Efficiently turns Gold Wires into useful Gold Foils.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Secondary Upgrade Module Crafter</FriendlyName>
+	<SpawnObject>SecondaryUpgradeModuleCrafter</SpawnObject>
+	<Value>SecondaryUpgradeModuleMaker</Value>
+			
+  <!-- Do I want power? -->
+	<PowerUsePerSecond>150</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>500</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>1250</MaxPowerStorage>  <!-- optional -->
+	
+	<CraftTime>10</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <Key>SecondaryUpgradeModule_Unused_Irrelevant_stupid</Key>
+    <CraftedKey>SecondaryUpgradeModule</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+      <!-- This is removed, as it then turned into 30 tin per AMB, which is just untenable 
+      <CraftCost>
+        <Key>PrimaryUpgradeModule</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+      -->
+			<CraftCost>
+				<Key>FortifiedPCB</Key> <!-- This is the secondary craft upgrade, so use 5, not 10 -->
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Assembles a 5 Nickel circuit boards to upgrade a Primary Uprade Module into a more complex upgrade module, used in various crafting recipes.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

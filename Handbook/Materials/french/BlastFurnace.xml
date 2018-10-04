@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>BlastFurnacePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Haut Fourneau</Text>
+				</Title>
+				<Icon>
+					<Name>Blast Furnace component</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>Consomme la moitié des moyens nécessaires habituelles pour fondre efficacement le Chrome et le Molybdène. Doit être construit dans un 3x7x3. Nécessite des tuyaux connectés à un bassin de coulée pour créer des lingots.</Text>
+        </Paragraph>
+        <Spacer/>
+        <Paragraph>
+          <Text>Bien que cela fonctionne techniquement n'importe où, pour une efficacité maximale, il convient de le placer dans une zone aussi froide que possible. Une chambre froide ne suffira pas.</Text>
+        </Paragraph>
+
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de Fabrication:
+					Energie Requise:
+					Capacité Energie:
+					Max. Taux de Recharge:</Left>
+					<Right>3 secondes
+					2500 par seconde
+					15000
+					7500 par seconde</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

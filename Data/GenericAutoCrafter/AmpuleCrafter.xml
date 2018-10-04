@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Ampule Crafter</FriendlyName>
+	<SpawnObject>Ampule_Crafter</SpawnObject>
+	<Value>Ampule_Crafter</Value>
+	<OffloadTarget>AmpuleDispenser</OffloadTarget>
+	<CraftingString>Grinding Plants into </CraftingString>
+	<CraftTime>20</CraftTime>  <!-- optional -->
+	<OptionalIngredients>true</OptionalIngredients>  <!-- optional -->
+	<PowerUsePerSecond>0</PowerUsePerSecond>
+	<Recipe>
+		<Key>AmpuleMK1</Key>
+		<CraftedName>MK1 Ampule</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>Seed_BaubleBerry</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_TriSeed</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_GoopyDangler</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_CoxComb</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_LeafyDangler</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_TundraBreath</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>Seed_UnderGrump</Key><!-- To consider, Seed Mashers, Seed Fermenters etc -->
+				<Amount>8</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Converts Seeds into Ampules. Must be connected to an AmpuleDispenser.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

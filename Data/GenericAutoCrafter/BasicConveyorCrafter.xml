@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Basic Conveyor Crafter</FriendlyName>
+  <SpawnObject>BasicConveyorCrafter</SpawnObject>
+  <Value>BasicConveyorCrafter</Value>   <!-- 155 -->
+
+  <PowerUsePerSecond>0</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>0</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>0</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+  <AnimScalar>3</AnimScalar>
+  <!-- optional -->
+  <CraftTime>27</CraftTime><!-- 6/min (360/hour)-->
+  <!-- optional -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>BasicConveyorBelt</CraftedKey>
+    <CraftedName>Basic Conveyor</CraftedName><!-- Is this used? It shouldn't be -->
+    <CraftedAmount>15</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>CopperBar</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Efficiently turns Copper Bars into useful Basic Conveyor Belts. You will need a lot of these, and it is recommended to have many of these crafting machines working constantly.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

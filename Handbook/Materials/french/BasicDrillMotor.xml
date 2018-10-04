@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>BasicDrillMotor</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Moteur Foreuse Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Drill Motor</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliore la vitesse à laquelle un extracteur de minerai extrait du minerai à la minute, au prix d'une consommation d'énergie accrue.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vitesse Extraction:</Left>
+					<Right>200%</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

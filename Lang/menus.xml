@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Level names, other menu options -->
+<languages>
+	<English>
+     	<string name="app_name">ADAPTR</string>
+     	<string name="tagline">Build. Adapt. Evolve. Survive. Progress.</string>
+		<string name="BASICDIAGNOSTICS">Basic Diagnostics.</string>
+		<string name="MOVINGDEEPER">Moving Deeper.</string>
+		<string name="ACIDDRAINAGE">Acid Drainage.</string>
+		<string name="LONGDROP">Long Drop.</string>
+		<string name="AQUARIUM">The Aquarium.</string>
+		<string name="ARTIFACTCOLLECTION">Nuclear Handling.</string>
+		<string name="EXPRESSELEVATOR">Express Elevator to Hell.</string>
+		<string name="CITYOUTSKIRTS">City Outskirts.</string>
+		<string name="VISITORCENTRE">Visitor Centre.</string>
+		<string name="LOADINGBAY">Loading Bay.</string>
+		<string name="LOCKED">DigiPort Locked.</string>
+		<string name="COMINGSOON">Coming Soon!</string>
+		<string name="EXITGAME">Exit Game</string>
+		<string name="VISITWEBSITE">Visit our website</string>
+		<string name="SANDBOXMODE">Sandbox mode</string>
+		<string name="SETTINGSMENU">Change Settings</string>
+		<string name="SELECTLEVEL">Select Level</string>
+		<string name="LEVELSELECT">Level Select</string>
+		<string name="MAINMENU">Main Menu</string>
+		<string name="LASTPAGE">Last Page</string>
+		<string name="NEXTPAGE">Next Page</string>
+		<!-- mission report -->
+		<string name="MISSIONRESULTS">Mission Results</string>
+		<string name="LEVEL">LEVEL</string>
+		<string name="RECORD">RECORD</string>
+		<string name="TARGET">TARGET</string>
+		<string name="TIMETAKEN">Time Taken</string>
+		<string name="PARTSUSED">Next Page</string>
+		<string name="ATTEMPTSTAKEN">Attempts Taken</string>
+		<string name="ARTHERFOUND">ARTHER Found</string>
+		<string name="TOTALSCORE">Total Score</string>
+		<string name="NEXTMISSION">Next Mission</string>
+		<string name="RETRYMISSION">Retry Mission</string>
+		<string name="QUITTOMAINMENU">Quit To Main Menu</string>
+		<string name="RANK">RANK</string>
+		<string name="PROCEED">Proceed to Next Mission</string>
+		<string name="FAILRETRY">LEVEL FAILED - RETRY?</string>
+		<!-- OSD -->
+		<string name="MISSIONOBJECTIVES">Mission Objectives</string>
+		<string name="POWERGENERATORS">Power Generators</string>
+		<string name="NUCLEARREACTORS">Nuclear Isotopes</string>
+		<string name="ALIENARTIFACTS">Alien Artifacts</string>
+		<string name="FUSIONBOMB">Fusion Bomb</string>
+		<string name="TOTALCOMPONENTS">Total Components</string>
+		<string name="TARGCOMPONENTS">Target Component Usage</string>
+		<string name="NAME">Name</string>
+		<string name="CONTROLS">Controls</string>
+	</English>
+
+	<French>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">Construire. Adapter. Évoluer. Survivre. La progression.</string>
+		<string name="BASICDIAGNOSTICS">DIAGNOSTIC DE BASE.</string>
+		<string name="MOVINGDEEPER">Aller plus profondément.</string>
+		<string name="ACIDDRAINAGE">Drainage d'Acide.</string>
+		<string name="LONGDROP">Chute Longue</string>
+		<string name="AQUARIUM">L'Aquarium.</string>
+		<string name="ARTIFACTCOLLECTION">Traitement Nucléaire.</string>
+		<string name="EXPRESSELEVATOR">Ascenseur Express vers l'Enfer.</string>
+		<string name="CITYOUTSKIRTS">Périphérie de la Ville.</string>
+		<string name="VISITORCENTRE">Centre des Visiteurs.</string>
+		<string name="LOADINGBAY">Quai de Chargement.</string>
+		<string name="LOCKED">DigiPort verrouillé.</string>
+		<string name="COMINGSOON">Coming Soon!</string>
+		<string name="EXITGAME">Quitter le Jeu</string>
+		<string name="VISITWEBSITE">Visitez notre site Internet</string>
+		<string name="SANDBOXMODE">Mode Sandbox</string>
+		<string name="SETTINGSMENU">Modifier les paramètres</string>
+		<string name="SELECTLEVEL">Sélection de niveau</string>
+		<string name="LEVELSELECT">Niveau sélectionné</string>
+		<string name="MAINMENU">Menu Principal</string>
+		<string name="LASTPAGE">Dernière Page</string>
+		<string name="NEXTPAGE">Page Suivante</string>
+		<!-- mission report -->
+		<string name="MISSIONRESULTS">Résultats de la Mission</string>
+		<string name="LEVEL">NIVEAU</string>
+		<string name="RECORD">RECORD</string>
+		<string name="TARGET">CIBLE</string>
+		<string name="TIMETAKEN">Temps écoulé</string>
+		<string name="PARTSUSED">Page Suivante</string>
+		<string name="ATTEMPTSTAKEN">Tentatives </string>
+		<string name="ARTHERFOUND">ARTHER Trouvé</string>
+		<string name="TOTALSCORE">Score Total</string>
+		<string name="NEXTMISSION">Prochaine Mission</string>
+		<string name="RETRYMISSION">Recommencer Mission</string>
+		<string name="QUITTOMAINMENU">Quit vers le Menu Principal</string>
+		<string name="RANK">RANG</string>
+		<string name="PROCEED">Passer à la prochaine Mission</string>
+		<string name="FAILRETRY">NIVEAU ECHOUE - RECOMMENCER?</string>
+		<!-- OSD -->
+		<string name="MISSIONOBJECTIVES">Objectifs de la Mission</string>
+		<string name="POWERGENERATORS">Générateurs d'Energie</string>
+		<string name="NUCLEARREACTORS">Isotopes Nucléaires</string>
+		<string name="ALIENARTIFACTS">Artefacts Aliens</string>
+		<string name="FUSIONBOMB">Bombe à Fusion</string>
+		<string name="TOTALCOMPONENTS">Composants totaux</string>
+		<string name="TARGCOMPONENTS">Utilisation du composant cible</string>
+		<string name="NAME">Nom</string>
+		<string name="CONTROLS">Contrôles</string>
+	</French>
+
+	<German>
+        <string name="app_name">ADAPTR</string>
+	    <string name="tagline">Build. Sich anpassen. Entwickeln. Überleben. Fortschritt.</string>
+	    <string name="BASICDIAGNOSTICS">Grundlegende Diagnose.</string>
+	    <string name="MOVINGDEEPER">Bewegt tiefer.</string>
+	    <string name="ACIDDRAINAGE">Säureentwässerung.</string>
+	    <string name="LONGDROP">Langer Tropfen.</string>
+	    <string name="AQUARIUM">Das Aquarium.</string>
+	    <string name="ARTIFACTCOLLECTION">Nukleare Behandlung.</string>
+	    <string name="EXPRESSELEVATOR">Express Aufzug zur Hölle.</string>
+	    <string name="CITYOUTSKIRTS">Stadtrand.</string>
+	    <string name="VISITORCENTRE">Besucherzentrum.</string>
+	    <string name="LOADINGBAY">Ladebucht.</string>
+	    <string name="LOCKED">DigiPort Gesperrt.</string>
+	    <string name="COMINGSOON">Kommt bald!</string>
+	    <string name="EXITGAME">Spiel verlassen</string>
+	    <string name="VISITWEBSITE">Besuchen Sie unsere Website</string>
+	    <string name="SANDBOXMODE">Sandbox-Modus</string>
+	    <string name="SETTINGSMENU">Einstellungen ändern</string>
+	    <string name="SELECTLEVEL">Wählen Sie Level</string>
+	    <string name="LEVELSELECT">Stufenauswahl</string>
+	    <string name="MAINMENU">Hauptmenü</string>
+	    <string name="LASTPAGE">Letzte Seite</string>
+	    <string name="NEXTPAGE">Nächste Seite</string>
+	    <!-- mission report -->
+	    <string name="MISSIONRESULTS">Mission Ergebnisse</string>
+	    <string name="LEVEL">EBENE</string>
+	    <string name="RECORD">REKORD</string>
+	    <string name="TARGET">ZIEL</string>
+	    <string name="TIMETAKEN">Zeit genommen</string>
+	    <string name="PARTSUSED">Nächste Seite</string>
+	    <string name="ATTEMPTSTAKEN">Versuche</string>
+	    <string name="ARTHERFOUND">ARTHER Gefunden</string>
+	    <string name="TOTALSCORE">Gesamtergebnis</string>
+	    <string name="NEXTMISSION">Weiter Mission</string>
+	    <string name="RETRYMISSION">Wiederholen Mission</string>
+	    <string name="QUITTOMAINMENU">Beenden Sie das Hauptmenü</string>
+	    <string name="RANK">RANG</string>
+	    <string name="PROCEED">ZUR NÄCHSTEN MISSION</string>
+	    <string name="FAILRETRY">Ausfallen - Wiederholen?</string>
+
+	    <!-- OSD -->
+	    <string name="MISSIONOBJECTIVES">Mission Ziele</string>
+	    <string name="POWERGENERATORS">Stromerzeuger</string>
+	    <string name="NUCLEARREACTORS">Nukleare Isotope</string>
+	    <string name="ALIENARTIFACTS">Ausländische Artefakte</string>
+	    <string name="TOTALCOMPONENTS">Gesamtkomponenten</string>
+	    <string name="TARGCOMPONENTS">Verwendung der Zielkomponenten</string>
+	    <string name="NAME">Name</string>
+	    <string name="CONTROLS">Steuerelemente</string>
+	</German>
+
+	<Spanish>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">Bauen. Sich anpassen. Entwickeln. Überleben. Fortschritt.</string>
+		<string name="BASICDIAGNOSTICS">DIAGNÓSTICO BÁSICO.</string>
+	</Spanish>
+
+	<Italian>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">Bauen. Sich anpassen. Entwickeln. Überleben. Fortschritt.</string>
+		<string name="BASICDIAGNOSTICS">DIAGNOSTICA DI BASE.</string>
+	</Italian>
+
+	<Portuguese><!-- aka Brazillian -->
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">Bauen. Sich anpassen. Entwickeln. Überleben. Fortschritt.</string>
+		<string name="BASICDIAGNOSTICS">DIAGNÓSTICO BÁSICO.</string>
+	</Portuguese>
+ 
+	<Russian>
+		<string name="app_name">ADAPTR</string>
+	    <string name="tagline">Ïîñòðîèòü. Àäàïòèðîâàòü. Ðàçâèâàòüñÿ. Âûæèòü. Ïðîãðåññ.</string>
+	    <string name="BASICDIAGNOSTICS">Îñíîâíûå ïðèíöèïû äèàãíîñòèêè.</string>
+	    <string name="MOVINGDEEPER">Moving Deeper.</string>
+	    <string name="ACIDDRAINAGE">Êèñëîòà Äðåíàæ.</string>
+	    <string name="LONGDROP">Äëèííûå ïàäåíèÿ.</string>
+	    <string name="AQUARIUM">Àêâàðèóì.</string>
+	    <string name="ARTIFACTCOLLECTION">Nuclear Handling.</string>
+	    <string name="EXPRESSELEVATOR">Ýêñïðåññ Ëèôò â àä.</string>
+	    <string name="CITYOUTSKIRTS">Ãîðîä Îêðàèíà.</string>
+	    <string name="VISITORCENTRE">Öåíòð ïîñåòèòåëåé.</string>
+	    <string name="LOADINGBAY">Òðþìà.</string>
+	    <string name="LOCKED">DigiPort Locked.</string>
+	    <string name="COMINGSOON">Ñêîðî!</string>
+	    <string name="EXITGAME">EXITGAME</string>
+	    <string name="VISITWEBSITE">Âûõîä èãðû Ïîñåòèòå íàø âåá-ñàéò</string>
+	    <string name="SANDBOXMODE">èçîëèðîâàííîì ðåæèìå</string>
+	    <string name="SETTINGS">Èçìåíèòü íàñòðîéêè</string>
+	    <string name="SELECTLEVEL">Âûáîð óðîâíÿ</string>
+	    <string name="MAINMENU">Ãëàâíîå ìåíþ</string>
+	</Russian>
+
+	<Chinese>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">建立。 适应。 发展。 生存。 进展。</string>
+		<string name="BASICDIAGNOSTICS">基本诊断。</string>
+	</Chinese>
+
+	<Japanese>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">基本的な診断。</string>
+		<string name="BASICDIAGNOSTICS">BASIC DIAGNOSTICS.</string>
+	</Japanese>
+
+	<Urdu>
+		<string name="app_name">ADAPTR</string>
+		<string name="tagline">بیسک تشخیص.</string>
+		<string name="BASICDIAGNOSTICS">BASIC DIAGNOSTICS.</string>
+	</Urdu>
+
+	<Arabic>
+         <string name="app_name">ADAPTR</string>
+		    <string name="tagline">ÇáÈäÇÁ. ÇáÊßíÝ. íÊØæÑ. ÇáÈÞÇÁ. ÇáÊÞÏã.</string>
+		    <string name="BASICDIAGNOSTICS">ÇáÊÔÎíÕ ÇáÃÓÇÓíÉ.</string>
+		    <string name="MOVINGDEEPER">äÞá ÃÚãÞ.</string>
+		    <string name="ACIDDRAINAGE">ÍãÖ ÇáÕÑÝ.</string>
+		    <string name="LONGDROP">ÊÑÇÌÚ Øæíá.</string>
+		    <string name="AQUARIUM">ÍæÖ ÇáÓãß.</string>
+		    <string name="ARTIFACTCOLLECTION">ÇáãäÇæáÉ ÇáäææíÉ.</string>
+		    <string name="EXPRESSELEVATOR">ÇßÓÈÑÓ ãÕÚÏ Åáì ÇáÌÍíã.</string>
+		    <string name="CITYOUTSKIRTS">ÖæÇÍí ãÏíäÉ.</string>
+		    <string name="VISITORCENTRE">ãÑßÒ ÇáÒæÇÑ.</string>
+		    <string name="LOADINGBAY">ÊÍãíá ÎáíÌ.</string>
+		    <string name="LOCKED">DigiPort ãÛáÞ.</string>
+		    <string name="COMINGSOON">ÞÑíÈÇ!</string>
+		    <string name="EXITGAME">ÎÑæÌ áÚÈÉ</string>
+		    <string name="VISITWEBSITE">ÒíÇÑÉ ãæÞÚäÇ Úáì ÇáÇäÊÑäÊ</string>
+		    <string name="SANDBOXMODE">æÖÚ ÇáÍãÇíÉ</string>
+		    <string name="SETTINGS">ÊÛííÑ ÅÚÏÇÏÇÊ</string>
+		    <string name="SELECTLEVEL">ÍÏÏ ãÓÊæì</string>
+		    <string name="MAINMENU">ÇáÞÇÆãÉ ÇáÑÆíÓíÉ</string>
+	</Arabic>
+</languages>

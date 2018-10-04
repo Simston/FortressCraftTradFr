@@ -1,0 +1,36 @@
+<MaterialEntry>
+	<Key>BatteryMK4Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bloc Stockage d'Energie MK4</Text>
+				</Title>
+				<Icon>
+					<Name>PowerStorageBlockT4</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le bloc de stockage d'énergie MK4 peut contenir une réserve d'énergie pouvant atteindre 270,000. Il faudra l'énergie de plusieurs générateurs connectés, et fournira à toutes les machines ou transmetteurs d'énergie connectés. Des multiples blocs de stockage d'énergie peuvent partager l'énergie collés entre eux, mais ceci n'est pas efficace pour la transmission d'énergie sur plus de quelques blocs. Les émetteurs de puissance laser doivent plutôt être utilisés à cette fin.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Cette batterie a une densité deux fois supérieure à celle des Bloc Stockage d'Energie MK3. Il est vivement recommandé de procéder à l'amélioration dès que possible. A construire dans une configuration 3x3x3, totalisant 27 blocs.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>L’énergie peut être extraite du bloc de stockage d’énergie en appuyant sur la touche &#39;Extract&#39; (défaut &#39;A&#39;), et inséré à l'aide de la touche &#34;Interaction&#34; (défaut &#39;E&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Capacité Energie:
+					Max. Taux Transfert d'Energie:</Left>
+					<Right>270000
+					10,000 par connexion</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

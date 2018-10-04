@@ -1,0 +1,89 @@
+<MaterialEntry>
+	<Key>ResearchStation</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Station de Recherche</Text>
+				</Title>
+				<Icon>
+					<Name>Research Station</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La Station de Recherche fournit les installations nécessaires pour mieux comprendre la planète; ses minéraux, sa faune et sa flore. Elle vous permet de traiter les informations enregistrées par votre Scanner et de rechercher de nouvelles technologies aidant à votre survie. Bon nombre d&apos;éléments de recherche plus avancés dépassent les capacités de la Station de Recherche et nécessitent l&apos;asistance d&apos;un Laboratoire.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Pour utiliser la station de recherche, en face appuyez sur la touche d&apos;interaction (par défaut «E»). Cela ouvrira le terminal de recherche qui contient trois onglets pour le traitement des analyses scanner, des recettes et des projets.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Header>
+					<Text>Analyses de Traitement</Text>
+				</Header>
+				<Paragraph>
+					<Text>Votre combinaison est équipée d&apos;un Scanner (par défaut «M»), l&apos;action secondaire sur cet outil vous permet de numériser un matériau inconnu dans le monde. L&apos;outil va également scanner automatiquement tout matériel inconnu absorbé par votre outil de construction. Les informations sont automatiquement transmises à la station de recherche</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>Le premier onglet de la station de recherche répertorie tous les matériaux inconnus restants et vous permet de traiter ces analyses pour en savoir plus. Le traitement de l&apos;analyse peut coûter chère mais permettra d&apos;obtenir des points de recherche pouvant être utilisés pour rechercher des recettes ou des projets supplémentaires.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>
+				<Header>
+					<Text>Recherche de Recettes</Text>
+				</Header>
+				<Paragraph>
+					<Text>Le traitement des analyses et la réalisation de projets de recherche permettent de découvrir de nouvelles recettes. Ce sont généralement de nouvelles machines qui peuvent vous aider à survivre et à progresser dans votre périple. Chacun a un coût en points de recherche et en énergie, vous devriez dépenser vos points de recherche avec soin, si vous êtes à court, vous devrez vous aventurer plus loin dans la recherche de nouveaux matériaux à scanner.</Text>
+				</Paragraph>
+	
+				<Paragraph>
+					<Text>La plupart des recettes que vous recherchez peuvent ensuite être fabriquées dans l’usine de fabrication, certaines nécessitant une installation de construction spécialisée. Vérifiez l&apos;entrée du manuel de survie sur la machine pour plus d&apos;informations.</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>La station de recherche peut être alimentée directement à partir du Concentrateur d&apos;Energie Central(CEC), mais le taux de transfert de puissance sera limité lorsque le CEC sera faible.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		<Page>
+			<Paragraphs>				
+				<Header>
+					<Text>Recherche de Projets</Text>
+				</Header>
+				<Paragraph>
+					<Text>Les projets améliorent généralement votre niveau technologique dans une zone donnée, en déverrouillant de nouvelles recettes directement ou via l&apos;onglet recettes de la station de recherche. Des projets simples peuvent être réalisés par la seule station de recherche aux dépens de l&apos;énergie et des points de recherche. Les projets plus compliqués nécessitent l&apos;assistance du laboratoire. Le laboratoire est lui-même un projet de recherche qui doit être débloqué.</Text>
+				</Paragraph>
+				<Paragraph>
+					<ResearchRequirements>
+						<Research>Recherche Avancée</Research>
+					</ResearchRequirements>
+					<Text>Pour plus d&apos;informations sur les projets de recherche en laboratoire, veuillez consulter le guide suivant.</Text>
+				</Paragraph>
+					
+				<Link>
+					<ResearchRequirements>
+						<Research>Advanced Research</Research>
+					</ResearchRequirements>
+				
+					<Target>
+						<Chapter>laboratory research</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Guide de Recherche en Laboratoire</Text>
+				</Link>
+				<Link>
+					<Target>
+						<Chapter>unknown materials</Chapter>
+						<Page>0</Page>
+					</Target>
+					<Text>Unknown Materials</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>
+

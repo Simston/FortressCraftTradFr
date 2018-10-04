@@ -1,0 +1,27 @@
+<MaterialEntry>
+	<Key>BiomassGrowthPing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ping de Pousse Biomasse</Text>
+				</Title>
+				<Icon>
+					<Name>Biomass Growth Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Ping de Pousse de Biomasse est utilisée pour localiser de la biomasse supplémentaire lorsque celle qui se trouve à travers le ping de matière inconnue est presque épuisée ou insuffisante. Pour plus d’informations, reportez-vous au guide d’aide pour le Blank Ore Ping.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Blank Ore Ping</Material>
+					</Target>
+					<Text>Ping de Minerai Vierge</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

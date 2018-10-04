@@ -1,0 +1,34 @@
+<MaterialEntry>
+	<Key>BlankOrePing</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ping de Minerai Vierge</Text>
+				</Title>
+				<Icon>
+					<Name>Blank Ore Ping</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le Ping de Minerai Vierge est utilisé avec un échantillon de minerai pour servir de filtre de minerai. Ces filtres de minerai nous permettent de trouver plus de veines de minerai du même type, si la veine découverte est sur le point de s’épuiser ou si elle était trop petite pour être utilisée.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Utilisation</Text>
+</Header>
+				<Paragraph>
+					<Text>1. Fabriquez un nombre approprié de Ping de Minerai Vierge à l'usine de fabrication.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>2. Lorsqu'un minerai filtré est requis, associez le Ping de Minerai Vierge à un échantillon de minerai en utilisant les capacités d'autoconstruction de votre combinaison. (défaut &#39;C&#39;).</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>3. Placez le filtre à minerai dans votre barre de raccourci et sélectionnez-le. Envoyez le ping en appuyant sur le bouton  &#39;Construire&#39; (défaut &#39;LMB&#39;). Cela alimentera le scanner à minerai et un ping filtré sera envoyé par le scanner et également affiché sur l'Holobase. Le minerai ping est consommé durant le processus.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+		
+	</Pages>
+</MaterialEntry>

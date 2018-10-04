@@ -1,0 +1,46 @@
+<MaterialEntry>
+	<Key>JetTurbineGeneratorIntakePlacement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Jet Turbine Generator Intake</Text>
+				</Title>
+				<Icon>
+					<Name>Drain Grate</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>The Jet Turbine Generator is a more advanced method of generating power from fossil fuels. It requires High Energy Composite Fuel produced from Biomass in a refinery vat.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Construction</Text>
+</Header>
+				<Paragraph>
+					<Text>To construct a Jet Turbine place 36 housing components 3m high on a 4m x 3m base. Then construct a 3m x 3m  intake on either housing face of the same size.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Peak Power (rush):
+					Peak Power (plentiful):
+					Peak Power (scarce):
+					Capacité Energie:
+					Max. Taux Transfert Energie:
+					Burn Time:
+					Fuel:</Left>
+					<Right>1822 par seconde (HECF)
+					455 par seconde (HECF)
+					182 par seconde (HECF)
+					3000
+					320 par seconde
+					30 secondes (Max RPM)
+					High Energy Composite Fuel</Right>
+				</TwoColumnParagraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

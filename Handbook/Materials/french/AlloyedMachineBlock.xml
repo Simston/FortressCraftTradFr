@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AlloyedMachineBlock</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Bloc Machine en Alliage</Text>
+				</Title>
+				<Icon>
+					<Name>AlloyedMachineBlock</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Une machine utilisée pour beaucoup d&apos;autres machines de haut niveau.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

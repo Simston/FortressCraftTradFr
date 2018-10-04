@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Ultimate Upgrade Module Maker</FriendlyName>
+	<SpawnObject>AlloyedMachineBlockAssembler</SpawnObject>
+	<Value>UltimateUpgradeModuleMaker</Value>
+			
+	<PowerUsePerSecond>15</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>25</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>500</MaxPowerStorage>  <!-- optional -->
+
+  <WorkingAnimation>In</WorkingAnimation>
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <LoadingAnimation>Idle</LoadingAnimation>
+  
+  <!-- Approx Target costs
+  Copper Bar	320
+	Tin Bar	2,752
+	Iron Bar	2,000
+	Lithium Bar	2,400
+	Gold Bar	1,280
+	Nickel Bar	2,560
+	Titanium Bar	2,560 -->
+  
+  <!-- 10 of these are about equivalent to a mk5 induction-->
+
+  <AnimScalar>0.1</AnimScalar>  <!-- optional -->
+	
+	<CraftTime>32</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <Key>UltimatePCB</Key>
+    <CraftedName>Ultimate Upgrade Module</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>AlloyedPCB</Key>
+				<Amount>10</Amount> <!-- Approx 250 of each T2 bar -->
+			</CraftCost>
+			<CraftCost>
+				<Key>PrimaryUpgradeModule</Key>
+				<Amount>25</Amount> <!-- Approx 250 Tin bar -->
+			</CraftCost>
+      <CraftCost>
+        <Key>SpiderBotPowerCore</Key>
+        <Amount>50</Amount>
+        <!-- Approx 250 Lithium bar -->
+      </CraftCost>
+		</Costs>
+		<Description>Used in the most complex and difficult recipes.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

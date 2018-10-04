@@ -1,0 +1,42 @@
+<MaterialEntry>
+	<Key>AmpuleMK5</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>MK5 Ampule</Text>
+				</Title>
+				<Icon>
+					<Name>Ampoule MK5</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+        <Paragraph>
+          <Text>Les ampoules permettent à votre combinaison d&apos;injecter des nanites de guérison dans votre circulation sanguine, en utilisant de l&apos;énergie supplémentaire, mais permettant à votre santé de se régénérer plus rapidement qu&apos;à l&apos;habitude.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>La consommation d&apos;énergie est directement liée au taux de boost. Soyez conscient de cela dans des conditions de forte consommation d&apos;énergie.</Text>
+        </Paragraph>
+        <Paragraph>
+          <Text>Vous pouvez soit les placer sur votre barre de raccourcis, puis les utiliser comme vous le feriez pour tout autre objet, soit les placer dans votre inventaire de combinaison. Lorsqu&apos;ils sont placés ici, ils se déclencherons automatiquement lorsque votre santé est faible.</Text>
+        </Paragraph>
+        <Spacer/>
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Heal Boost Timer:
+					Heal Boost Taux:
+					</Left>
+					<Right>45 secondes
+					x8
+					</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+				
+
+				
+	</Pages>
+</MaterialEntry>
+

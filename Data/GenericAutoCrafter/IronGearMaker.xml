@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Iron Gear Maker</FriendlyName>
+	<SpawnObject>IronGearMaker</SpawnObject>
+	<Value>IronGearMaker</Value><!-- 150 -->
+			
+	<PowerUsePerSecond>0</PowerUsePerSecond>  <!-- optional -->
+	<PowerTransferPerSecond>0</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>0</MaxPowerStorage>  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+	
+	<CraftTime>10</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+    <CraftedKey>IronGear</CraftedKey>
+		<CraftedName>Iron Gear</CraftedName>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>IronPlate</Key> <!-- Making this 2:1 means rackrails become too expensive, as they're kinda a fixed point -->
+				<Amount>1</Amount>
+			</CraftCost>
+			</Costs>
+		<Description>Fashions Iron Plates into super-useful Iron Gears.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERBatteryCore</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Noyau de Batterie ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Battery Core</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Permet à ARTHER de maintenir une charge supérieur à 8x qu’il peut vous transférer lorsque vous êtes à plat. Fabriquer dès que possible! Un seul suffit et doit être conservé dans votre inventaire pour fonctionner.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

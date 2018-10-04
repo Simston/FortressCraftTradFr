@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>EmptyCanisterCrafter</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Empty Fuel Canister Crafter</Text>
+				</Title>
+				<Icon>
+					<Name>EmptyCanisterCrafter</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Automatically reshapes Iron Pipes into Empty Fuel Canisters. Requires no power!</Text>
+				</Paragraph>
+				<Paragraph>
+					<Text>This machine requires a hopper holding atleast 1 Iron Pipe to start the reshaping process.</Text>
+				</Paragraph>
+
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Temps de Fabrication:
+					Energie Requise:
+					Capacité Energie:
+					Maximum Recharge Rate:</Left>
+					<Right>5 secondes
+					0 par seconde
+					0
+					0 par seconde</Right>
+				</TwoColumnParagraph>
+
+			</Paragraphs>
+		</Page>
+	</Pages>
+</MaterialEntry>
+

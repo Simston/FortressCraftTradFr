@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FriendlyName>Lithium Coil Charger</FriendlyName>
+	<SpawnObject>SpiderBotPowerCoreCharger</SpawnObject>
+	<Value>SpiderBotCoreCharger</Value>
+			
+	<PowerUsePerSecond>3.3</PowerUsePerSecond>  <!-- 33.2 * 30 = 996 - CLOSE ENOUGH -->
+	<PowerTransferPerSecond>100</PowerTransferPerSecond>  <!-- optional -->
+	<MaxPowerStorage>100</MaxPowerStorage>  <!-- optional -->
+
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <WorkingAnimation>In</WorkingAnimation>
+  <UnloadingAnimation>Out</UnloadingAnimation>
+	
+	<CraftTime>30</CraftTime>  <!-- optional -->
+	<OptionalIngredients>false</OptionalIngredients>  <!-- optional -->
+	<Recipe>
+		<Key>SpiderBotPowerCore</Key>
+		<CraftedName>Charged Lithium Coils</CraftedName> <!-- This is displaye in the popup text and nowhere else?-->
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>LithiumCoil</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>Imbues 5 Lithium Coils with 100 energy and generates a single Charged Lithium Coil.</Description>
+	</Recipe>
+</GenericAutoCrafterDataEntry>

@@ -1,0 +1,39 @@
+<MaterialEntry>
+	<Key>BiomassGrowth</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Pousse de Biomasse</Text>
+				</Title>
+				<Icon>
+					<Name>Emeralds</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>La Pousse de Biomasse se trouve dans les Cavernes Toxiques. Possibilité de les trouver dans les veines proches des Cavernes Toxiques, mais jamais plus loin. Il peut être creusé avec un Fusil Constructeur MK2, Extracteurs de minerai, et par Fôreuse à Tranchant.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>La Pousse de Biomasse peut être utilisé pour la production de Granule de Plastique ou pour le Combustible Composite à Haute Energie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Short Facts</Text></Header>
+				<TwoColumnParagraph>
+					<Left>Occurrence:
+					Couleur Ping:
+					1st Étape d'Extraction:
+					2nd Étape d'Extraction:
+
+					3rd Étape d'Extraction:</Left>
+					<Right>Cavernes Toxiques (-350m to -550m)
+					Bleu Clair
+					Construire Fusil MK2
+					Extracteur de minerai équipé d'une "tête de coupe en acier" ou plus dur.
+					Extracteur Trancheur MK1-MK3</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

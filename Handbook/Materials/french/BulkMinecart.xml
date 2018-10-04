@@ -1,0 +1,140 @@
+﻿<MaterialEntry>
+	<Key>BulkMinecart</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Très Grand Minecart</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Minecart</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Les Très Grands Minecarts sert aux transferts d'articles en masse à un taux rapide.
+
+					Ce Minecart est un élément du Frozen Factory Expansion Pack 
+					</Text>
+				</Paragraph>
+
+				<Link>
+					<Target>
+						<URL>https://www.patreon.com/Fortresscraft</URL>
+<!-- Full screen, auto-playing URL-->
+					</Target>
+					<Text>Cliquez ici pour savoir comment devenir un Patreon pour un accès rapide à tous les futurs packs d'extension.</Text>
+				</Link>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Left>Vitesse Max:
+					Stockage Max:
+					Accélération:
+					</Left>
+					<Right>2m/s
+					50
+					1.0m/s/s
+					</Right>
+				</TwoColumnParagraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>L'utilisation de Minecart est simple et se déploie d'une Trémie -&gt; Paradigme de Convoyeur qui a été utilisé jusqu'ici. Les minecarts sont chargés sur votre Réseau minecart via un Dépôt Minecart.</Text>
+&gt;
+				</Paragraph>
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Minecart Depot</Material>
+					</Target>
+					<Text>Dépot Minecart</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+				
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Gestion Ressources Minecart</Text>
+				</Title>
+
+				<Paragraph>
+					<Text>Une fois sur votre réseau minecart, les minecarts s’arrêteront aux stations de chargement et de déchargement, puis collecteront et déposeront leurs ressources transportées.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Icon>
+					<Name>Minecart Load</Name>
+					<Target><Material>MinecartLoadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartLoadStation</Material>
+					</Target>
+					<Text>Chargement Minecart</Text>
+				</Link>
+				<Icon>
+					<Name>Minecart Unload</Name>
+					<Target><Material>MinecartUnloadStation</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>MinecartUnloadStation</Material>
+					</Target>
+					<Text>Déchargement Minecart</Text>
+				</Link>
+			</Paragraphs>
+		</Page>
+			<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Contrôles Minecart Avancés</Text>
+				</Title>
+				<Spacer/>
+				<Paragraph>
+					<Text>Pour un contrôle plus précis du mouvement et du transport du minerai de vos Minecarts, vous disposez de plusieurs outils pour changer le comportement et la prise de décision.</Text>
+				</Paragraph>
+				<Icon>
+					<Name>Minecart Turbo Rail</Name>
+					<Target><Material>Minecart Turbo Rail</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Turbo Rail</Material>
+					</Target>
+					<Text>Rail turbo pour Minecarts</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferFull</Name>
+					<Target><Material>MinecartBufferFull</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Full Gate</Material>
+					</Target>
+					<Text>Porte Minecart Plein</Text>
+				</Link>
+				<Spacer/>
+				<Icon>
+					<Name>MinecartBufferEmpty</Name>
+					<Target><Material>MinecartBufferEmpty</Material>
+</Target>
+				</Icon>
+				<Link>
+					<Target>
+						<Material>Minecart Empty Gate</Material>
+					</Target>
+					<Text>Porte Minecart Vide</Text>
+				</Link>
+				<Spacer/>
+
+		
+			</Paragraphs>
+		</Page>
+	
+	</Pages>
+</MaterialEntry>

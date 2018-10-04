@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>ARTHERSolarPanel</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Panneau Solaire ARTHER</Text>
+				</Title>
+				<Icon>
+					<Name>ARTHER Solar Panel</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliore la vitesse à laquelle ARTHER régénère son énergie grâce à lumière du soleil. Un seul requis et doit être porté dans votre inventaire.</Text>
+				</Paragraph>
+				
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

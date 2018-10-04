@@ -1,0 +1,43 @@
+<MaterialEntry>
+	<Key>Techno_Lift</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ascenseur Anti-Grav</Text>
+        	<Alignment>Center</Alignment>
+				</Title>
+				<Icon>
+					<Name>TechnoAnti-GravLift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>L&apos;ascenseur Anti-Grav est une nouvelle méthode merveilleuse de déplacement vertical, sans tout ce travail fastidieux avec Grappins ou Levage. Toutes les versions se comportent de manière identique, vous pouvez donc les utiliser pour le code couleur de votre base.</Text>
+				</Paragraph>
+				<Spacer/>
+        
+      	<Icon>
+					<Name>RainbowAnti-GravLift</Name>
+          <Target>
+            <Material>Rainbow_Lift</Material>
+          </Target>
+				</Icon>
+			 		<Paragraph>
+					<Text>L&apos;Ascenseur Rainbow nécessite le pack Dapper DLC.</Text>
+				</Paragraph>
+ 
+				<Spacer/>
+				<Icon>
+					<Name>PredatorAnti-GravLift</Name>
+					<Target>
+						<Material>Predator_Lift</Material>
+					</Target>
+				</Icon>
+					<Paragraph>
+					<Text>L&apos;Ascenseur Predator nécessite The Adventures Pack.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

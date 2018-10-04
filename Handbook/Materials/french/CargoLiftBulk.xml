@@ -1,0 +1,49 @@
+<MaterialEntry>
+	<Key>CargoLiftBulk</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Ascenseur de Cargaison Volumineux</Text>
+				</Title>
+				<Icon>
+					<Name>Bulk Cargo Lift</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Le plus grand des Ascenseurs disponibles, cette machine Frozen Factory est idéale pour la livraison en masse de matériaux tels que le Chrome et le Molybdène dans les cavernes gelées. Cet Ascenseur a une capacité énorme et est extrêmement rapide!</Text>
+					<Text>Si vous êtes en mode de jeu Rapide, l'Ascenseur de Cargaison Volumineux transportera le double du chargement</Text>
+				</Paragraph>
+				<Spacer/>
+
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<Spacer/>
+				<TwoColumnParagraph>
+					<Left>Portée Maximale:
+					Vitesse Maximale:
+					Accélération:
+					Capacité Maximale:
+					Utilisation d'Energie (Voyage):
+					</Left>
+					<Right>Illimité
+					15 mètres/sec (30 en Rapide)
+					0.5 mètres/sec/sec
+					3000 (6000 en Rapide)
+					850 EPS
+					</Right>
+				</TwoColumnParagraph>
+
+				<Spacer/>
+				<Link>
+					<Target>
+						<Material>Cargo Lift Controller</Material>
+					</Target>
+					<Text>Controlleur Ascenseur de Cargaison</Text>
+				</Link>
+			</Paragraphs>
+
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

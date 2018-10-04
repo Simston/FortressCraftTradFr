@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>BasicMissileAssembler</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Assembleur de Missile Basique</Text>
+				</Title>
+				<Icon>
+					<Name>Basic Missile Assembler</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>L'Assembleur de Missile Basique est une machine de fabrication utilisée pour automatiser la production de missiles de base.</Text>
+				</Paragraph>
+				<Header>
+					<Text>Utilisation</Text>
+				</Header>
+				<Paragraph>
+					<Text>Comme pour toutes les machines de production autonomes, vous devez installer une trémie de stockage par ingrédient, marquée comme suit: &#39;Retrait Seul&#39;, et une trémie de stockage pour recevoir le produit fabriqué, marqué comme &#39;Ajout Seul&#39;. Cela garantira que la production ne se bloquera pas de manière permanente en raison de la pénurie d'un seul ingrédient.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>Chaque missile fabriqué nécessitera 1 Tuyau de Cuivre, 1 Fil d'Or et un Combustible Composite à Haute énergie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>La machine nécessite également une alimentation pouvant être fournie par un générateur d'énergie raccordé ou indirectement via un Bloc de Stockage d’Énergie ou un Laser Transmetteur d&apos;Énergie.</Text>
+				</Paragraph>
+				<Spacer/>
+				<Paragraph>
+					<Text>L'énergie et les Trémies de Stockage peuvent être placées au-dessus et au-dessous de la machine, ou sur les côtés.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

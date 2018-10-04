@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Scrap Track Crafter</FriendlyName>
+  <SpawnObject>ScrapTrackCrafter</SpawnObject>
+  <Value>ScrapTrackCrafter</Value>   <!-- 157 -->
+
+  <PowerUsePerSecond>0</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>0</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>0</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+
+  <CraftTime>10</CraftTime> 
+  <!-- optional -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>ScrapTrackStraight</CraftedKey>
+    <CraftedName>Scrap Track</CraftedName><!-- Is this used? It shouldn't be -->
+    <CraftedAmount>3</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>RackRail</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Builds cheap but slow ScrapTrack.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

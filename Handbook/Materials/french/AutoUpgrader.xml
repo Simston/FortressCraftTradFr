@@ -1,0 +1,33 @@
+<MaterialEntry>
+	<Key>AutoUpgrader</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Améliorateur Automatique</Text>
+				</Title>
+				<Icon>
+					<Name>Auto Upgrader</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Améliorer automatiquement le niveau des Convoyeurs. Nécessite une trémie contenant des Convoyeurs.</Text>
+				</Paragraph>
+				
+				<Header>
+					<Text>Caractéristiques</Text>
+				</Header>
+				<TwoColumnParagraph>
+					<Left>Energie Par Bloc:
+					Capacité Energie:
+					Max. Taux de Recharge:</Left>
+					<Right>24 par seconde
+					512
+					100 par seconde</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+

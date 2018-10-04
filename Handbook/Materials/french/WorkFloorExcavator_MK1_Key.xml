@@ -1,0 +1,38 @@
+<MaterialEntry>
+	<Key>WorkFloorExcavator_MK1_Key</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>Workfloor Excavator MK1</Text>
+				</Title>
+				<Icon>
+					<Name>WorkFloorExcavator MK1</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 mètre tall tunnel, in a 32m range. It won&#39;t affect ores, meaning you can use this next to your Ore Extractor to clear around. Wide-open work spaces are conducive to organised bases!</Text>
+				</Paragraph>
+				<Spacer/>
+				<Header><Text>Caractéristiques</Text>
+</Header>
+				<TwoColumnParagraph>
+					<Alignment>Center</Alignment>
+					<Left>Range:
+					Capacité Energie:
+					Power per block:
+					Destroys Ores:
+					Max. Taux de Recharge:
+					</Left>
+					<Right>32m
+					512
+					2
+					No
+					Illimité
+					</Right>
+				</TwoColumnParagraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>

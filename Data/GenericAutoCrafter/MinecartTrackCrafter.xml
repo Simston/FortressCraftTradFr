@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericAutoCrafterDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FriendlyName>Minecart Track Crafter</FriendlyName>
+  <SpawnObject>MinecartTrackCrafter</SpawnObject>
+  <Value>MinecartTrackCrafter</Value>   <!-- 158 -->
+
+  <PowerUsePerSecond>0</PowerUsePerSecond>
+  <!-- optional -->
+  <PowerTransferPerSecond>0</PowerTransferPerSecond>
+  <!-- optional -->
+  <MaxPowerStorage>0</MaxPowerStorage>
+  <!-- optional -->
+  <LoadingAnimation>Idle</LoadingAnimation>
+  <!-- optional -->
+  <WorkingAnimation>In</WorkingAnimation>
+  <!-- optional -->
+  <UnloadingAnimation>Out</UnloadingAnimation>
+  <!-- optional -->
+  <!-- As ever, 3:1 ratio for upcrafting times.-->
+  <CraftTime>30</CraftTime><!-- This is more like 5 seconds per plate incoming -->
+  <!-- optional -->
+  <OptionalIngredients>false</OptionalIngredients>
+  <!-- optional -->
+  <Recipe>
+    <CraftedKey>TrackStraight</CraftedKey>
+    <CraftedName>Track Straight</CraftedName><!-- Is this used? It shouldn't be -->
+    <CraftedAmount>25</CraftedAmount>
+    <Costs>
+      <CraftCost>
+        <Key>AlloyedMachineBlock</Key>
+        <Amount>1</Amount>
+      </CraftCost>
+      <CraftCost>
+        <Key>ScrapTrackStraight</Key>
+        <Amount>25</Amount>
+      </CraftCost>
+    </Costs>
+    <Description>Upgrades starter ScrapTrack into faster MinecartTrack using Alloyed Blocks.</Description>
+  </Recipe>
+</GenericAutoCrafterDataEntry>

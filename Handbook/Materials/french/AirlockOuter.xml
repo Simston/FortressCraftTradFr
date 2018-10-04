@@ -1,0 +1,21 @@
+<MaterialEntry>
+	<Key>AirLock_Outer_Placement</Key>
+	<Pages>
+		<Page>
+			<Paragraphs>
+				<Title>
+					<Text>SAS Extérieur</Text>
+				</Title>
+				<Icon>
+					<Name>AirLock_Outer</Name>
+					<Alignment>Center</Alignment>
+				</Icon>
+				<Paragraph>
+					<Text>Connecte les SAS à l&apos;extérieur.</Text>
+				</Paragraph>
+			</Paragraphs>
+		</Page>
+				
+	</Pages>
+</MaterialEntry>
+
