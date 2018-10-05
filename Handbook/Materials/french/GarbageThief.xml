@@ -4,28 +4,28 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Cyberdyne Garbage Thief (tm)</Text>
+					<Text>Cyberdyne Voleur de Déchets (tm)</Text>
 				</Title>
 				<Icon>
 					<Name>Garbage Thief</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Cyberdyne Garbage Thief (or Rubbish Thief as some call it) is simply and Ore Thief with reconfigured to remove garbage in the inventory instead of ore. This machine when used in conjunction with multiple Construction Paste Grinders can rapidly remove and process garbage into construction paste freeing up inventory in the process. For optimal performance replace the floor of a frequented hallway with this machine and an appropriate output handling system.
+					<Text>Le Cyberdyne Voleur de Déchets, est un simple voleur de minerai reconfiguré pour enlever les déchets dans l'inventaire au lieu du minerai. Lorsqu'elle est utilisée avec plusieurs broyeur de pâtes de construction, cette machine peut rapidement éliminer et transformer les déchets en pâte de construction, libérant ainsi l'inventaire. Pour des performances optimales, remplacez le sol d'un couloir fréquenté par cette machine et un système de traitement de sortie approprié.
 
-					Simply build our brand-new Garbage Thief (tm) in a 3x3 layout and supply with a mere 5 power per Block, then just stand on it and let IT do the hard work for you!</Text>
+					Il suffit de construire notre tout nouveau Voleur de Déchets (tm) dans une configuration 3x3 et de l’alimenter avec seulement 5 points d’énergie par bloc.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Garbage Collection Speed:
+					<Left>Vitesse Collection Déchets:
 					Stockage Interne:
 					Utilisation Energie:
 					</Left>
 					<Right>Jusqu'à 3,300/minute!
 					100 units of Garbage!
-					Seulement 5 power per Garbage!
+					Seulement 5 energie par Déchet!
 					</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

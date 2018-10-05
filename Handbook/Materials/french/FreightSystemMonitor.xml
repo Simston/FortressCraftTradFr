@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Freight System Monitor</Text>
+					<Text>Moniteur Système de Fret</Text>
 				</Title>
 				<Icon>
 					<Name>Auto Excavator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Freight System Monitor provides useful information about your freight networks to better track your resource supply and demand.  Press E to access the panel&apos;s display.  You can cycle through each freight network one at a time with the provided buttons or bring up a list to select the specific network of interest.
+					<Text>Le Moniteur Système de Fret fournit des informations utiles sur vos réseaux de fret afin de mieux suivre votre offre et votre demande de ressources. Appuyez sur E pour accéder à l’affichage du panneau. Vous pouvez parcourir chaque réseau de fret un à un avec les boutons fournis ou afficher une liste pour sélectionner le réseau qui vous intéresse.
+
+					Vous pouvez également afficher l'inventaire global. Ceci affichera une liste de tous les contenus de tous les stockages connectés à votre système de fret.
 					
-					You can also view your global inventory.  This will display a listing of all contents of all storage that is connected to your freight system.
-					
-					For additional information on freight system terminology see the following page.  For more information on configuring your freight networks and freight items see the Freight Cart Station entry.</Text>			
+					Pour plus d'informations sur la terminologie du système de fret, voir la page suivante. Pour plus d'informations sur la configuration de vos réseaux de fret et de vos envois, reportez-vous à la rubrique Station Chariot de Fret.</Text>			
 					</Paragraph>
 				<Icon>
 					<Name>Minecart Load</Name>
@@ -26,18 +26,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Freight System Terminology</Text>
+					<Text>Terminologie du Système de Fret</Text>
 				</Title>
 				<Paragraph>
-					<Text>Each freight network consists of an array of freight items that are player defined for transport within the system.  Each of these freight items has four key properties associated with it: Inventory, Deficit, Surplus, and Transit Quantity.
+					<Text>Chaque réseau de fret est constitué d’un ensemble d’articles de fret définis par le joueur pour le transport dans le système. Chacun de ces articles de fret est associé à quatre propriétés principales: inventaire, déficit, surplus et quantité en transit.
 					
-					The inventory is the total quantity of the freight item that exists within storage that is connected to the network.
+					L'inventaire est la quantité totale du fret existant dans la mémoire connectée au réseau.
 					
-					Deficit is the sum of each stations shortage of a good from their target inventory.  It is a measure of how much need there is for an item.
+					Le Déficit est la somme de chaque station manquant d'un bien de son inventaire cible. C'est une mesure de la quantitée requise pour un article.
 					
-					Surplus is the excess of items that stations have available to offer to other stations on the network.  It is a measure of how many items are available as spare goods ready to transport around by carts.
+					Le Surplus est l'excédent d'articles que les stations ont à offrir aux autres stations du réseau. C'est une mesure du nombre d'articles disponibles en tant que produits de rechange prêts à être transportés par les Chariots.
 					
-					Transit Quantity is the total number of items currently carried by freight carts on the network.  Freight carts will only collect items from a station if the transit quantity is less than the network deficit.  Once the quantity is reached the carts will be able to satisfy the deficit so no additional items are required.</Text>
+					La quantité en transit(Transit Quantity) correspond au nombre total d'articles actuellement transportés par des chariots de fret sur le réseau. Les chariots de fret ne collecteront les articles d'une station que si la quantité en transit est inférieure au déficit du réseau. Une fois la quantité atteinte, les chariots seront en mesure de combler le déficit, de sorte qu'aucun article supplémentaire ne soit requis.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

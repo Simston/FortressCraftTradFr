@@ -4,37 +4,37 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Freight Cart Station</Text>
+					<Text>Station Chariot de Fret</Text>
 				</Title>
 				<Icon>
 					<Name>Minecart Load</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Freight carts and stations provide intelligent resource distribution within your fortress.</Text>
+					<Text>Les Chariots et les Stations de Fret assurent une distribution intelligente des ressources au sein de votre forteresse.</Text>
 				</Paragraph>
 				<Paragraph>
-				<Text>Freight cart stations can interface directly with mass storage and hoppers.  Carts that come to the station will collect resources from storage to transport to other destinations.  Designated resources must be configured at each freight cart station.
+				<Text>Les stations de transport de fret peuvent s’interfacer directement avec le stockage de masse et les trémies. Les chariots qui arrivent à la station vont collecter des ressources de stockage pour les transporter vers d'autres destinations. Les ressources désignées doivent être configurées à chaque Station Chariot de Fret.
 				
-				Freight carts will only collect resources from a freight cart station if the resources are required by another station on the network.  The requirements of a station are defined by the stocking limits of the registered freight.  See the following pages for defining the network and configuring the registered freight for a station.
+				Les Chariots de Fret ne collecteront des ressources d'une Station Chariot de Fret que si les ressources sont requises par une autre station du réseau. Les exigences d'une station sont définies par les limites de stockage de fret enregistré. Consultez les pages suivantes pour définir le réseau et configurer le fret enregistré pour une gare.
 				
-				Hold CTRL, SHIFT, or ALT when adjusting the stock limits to change their values by 1, 10, or 1000 per click, respectively.  Right clicking an empty registry enables registering an item by name.</Text>
+				Maintenez les touches CTRL, SHIFT ou ALT enfoncées lors du réglage des limites de stock pour modifier leurs valeurs de 1, 10 ou 1 000 par clic. Un clic droit sur un registre vide permet d’enregistrer un élément par son nom.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Title>
-				<Text>Freight Networks</Text>
+				<Text>Réseau de Fret</Text>
 				</Title>
 				<Paragraph>
-				<Text>Freight Cart Stations are divided up by their Freight Networks.  The network is a name that indicates what other stations can connect to this one for supplying and receiving freight.  It is your responsibility to ensure the carts can actually get to each station on the network!  Failure to do so may result in carts stuck with undeliverable goods.  Carts will light red and indicate an error when they cannot find their destination.
+				<Text>Les Station Chariot de Fret sont divisés par leurs réseaux de fret. Le réseau est un nom qui indique quelles autres stations peuvent se connecter à celle-ci pour fournir et recevoir du fret. Il est de votre responsabilité de vous assurer que les chariots peuvent réellement atteindre chaque station du réseau! Sinon, les chariots pourraient rester coincés avec des produits non livrables. Les chariots s'allumeront en rouge et indiqueront une erreur lorsqu'ils ne pourront pas trouver ou joindre leur destination.
 				
-				On opening the station panel (E) for the first time you will be asked to assign the Freight Cart Station to a network.  You can reassign a station to a new network at any time, however carts&apos; goods previously collected from the station will be reserved for the previous network until delivered.
+				Lors de la première ouverture du panneau de la station (E), il vous sera demandé d’affecter la station de chariots à un réseau. Vous pouvez réaffecter une station à un nouveau réseau à tout moment. Toutefois, les chariots et les marchandises précédemment récupérées à la station seront réservées pour le réseau précédent jusqu'à leur livraison.
 				
-				It is left up to you to decide how to best organize your networks whether it be by the type of goods distributed, locations served, or another scheme.  Experiment to find what works best for you!
-				
-				HINT! Choose a descriptive network name so you remember the purpose of the network or what goods it distributes.  For example, "T1 Components", "Research Pods", or "Fuel".</Text>
+				Il vous appartient de décider de la meilleure organisation de vos réseaux, que ce soit en fonction du type de biens distribués, des lieux desservis ou d'un autre système. Expérimentez pour trouver ce qui vous convient le mieux!
+
+				ASTUCE! Choisissez un nom de réseau descriptif afin de vous rappeler de son rôle ou les biens qu’il distribue. Par exemple, "Composants T1", "Capsules de recherche" ou "Carburant"...</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -44,57 +44,57 @@
 				<Text>Configuration</Text>
 				</Title>
 				<Paragraph>
-				<Text>Pressing (E) to interact with the Freight Cart Station will open the interface for configuring the station.  Press the Set Freight button to configure goods for delivery.
+				<Text>Appuyez sur (E) pour interagir avec la Station Chariot de Fret et ouvrir l'interface de configuration de la station. Appuyez sur le bouton (Set Freight, Définir Fret) pour configurer les marchandises à livrer.
 				
-				Registering an item as designated freight consists of two parts.  The first is the item itself which can be dragged from an inventory slot to the empty slot at the end of the list or by right clicking the slot to search for it by name.  The second is to define the target stock setpoint.
+				L'enregistrement d'un article en tant que fret désigné se compose de deux parties. Le premier est l’article lui-même qui peut être glissé d’un emplacement d’inventaire vers l’emplacement vide situé à la fin de la liste ou par un clic droit sur l’emplacement pour le rechercher par son nom. La seconde consiste à définir le point de consigne du stock cible.
+
+				Le (Target Stock) point de consigne du stock cible correspond à la quantité de marchandises que les chariots tenteront de maintenir à la station. S'il y a moins d'articles dans l'inventaire, les chariots cibles tenteront de livrer des articles à la station. Si l'inventaire est supérieur à la cible, les chariots les collecteront et les livreront si une autre station en a besoin pour atteindre son stock cible.
 				
-				The Target Stock setpoint is the amount of goods carts will attempt to maintain at the station.  If there are fewer items in inventory than the target carts will attempt to deliver items to the station.  If the inventory is greater than the target carts will collect these and deliever them if another station needs them to reach its target stock.
-				
-				Intentionally setting the stock to a low value or 0 makes most or all of the items available to transport to other stations.</Text>
+				Définir intentionnellement le stock sur une valeur basse ou 0, la plupart ou la totalité des articles est disponible pour le transport vers d'autres stations.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Title>
-				<Text>Track Networks</Text>
+				<Text>Réseau de Voies</Text>
 				</Title>
 				<Paragraph>
-				<Text>Carts must be assigned to a station for a depot to release a cart on the track.
+				<Text>Les chariots doivent être assignés à une station pour qu'un dépôt libère un chariot sur la piste.
 				
-				Once assigned, freight carts prioritize their designated station for pickup.  When a freight cart delivers goods to any other station it will only collect goods from this station that are required for its assigned station.  In this way the cart will rapidly return to its assigned station to prioritize serving it.
+				Une fois assignés, les chariots de fret donnent la priorité à la station désignée pour le ramassage. Lorsqu'un chariot de fret livre des marchandises à une autre station, il ne récupérera que les marchandises nécessaires à la station qui lui est attribuée. De cette façon, le chariot retournera rapidement à la station qui lui a été attribuée pour donner la priorité à son service principal.
 				
-				A cart assigned to a receive-only station will seek out stations offering goods that can satisfy the station&apos;s requests.  As the cart prioritizes returning to the assigned station you can ensure highly demanded goods will get to this station.
+				Un chariot affecté à une seule station de réception, recherchera des stations proposant des marchandises pouvant satisfaire les demandes de la station. Comme le chariot donne la priorité au retour à la station assignée, vous serrez assuré que les marchandises très demandées arriveront à cette station.
 				
-				Make sure each mass storage has plenty of room to hold the request amounts plus a bit to spare for excess that gets returned to the station.  A station&apos;s name will appear in red in the system monitor if a cart was unable to deposit at the station in the last minute.</Text>
+				Assurez-vous que chaque stockage de masse dispose de suffisamment d'espace pour contenir les montants de la demande, ainsi qu'un peu de surplus pour éviter les excédents renvoyés à la station. Le nom d’une station apparaît en rouge sur le moniteur du système si un chariot n’a pas pu être déposé à la station au cours des dernières minutes.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Title>
-				<Text>Network Design</Text>
+				<Text>Conception de Réseau</Text>
 				</Title>
 				<Paragraph>
-				<Text>Junctions provide the ability to branch off paths for carts so that they don&apos;t need to path through every station on a long loop - instead they take the shortest route directly to the one they they are traveling to.
+				<Text>Les jonctions offrent la possibilité de bifurquer le chemin des chariots afin qu’ils n’aient pas besoin de parcourir chaque station sur de longue boucle; au lieu de cela, ils empruntent le chemin le plus court directement vers laquelle ils doivent se rendent.
 				
-				A station can support up to 180 objets par minute of throughput.  Even a large mass storage only needs a few stations to service all of the carts.  Remember also that all stations with the same network ID on a mass storage will share freight goods so there is no need to duplicate entries.  
+				Une station peut prendre en charge jusqu'à 180 objets de débit par minute. Même un grand stockage de masse n'a besoin que de quelques stations pour desservir tous les chariots. N'oubliez pas non plus que toutes les stations ayant le même ID de réseau sur un stockage de masse partageront les marchandises, il n'y a donc pas lieu de dupliquer les entrées.
 				
-				If you need stations on a storage to have different freight goods use a different network ID.  This allows you to separate out goods with a different target stock level.  Useful for setting distribution priorities!</Text>
+				Si vous avez besoin que les stations d'un stockage aient des marchandises différentes, utilisez un ID de réseau différent. Cela vous permet de séparer les marchandises avec un niveau de stock cible différent. Utile pour définir les priorités de distribution!</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Title>
-				<Text>Tips!</Text>
+				<Text>Astuces!</Text>
 				</Title>
 				<Paragraph>
-				<Text>Carts navigate directly between destinations.  This allows open ended track connections or stations with only one track connection.  Carts will not attempt to leave a station unless they have a safe route to their destination.  Be mindful of collisions though.
+				<Text>Les chariots naviguent directement entre les destinations. Ceci permet des connexions de piste ouvertes ou des stations avec une seule connexion de piste. Les chariots ne tenteront pas de quitter une station à moins d’avoir un itinéraire sûr pour se rendre à leur destination. Attention cependant aux collisions.
 				
-				When using the Right Click search function type in "component", "placement", or "multi" (Without quotes) to get a list of the multi-block components. 
+				Lors de l'utilisation de la fonction de recherche par clic droit, saisissez "component"(composant), "placement"(emplacement) ou "multi" (sans guillemets) pour obtenir une liste des composants multi-blocs. 
 				
-				Booster rails at junctions quickly accelerate carts that had to wait for a clear path.</Text>
+				Les rails de renforcement aux jonctions accélèrent rapidement les chariots qui doivent attendre pour un chemin dégagé.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

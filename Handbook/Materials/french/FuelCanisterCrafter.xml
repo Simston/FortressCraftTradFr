@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Empty Fuel Canister Crafter</Text>
+					<Text>Constructeur de Cartouches à Carburant Vide</Text>
 				</Title>
 				<Icon>
 					<Name>Fuel Canister Crafter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Automatically reshapes Iron Pipes into Empty Fuel Canisters. Requires no power!</Text>
+					<Text>Transforme automatiquement les Tuyaux en fer en cartouche de carburant vides. Ne nécessite pas d'énergie!</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 1 Iron Pipe to start the reshaping process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins un tuyau de fer pour démarrer le processus de transformation.</Text>
 				</Paragraph>
 
 				<Header>

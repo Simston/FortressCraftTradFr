@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gas Bottler</Text>
+					<Text>Embouteilleur de Gaz Compressé</Text>
 				</Title>
 				<Icon>
 					<Name>T4_Gas_Bottler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Gas Bottler is the final step in the particle refining process, utilizing the stored particles from a single Particle storage it is able to output said particles into single use containers. The Gas Bottler is built in a 3x3x9 formation.</Text>
+					<Text>La bouteille de gaz est la dernière étape du processus de raffinage des particules. Elle utilise les particules stockées dans un stockage de particules uniques et permet de produire lesdites particules dans des récipients à usage unique. L'embouteilleur de gaz est construit dans une formation de 3x3x9.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
@@ -28,25 +28,25 @@
 					<Target>
 						<Chapter>T4_Particles</Chapter>
 					</Target>
-					<Text>Particulate Filtration System</Text>
+					<Text>Système de filtration de particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Filter</Material>
 					</Target>
-					<Text>Particle Filter</Text>
+					<Text>Filtre à Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Compressor</Material>
 					</Target>
-					<Text>Particle Compressor</Text>
+					<Text>Compresseur de Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Storage</Material>
 					</Target>
-					<Text>Particle Storage</Text>
+					<Text>Stockage de Particule</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
