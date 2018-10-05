@@ -4,29 +4,29 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Arc Smelter Upgrade</Text>
+					<Text>Amélioration de Fonderie ARC</Text>
 				</Title>
 				<Icon>
 					<Name>Forced InductionT6</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This high-energy usage kit allows you to upgrade a single Ore Smelter to be able to cope with Chromium and Molybdenum. 
+					<Text>Ce kit d'utilisation élevée en énergie vous permet d'améliorer une seule fonderie de minerai afin de pouvoir traiter le Chrome et au Molybdène.
 
-					This should be replaced with a proper system capable of dealing with these materials as soon as possible, as the Arc Smelter upgrade is exceptionally inefficient.</Text>
+					Devras être remplacé par un système approprié capable de traiter ces matériaux dès que possible, car l'amélioration de Fonderie d'Arc est exceptionnellement inefficace.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Basic Ore Smelters do not support Forced Induction Upgrades.</Text>
+					<Text>Les Fonderies Basiques ne prennent pas en charge les améliorations d'Induction Forcée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Smelting Speed:
+					<Left>Vitesse de Fonte:
 					Utilisation Energie:
-					Power Storage:
-					Heating Rate:
+					Stockage Energie:
+					Taux de Chauffe:
 					</Left>
 					<Right>50%
 					51200%

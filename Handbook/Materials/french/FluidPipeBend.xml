@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Fluid Pipe (Bend)</Text>
+					<Text>Tuyau de Fluide (courbé)</Text>
 				</Title>
 				<Icon>
 					<Name>Bent Fluid Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Allows connection of appropriate machines. Can also carry gases.</Text>
+					<Text>Permet la connexion aux machines appropriées. Peut aussi transporter des Gaz.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

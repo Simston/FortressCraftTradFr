@@ -21,12 +21,12 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Range:
-					Damage Per Shot:
-					Power Per Shot:
+					<Left>Portée:
+					Dégat Par Tir:
+					Energie Par Tir:
 					Max. Capacité Energie:
 					Max. Taux de Recharge:
-					Reload Time:</Left>
+					Temps de Rechargement:</Left>
 					<Right>72m
 					3600
 					400

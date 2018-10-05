@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>CryoPlasm Lancer</Text>
+					<Text>Tourelle Anti-CryoPlasm</Text>
 				</Title>
 				<Icon>
 					<Name>CryoPlasm Lancer</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Short-range, fast, CryoPlasm defence.</Text>
+					<Text>Défense CryoPlasm à courte portée et rapide.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Range:
-					Removal Time:
+					<Left>Portée:
+					Temps de Retrait:
 					Energie Requise:
 					Max. Capacité Energie:
 					Max. Taux de Recharge:
-					Reload Time:</Left>
+					Temps de Rechargement:</Left>
 					<Right>9m
 					3 secondes
 					500 par seconde
@@ -32,7 +32,7 @@
 				</TwoColumnParagraph>
         <Spacer/>
         <Paragraph>
-          <Text>If linked to a Freezon Injector, then you will gain an approximate 28x boost in CryoPlasm cleared per minute, as well as a doubling of range.
+          <Text>Si associé à un Injecteur Freezon, vous obtiendrez une augmentation approximative de 28x CryoPlasm néttoyé par minute, ainsi qu'un doublement de la portée.
           </Text>
         </Paragraph>
 

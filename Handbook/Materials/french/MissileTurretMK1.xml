@@ -20,10 +20,10 @@
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Minimum Range:
+					<Left>Minimum Portée:
 					Portée Maximale:
 					Missiles per Salvo:
-					Reload Time:
+					Temps de Rechargement:
 					Damage (per missile):</Left>
 					<Right>64m
 					512m

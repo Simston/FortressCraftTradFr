@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Electric Light</Text>
+					<Text>Lampe Électrique</Text>
 				</Title>
 				<Icon>
 					<Name>Electric Light</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Electric Light must be connected to power to operate and provides a cool blue light across a far wider area than a standard Torch. These are expressely designed to light up cavernous areas. You can use the Paintgun (B) to tint or darken the lights as necessary.</Text>
+					<Text>La Lampe Électrique doit être connecté à l'alimentation pour fonctionner et fournit une lumière bleue froide sur une zone beaucoup plus large qu'une torche standard. Celles-ci sont conçus pour éclairer les cavernes. Vous pouvez utiliser le Pistolet à Peinture (B) pour teinter ou assombrir les lumières si nécessaire.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>Three styles of projection are available: Spotlight, Pointlight and Shadowed Pointlight. Do not enable Shadows unless you&apos;re on a powerful computer.</Text>
+					<Text>Trois styles de projection sont disponibles: Spotlight, Pointlight et Shadowed Pointlight. N'activez pas les ombres à moins que vous ne soyez sur un ordinateur puissant.</Text>
 				</Paragraph>
 					
 			</Paragraphs>

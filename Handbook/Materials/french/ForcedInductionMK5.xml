@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>T5 Forced Induction</Text>
+					<Text>Induction Forcée T5</Text>
 				</Title>
 				<Icon>
 					<Name>Forced InductionT5</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter. 
+					<Text>Les modules d'Induction Forcée constituent une amélioration de la Fonderie, augmente la vitesse de fusion au détriment d'une consommation d'énergie considérablement accrue. Pour utiliser le module, placez-le au dessus de la Fonderie. 
 
-					T5 Forced Induction Upgrades also quadruples the rate at which ore can be collected from the attached Storage Hopper.</Text>
+					Les améliorations d'induction forcée T5 quadruple également la vitesse à laquelle le minerai peut être collecté à partir de la trémie de stockage adjacente.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Basic Ore Smelters do not support Forced Induction Upgrades.</Text>
+					<Text>Les Fonderies Basiques ne prennent pas en charge les améliorations d'Induction Forcée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Smelting Speed:
+					<Left>Vitesse de Fonte:
 					Utilisation Energie:
-					Power Storage:
-					Heating Rate:
-					Item Transfer Rate:</Left>
+					Stockage Energie:
+					Taux de Chauffe:
+					Taux Transfert d'Objet:</Left>
 					<Right>400%
 					3200%
 					400%

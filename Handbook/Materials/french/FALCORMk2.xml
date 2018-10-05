@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Collects items from FALCOR Beacons attached to remote Storage Hoppers and returns it. Needs attached storage hopper.</Text>
+					<Text>Récupère le butin provenant des balises FALCOR et le renvoie. Nécessite une trémie de stockage.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

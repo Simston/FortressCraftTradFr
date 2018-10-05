@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Emerald Focusing Lens</Text>
+					<Text>Lentille de Concentration Émeraude</Text>
 				</Title>
 				<Icon>
 					<Name>Emerald Focusing Lens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-          <Text>Insert into a Laser Power Transmitter to provide a flat-rate boost to its power transmission rate. Gives a massive increase in low-tier LPTs, but is much less useful in higher Tier ones.</Text>
+          <Text>Insérez-le dans un Laser Transmetteur d&apos;Énergie pour augmenter de façon uniforme le taux de transmission de son énergie. Amélioration importante sur les LTE de bas niveau, mais est beaucoup moins utile pour ceux de niveau supérieur.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

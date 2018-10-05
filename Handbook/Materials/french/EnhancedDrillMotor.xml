@@ -4,20 +4,20 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Enhanced Drill Motor</Text>
+					<Text>Moteur Foreuse Amélioré</Text>
 				</Title>
 				<Icon>
 					<Name>Enhanced Drill Motor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Improves the speed at which an ore extractor mines ore at the cost of increased power usage.</Text>
+					<Text>Améliore la vitesse à laquelle un extracteur de minerai extrait le minerai au prix d'une utilisation accrue de l'énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Extraction Speed:</Left>
+					<Left>Vitesse d'Extraction:</Left>
 					<Right>400%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

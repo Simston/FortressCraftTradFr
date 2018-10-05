@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Empty Metal Tube</Text>
+					<Text>Tube de Métal Vide</Text>
 				</Title>
 				<Icon>
 					<Name>Empty Metal Tube</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple but strong metal tube constructed from Iron.</Text>
+					<Text>Un tube en métal simple mais solide construit à partir de fer.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

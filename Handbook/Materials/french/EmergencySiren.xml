@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Emergency Siren</Text>
+					<Text>Sirène d&apos;Urgence</Text>
 				</Title>
 				<Icon>
 					<Name>Emergency Siren</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Attach to a machine to monitor it.</Text>
+					<Text>Attacher à une machine pour la surveiller.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

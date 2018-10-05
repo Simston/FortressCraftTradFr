@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>CryoPlasm Melter</Text>
+					<Text>Liquéfieur de CryoPlam</Text>
 				</Title>
 				<Icon>
 					<Name>CryoPlasm Melter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Melts CryoPlasm at a medium range. Useful only when paired with other types of defence.
-					Melting the CryoPlasm causes it to turn into a liquid that falls from the air and off sides of blocks.</Text>
+					<Text>Fait fondre le CryoPlasm à moyenne portée. Utile uniquement en association avec d'autres types de défense.
+					La fusion du CryoPlasm provoque sa transformation en un liquide tombant dans l’air et hors des blocs.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Range:
-					Removal Time:
+					<Left>Portée:
+					Temps de Déplacement:
 					Energie Requise:
 					Max. Capacité Energie:
 					Max. Taux de Recharge:</Left>
@@ -31,7 +31,7 @@
 				</TwoColumnParagraph>
         <Spacer/>
         <Paragraph>
-          <Text>Freezon Injecting a Melter will double its range and melt-rate.</Text>
+          <Text>Injecteur Freezon doublera sa plage et son taux de fusion.</Text>
         </Paragraph>
         <Icon>
           <Name>Freezon Injector</Name>

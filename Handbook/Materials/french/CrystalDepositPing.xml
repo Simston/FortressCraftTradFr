@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Deposit Ping</Text>
+					<Text>Ping de Dépôt de Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Crystal Deposit Ping</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Crystal Deposit Ping is used to find additional crystal deposits when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</Text>
+					<Text>Le Ping de Dépôt de Cristal est utilisé pour trouver des Dépôts de Cristaux supplémentaires lorsque ceux situé à travers le matériau inconnu ping est presque épuisé ou insuffisant. Pour plus d’informations, reportez-vous au guide d’aide pour le Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

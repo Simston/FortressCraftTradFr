@@ -4,23 +4,23 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Extrusion Plant</Text>
+					<Text>Usine d'Extrusion de Fil</Text>
 				</Title>
 				<Icon>
 					<Name>Extrusion Plant</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Extrusion Plant is a regular conveyor fitted with a machine for extruding metal bars into wires, and behaves like a Conveyor in all circumstances.</Text>
+					<Text>L’Usine d’Extrusion est un convoyeur standard équipé d’une machine à extruder des barres métalliques en fils métalliques et se comporte comme un convoyeur classique.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Usage</Text>
+					<Text>Utilisation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Feed metal bars into the Extrusion Plant from another Conveyor, Conveyor-based machine, or Conveyor Turntable. The Extruder will convert the bars into wires which can be used in additional recipes, or further converted into Coils or PCBs.</Text>
+					<Text>Introduisez des Lingots de Métal dans l'installation d'extrusion à partir d'un autre convoyeur, d'une machine à convoyeur ou d'un Convoyeur à plateau tournant. L'extrudeuse convertira les lingots en fils pouvant être utilisés dans des recettes supplémentaires, convertis en bobines ou en circuits imprimés.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>The Extrusion Plant is essential for the automation of Laboratory Research.</Text>
+					<Text>L'Usine d'Extrusion de Fil est essentiel pour l'automatisation de la Recherche en Laboratoire.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

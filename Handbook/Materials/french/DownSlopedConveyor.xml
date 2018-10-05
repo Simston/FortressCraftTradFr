@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Down Sloped Conveyor</Text>
+					<Text>Convoyeur Descendant</Text>
 				</Title>
 				<Icon>
 					<Name>Down Sloped Conveyor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Transports items diagonal at around 1.4 times the speed of a regular conveyor. Thanks Pythagoras!</Text>
+					<Text>Transporte les articles en diagonale à environ 1,4 fois la vitesse d’un transporteur ordinaire. Merci Pythagore!</Text>
 				</Paragraph>
 				
 			</Paragraphs>

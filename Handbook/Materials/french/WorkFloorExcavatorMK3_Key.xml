@@ -17,10 +17,10 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Range:
+					<Left>Portée:
 					Capacité Energie:
-					Power per block:
-					Destroys Ores:
+					Energie par Bloc:
+					Détruit les Linerais:
 					Max. Taux de Recharge:
 					</Left>
 					<Right>64m

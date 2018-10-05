@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Minecarts are for Bulk transfers of items at a medium rate.</Text>
+					<Text>Les minecarts servent pour les transferts en masse d'objets à un taux moyen.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -29,7 +29,7 @@
 				</TwoColumnParagraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Minecart usage is straightforwards, and simply expands on the Hopper -&gt; Conveyor paradigm that has been used until now. Minecarts are loaded onto your minecart network via a Minecart Depot.</Text>
+					<Text>L'utilisation de Minecart est simple et étend simplement la trémie -&gt; Paradigme de convoyeur qui a été utilisé jusqu'à présent. Les Minecarts sont chargés sur votre réseau minecart via un Dépôt Minecart.</Text>
 &gt;
 				</Paragraph>
 				<Spacer/>
@@ -37,7 +37,7 @@
 					<Target>
 						<Material>Minecart Depot</Material>
 					</Target>
-					<Text>Minecart Depot</Text>
+					<Text>Dépôt Minecart</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
@@ -45,11 +45,11 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Minecart Resource Handling</Text>
+					<Text>Gestion des ressources Minecart</Text>
 				</Title>
 
 				<Paragraph>
-					<Text>Once onto your minecart network, Minecarts will stop at Load and Unload stations, and collect and drop off their carried resources.</Text>
+					<Text>Une fois sur votre réseau minecart, les minecarts s’arrêteront aux stations de chargement et de déchargement, puis collecteront et déposeront les ressources transportées.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Icon>
@@ -61,7 +61,7 @@
 					<Target>
 						<Material>MinecartLoadStation</Material>
 					</Target>
-					<Text>Minecart Load</Text>
+					<Text>Chargement Minecart</Text>
 				</Link>
 				<Icon>
 					<Name>Minecart Unload</Name>
@@ -72,18 +72,18 @@
 					<Target>
 						<Material>MinecartUnloadStation</Material>
 					</Target>
-					<Text>Minecart Unload</Text>
+					<Text>Dechargement Minecart</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
 			<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Advanced Minecart Controls</Text>
+					<Text>Contrôles Avancés Minecart</Text>
 				</Title>
 				<Spacer/>
 				<Paragraph>
-					<Text>For finer control over your Minecart&apos;s movement and ore-carrying, you have a number of tools available for changing behaviour and decision making.</Text>
+					<Text>Pour un contrôle plus précis du mouvement et du transport du minerai de vos Minecarts, vous disposez de nombreux outils pour modifier le comportement et leurs prises de décisions.</Text>
 				</Paragraph>
 				<Icon>
 					<Name>Minecart Turbo Rail</Name>
@@ -106,7 +106,7 @@
 					<Target>
 						<Material>Minecart Full Gate</Material>
 					</Target>
-					<Text>Minecart Full Gate</Text>
+					<Text>Porte Minecart Plein</Text>
 				</Link>
 				<Spacer/>
 				<Icon>
@@ -118,7 +118,7 @@
 					<Target>
 						<Material>Minecart Empty Gate</Material>
 					</Target>
-					<Text>Minecart Empty Gate</Text>
+					<Text>Porte Minecart Vide</Text>
 				</Link>
 				<Spacer/>
 

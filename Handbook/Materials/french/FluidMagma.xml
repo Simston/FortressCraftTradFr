@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Fluid Magma</Text>
+					<Text>Magma Fluide</Text>
 				</Title>
 				<Icon>
 					<Name>Fluid Magma</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Extremely hot and deadly to the touch.</Text>
+					<Text>Extrêmement chaud et mortel au toucher.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

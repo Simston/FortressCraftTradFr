@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Fiber Mesh</Text>
+					<Text>Treillis en Fibres de Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Crystal Fiber Mesh</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>By using advanced processing techniques Crystal Deposit is now able to be recombined at the molecular level. This new mesh is capable of withstanding extreme heat and pressure. This material is created in the Crystal Mesh Weaver and is a main requirement in the pipes that make Geothermal Thermoelectric Generation possible. </Text>
+					<Text>En utilisant des techniques de traitement avancées, le Dépôt de Cristal peut maintenant être recombiné au niveau moléculaire. Ce nouveau maillage est capable de résister à la chaleur et à la pression extrêmes. Ce matériau est créé dans le tissage de mailles de cristal et constitue une exigence essentielle à la création de Tuyaux permettant la génération thermoélectrique géothermique. </Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

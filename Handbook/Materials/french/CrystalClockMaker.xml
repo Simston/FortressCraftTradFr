@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Clock Maker</Text>
+					<Text>Constructeur d'Horloge en Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Power Grid</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Creates and fits components made of Crystal Deposits to make Crystal Clocks that tick at a set speed.</Text>
+					<Text>Crée et adapte des composants en Dépot de Cristal pour créer des Horloges en Cristal à une vitesse définie.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 5 Crystal Deposits to start the crafting process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins 5 dépôts de cristal pour entamer le processus de fabrication.</Text>
 				</Paragraph>
         <Spacer/>
 				<Header>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Diamond Focusing Lens</Text>
+					<Text>Lentille de Concentration Diamant</Text>
 				</Title>
 				<Icon>
 					<Name>Diamond Focusing Lens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-          <Text>Insert into a Laser Power Transmitter to provide a flat-rate boost to its power transmission rate. Gives a massive increase in low-tier LPTs, but is much less useful in higher Tier ones.</Text>
+          <Text>Insérez-le dans un Transmetteur d'Energie Laser pour augmenter de façon uniforme le taux de transmission de son énergie. Donne une augmentation massive des TEL de bas niveau, mais est beaucoup moins utile dans ceux de niveau supérieur.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

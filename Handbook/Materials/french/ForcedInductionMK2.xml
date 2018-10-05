@@ -4,27 +4,27 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>T2 Forced Induction</Text>
+					<Text>Induction Forcée T2</Text>
 				</Title>
 				<Icon>
 					<Name>Forced InductionT2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Forced Induction modules are an upgrade for the Ore Smelter which increases smelting speed at the cost of greatly increased power usage. To use the module place it on top of the Ore Smelter.</Text>
+					<Text>Les modules d'Induction Forcée constituent une amélioration de la Fonderie, augmente la vitesse de fusion au détriment d'une consommation d'énergie considérablement accrue. Pour utiliser le module, placez-le au dessus de la Fonderie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Basic Ore Smelters do not support Forced Induction Upgrades.</Text>
+					<Text>Les Fonderies Basiques ne prennent pas en charge les améliorations d'Induction Forcée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Smelting Speed:
+					<Left>Vitesse de Fonte:
 					Utilisation Energie:
-					Power Storage:
-					Heating Rate:</Left>
+					Stockage Energie:
+					Taux de Chauffe:</Left>
 					<Right>300%
 					1600%
 					250%

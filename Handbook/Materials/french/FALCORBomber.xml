@@ -11,9 +11,9 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The FALCOR Bomber is a slow but massively efficient and automatic way of clearing long-distance CryoPlasm out. With a maximum range of 128 mètre, the Bomber station will slowly scan in front of it, then, if CryoPlasm is found with no blockers in front of it, the FALCOR will launch and take out an area.
-          
-          This is most effective on deep CryoPlasm, but does not differentiate. It is smart, so you can defend your base with multiple Bombers, and they will only launch when there is something to bomb.
+					<Text>Le bombardier FALCOR est un moyen lent, mais efficace massivement, et automatique, pour nettoyer le CryoPlasm sur de longues distances. Avec une portée maximale de 128 mètre, la station de bombardement balayera lentement devant elle si du CryoPlasm est détecté, si rien ne bloque la vision le FALCOR s'activera et supprimera la zone.
+
+          L'arme la plus efficace sur du CryoPlasm profond, mais ne fais pas de distinction. Arme intelligente, vous pouvez donc défendre votre base avec plusieurs bombardiers, ils ne lanceront l'attaque que lorsqu'il y'aura une menace à traiter.
           </Text>
 				</Paragraph>
 			</Paragraphs>

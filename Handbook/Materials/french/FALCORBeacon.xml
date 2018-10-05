@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>FALCOR Beacons</Text>
+					<Text>Balises FALCOR</Text>
 				</Title>
 		
 						
@@ -14,13 +14,13 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>The Fully-Automated Loot Collector Organisational Robots (or FALCOR for short!) Beacons can be used in one of three different modes.
+					<Text>Les balises des robots (FALCOR) peuvent être utilisées selon trois modes différents.
 
-					If the Beacon was placed on the floor, then it will collect items within 16 meters in all directions and hold it until a MK1 FALCOR is free to collect.
+					Si la balise a été placée sur le sol, elle recueillera les objets dans un rayon de 16 mètres dans toutes les directions et les conserveras jusqu'à ce qu'un FALCOR MK1 soit disponible pour la récupération.
 
-					If the Beacon was placed on top of a Storage Hopper, then it will collect items from that Storage Hopper and hold it until a Logistics FALCOR is free to collect.
+					Si la balise a été placée sur une trémie de stockage, elle collectera les éléments de cette trémie de stockage et les conserveras jusqu'à ce qu'un FALCOR de logistique soit disponible.
 					
-					If a Beacon is added to the Spiderbot the Beacon will Pickup Loot around the Spiderbot. SpiderCor Drones need to collect the Loot then from the Beacons. (Seulement two Beacons required)
+					Si une balise est ajoutée au Spiderbot, celle-ci ramassera le butin autour du Spiderbot. Les drones SpiderCor doivent collecter le butin provenant des balises. (Seulement deux balises requises)
 
 					</Text>
 					</Paragraph>
@@ -31,9 +31,9 @@
 			<Paragraphs>
 				<Paragraph>
 				<Text>
-					FALCOR bases do not require power, neither do Storage Beacons. Collector Beacons however require power.
-					
-					For the first and second Beacon types a Clearance of at least 16m above them is required.
+					Les stations FALCOR ne nécessitent pas d'énergie, pas plus que les balises de stockage. Les balises collectrices nécessitent toutefois de l'énergie.
+
+					Pour les premier et deuxième types de balises, un dégagement d'au moins 16 m au-dessus d'elles est requis.
 				</Text>
 				</Paragraph>
 				<Link>
@@ -46,7 +46,7 @@
 					<Target>
 						<Material>FALCORMK2</Material>
 					</Target>
-					<Text>Logistics FALCOR</Text>
+					<Text>FALCOR Logistiques</Text>
 				</Link>				
 				<Link>
 					<Target>

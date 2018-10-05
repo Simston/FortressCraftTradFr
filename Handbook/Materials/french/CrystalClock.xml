@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Clock</Text>
+					<Text>Horloge en Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Crystal Clock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Crystal Clocks are a common crafting ingredient used in advanced machinery. The inclusion of Crystal Clocks in machinery allows for more precise timing than what would normally be possible. Crystal Clocks are made using 5 Crystal Deposit in a Crystal Clock Maker. Normal Crystal Clocks like most chips can be overclocked to produce more efficient Clocks for more advanced machinery.</Text>
+					<Text>Les Horloges en Cristal sont un objet de fabrication commun utilisé dans les machines de pointe. L'inclusion d'Horloge en Cristal dans les machines permet un chronométrage plus précis que ce qui serait normalement possible. Les Horloges en Cristal sont fabriquées à l’aide de 5 Dépôts de Cristal. Les Horloges en Cristal normales, comme la plupart des puces, peuvent être overclockées pour produire des horloges plus efficaces pour des machines plus avancées.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

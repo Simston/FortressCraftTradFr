@@ -163,8 +163,8 @@
   <string name="High Energy Composite Fuel">Carburant Composite Haute Énergie</string>
   <string name="Empty Metal Tube">Tube de métal Vide</string>
   <string name="Empty Metal Tubes">Tubes de métal Vides</string>
-  <string name="Empty Fuel Canister">Cartouche de carburant vide</string>
-  <string name="Empty Fuel Canisters">Cartouches de carburant Vides</string>
+  <string name="Empty Fuel Canister">Cartouche de Carburant Vide</string>
+  <string name="Empty Fuel Canisters">Cartouches de Carburant Vides</string>
   <string name="High Octane Fuel">Carburant à Haute Teneur en Octane</string>
   <string name="Gold Bar">Lingot d&apos;Or</string>
   <string name="Gold Bars">Lingots d&apos;Or</string>
@@ -239,7 +239,7 @@
   <string name="Nickel Ore Pings">Pings de Nickel</string>
   <string name="Titanium Ore Ping">Ping de Titane</string>
   <string name="Titanium Ore Pings">Pings de Titane</string>
-  <string name="Crystal Deposit Ping">Ping de Dépot de Cristal</string>
+  <string name="Crystal Deposit Ping">Ping de Dépôt de Cristal</string>
   <string name="Crystal Deposit Pings">Pings de Dépôt de Cristal</string>
   <string name="Biomass Growth Ping">Ping Pousse de Biomasse</string>
   <string name="Biomass Growth Pings">Pings Pousse de Biomasse</string>
@@ -1195,11 +1195,11 @@
   <string name="Minecart Full Gate_DESC">Les Minecarts vont suivre la flèche rouge et tourner s&apos;ils sont PLEINS. Vert et ils passeront librement.</string>
   <string name="Minecart Empty Gate">Porte Minecart Vide</string>
   <string name="Minecart Empty Gate_DESC">Les Minecarts vont suivre la flèche rouge et tourner s&apos;ils sont VIDES. Vert et ils passeront librement.</string>
-  <string name="Minecart Depot">Dépot Minecart</string>
+  <string name="Minecart Depot">Dépôt Minecart</string>
   <string name="Minecart Depot_DESC">Place un Minecart depuis une Trémie de Stockage attachée</string>
   <string name="Minecart Brake">Rail Frein pour Minecarts</string>
   <string name="Minecart Brake_DESC">Réduit la vitesse des Minecarts</string>
-  <string name="Minecart Turbo Rail">Rail turbo pour Minecarts</string>
+  <string name="Minecart Turbo Rail">Minecart Turbo Rail</string>
   <string name="Minecart Turbo Rail_DESC">Augmente la vitesse des Minecarts</string>
   <string name="Minecart Unload Station">Station de Déchargement pour Minecarts</string>
   <string name="Minecart Unload Station_DESC">Déplace les ressources du Minecart vers Trémie de Stockage attachés</string>
@@ -1441,7 +1441,7 @@
   <string name="Spiderbot Base Component_DESC">Permet les mises à niveau et la recharge des armes et objets SpiderBot. Construire dans une configuration 15x1x15.</string>
   <string name="MK2 Organic Solar Component">Composant Organique Solaire MK2</string>
   <string name="MK2 Organic Solar Component_DESC">Crée un Panneau Solaire de 3x3 horizontalement et de 1 de hauteur. collecte une faible quantité la nuit.</string>
-  <string name="Climate Control Centre">Centre Contrôle Climat</string>
+  <string name="Climate Control Centre">Centre de Contrôle du Climat</string>
   <string name="Climate Control Centre_DESC">Non pertinent.</string>
   <string name="Hard Rock Grinder">Broyeur de Roche Dure</string>
   <string name="Hard Rock Grinder_DESC">Une machine multibloc à usage unique. Permet de collecter une petite quantité de Chrome ou de Molybdène. Construire dans une configuration 3x1x3.</string>
@@ -1991,7 +1991,7 @@
   <string name="Crude Organic Lens_CRAFT_HINT">Celles-ci sont les plus efficaces placées dans les LTE de niveau intermédiaire.</string>
   <string name="Organic Lens_CRAFT_DESC">Insérer dans un Laser Transmetteur d&apos;Energie pour augmenter la vitesse de 100%</string>
   <string name="Organic Lens_CRAFT_HINT">Celles-ci sont les plus efficaces placées dans les LTE de niveau intermédiaire.</string>
-  <string name="Exceptional Organic Lens_CRAFT_DESC">Insérer dans un émetteur de puissance laser pour augmenter la vitesse de 250%.</string>
+  <string name="Exceptional Organic Lens_CRAFT_DESC">Insérer dans un Transmetteur d'Energie Laser pour augmenter la vitesse de 250%.</string>
   <string name="Exceptional Organic Lens_CRAFT_HINT">Ce sont les plus efficaces placés dans les LTE de haut niveau.</string>
   <string name="Iron Gear_CRAFT_DESC">Engrenage biseauté, utilisé dans divers moteurs et joints.</string>
   <string name="Iron Gear_CRAFT_HINT">Il est plus efficace d’automatiser la fabrication de ce produit.</string>
@@ -3027,7 +3027,7 @@
   <string name="PTGs">Les GP</string>
   <string name="Enriched">Enrichi</string>
   <string name="Infused">Infusé</string>
-  <string name="LPTs">LPTs</string>
+  <string name="LPTs">LTE</string>
   <string name="with_lenses">avec des lentilles</string>
   <string name="Storage">Espace de stockage</string>
   <string name="No_MS_system_detected">Aucun Système de Stockage de Masse détecté</string>

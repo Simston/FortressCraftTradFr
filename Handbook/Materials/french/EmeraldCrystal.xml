@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Emerald Crystal</Text>
+					<Text>Cristal d&apos;Émeraude</Text>
 				</Title>
 				<Icon>
 					<Name>Emerald Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>An Emerald crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -75 to -150.</Text>
+					<Text>Le Cristal d&apos;Émeraude est un matériau rare utilisé comme ingrédient de base pour les Améliorations. On peut le trouver dans les grottes entre -75 et -150.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

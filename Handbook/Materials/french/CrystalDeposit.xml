@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Deposit</Text>
+					<Text>Dépôt de Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Diamond Ore</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Crystal deposits are found in the Cold Caverns. There were findings of veins closely to the Cold Caverns but never in greater distance. It can be Dug-up with a Buildgun MK2, Ore Extractors  and by Trencher-Extractors.</Text>
+					<Text>Les Dépôts de Cristaux se trouvent dans les Cavernes Froides. Des veines ont été découvertes à proximité des cavernes froides, mais jamais très loin. Il peut être installé avec un Fusil Constructeur MK2, des Extracteurs de Minerai et des Foreuses à Tranchant.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Crystal Deposits are used in a variety of Recipies. Read the Following Sides to know where.</Text>
+					<Text>Les Dépôts de Cristaux sont utilisés dans une variété importante de recettes. Lisez sur les côtés pour en savoir plus.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>En Bref</Text></Header>
@@ -26,11 +26,11 @@
 					2ème Etape de l'Extraction:
 
 					3ème Etape de l'Extraction:</Left>
-					<Right>Cold Caverns, -200 to -280
-					Pink-Purple
-					Build Gun MK2
-					Ore Extractor Fitted with "Steel Cutterhead" or harder.
-					Trencher Extractor MK1-MK3</Right>
+					<Right>Cavernes Froides, -200 to -280
+					Rose-Violet
+					Fusil Constructeur MK2
+					Extracteur de Minerai équipé d'une "Tête de Coupe en Acier" ou plus dur.
+					Foreuse à Tranchant MK1-MK3</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

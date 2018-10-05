@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Dirt</Text>
+					<Text>Boue</Text>
 				</Title>
 				<Icon>
 					<Name>Dirt</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Block type usually found just beneath the snowy surface blocks. Can be crushed in macerator to possibly extract useful ore.</Text>
+					<Text>Type de bloc habituellement trouvé juste sous les blocs enneigés. Peut être broyé dans un Macérateur pour éventuellement extraire du minerai utile.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

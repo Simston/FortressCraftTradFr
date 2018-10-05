@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Fortified PCB</Text>
+					<Text>PCB Fortifié</Text>
 				</Title>
 				<Icon>
 					<Name>Fortified PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A nickel based PCB created from nickel coils in a PCB Assembling Plant.</Text>
+					<Text>Un PCB à base de nickel créé à partir de bobines de nickel dans une usine d'assemblage de PCB.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

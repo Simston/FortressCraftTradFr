@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Organic Lens</Text>
+					<Text>Lentille Organique</Text>
 				</Title>
 				<Icon>
 					<Name>Organic Lens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Insert into a Laser Power Transmitter to improve its power transmission rate.</Text>
+					<Text>Insérer dans un Laser Transmetteur d&apos;Energie pour améliorer son taux de transmission de puissance.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

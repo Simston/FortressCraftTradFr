@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Research Parts</Text>
+					<Text>Composants de Recherche</Text>
 				</Title>
 				<Icon>
 					<Name>Lightweight PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The crashed cargo pod appears to have a number of advanced pieces of circuitry we&#39;re just unable to reproduce on the surface. Taking this to your lab and using the Analyse mode when it&#39;s in an attached Storage Hopper should yield some useful research!</Text>
+					<Text>Le module cargo qui s’est écrasée semble comporter un certain nombre de circuits avancés que nous ne pouvons tout simplement pas reproduire à la surface. Envoyer cela à votre Laboratoire et utiliser le mode Analyser lorsque celui-ci se trouve dans une trémie de stockage connectée devrait permettre de mener des recherches utiles!</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
@@ -19,7 +19,7 @@
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Enriched Coal</Text>
+					<Text>Charbon Enrichi</Text>
 				</Title>
 				<Icon>
 					<Name>Enriched Coal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Enriched Coal is the product of the Coal Enricher. Enriched Coal is an improvement over normal coal as it generates more power in the same amount of time.</Text>
+					<Text>Charbon Enrichi est le produit d'un Enrichisseur de Charbon. Charbon Enrichi est une amélioration par rapport au charbon normal, il génère plus d'énergie dans un même temps donné.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Coal Enricher</Material>
 					</Target>
-					<Text>Coal Enricher</Text>
+					<Text>Enrichisseur de Charbon</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>FALCORs</Text>
+					<Text>Les FALCOR</Text>
 				</Title>
 		
 						
@@ -14,13 +14,13 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>There are two types of Fully-Automated Loot Collector Organisational Robots (or FALCOR for short!) 
+					<Text>Il existe deux types de robots organisationnels de Collecte de butins entièrement automatisés (ou FALCOR en abrégé!)
 
-					The MK1 FALCORs will search in a 128m area for Beacons with collected items. If one is found, the FALCOR will fly over, retrieve item, and return it. Returned items are then placed into an attached Storage Hopper.
+					Les FALCOR MK1 rechercheront dans une zone de 128 m des balises contenant des éléments collectés. S'il en trouve un, le FALCOR survolera, récupérera l'élément et le retournera. Les articles retournés sont ensuite placés dans une trémie de stockage adjacente.
 
-					Logistics FALCORs work identically, but will only service Beacons placed on top of Storage Hoppers.
+					Les FALCOR logistiques fonctionnent de manière identique, mais ne desservent que les balises placées au-dessus des trémies de stockage.
 
-					Coming soon! Advanced FALCORs that allow filtering of desired items! FALCOR bases do not require power, however, Beacons do.
+					Arrive bientôt! FALCOR avancés permettant le filtrage des éléments souhaités! Les stations FALCOR ne nécessitent pas d’alimentation, contrairement aux balises.
 					</Text>
 				</Paragraph>
 				<Icon>
@@ -32,7 +32,7 @@
 					<Target>
 						<Material>FALCOR Beacon</Material>
 					</Target>
-					<Text>FALCOR Beacon</Text>
+					<Text>Balise FALCOR</Text>
 				</Link>
 	
 				 

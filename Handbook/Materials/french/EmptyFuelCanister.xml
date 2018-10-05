@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Empty Fuel Canister</Text>
+					<Text>Cartouche de Carburant Vide</Text>
 				</Title>
 				<Icon>
 					<Name>EmptyCanister</Name>
@@ -12,14 +12,14 @@
 				</Icon>
 				<Paragraph>
 					<Text>
-						A canister for holding High Energy Composite Fuel.
+						Une cartouche pour contenir du Carburant Composite à Haute Energie.
 					</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Refinery Controller</Material>
 					</Target>
-					<Text>Refinery Controller</Text>
+					<Text>Contrôleur de Raffinerie</Text>
 				</Link>
 		
 			</Paragraphs>

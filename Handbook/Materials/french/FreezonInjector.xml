@@ -4,32 +4,32 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Freezon Injector</Text>
+					<Text>Injecteur Freezon</Text>
 				</Title>
 				<Icon>
 					<Name>Freezon Injector</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Freezon Injectors use Freezon Canisters to give large benefits to compatible machines.</Text>
+					<Text>Les Injecteurs Freezon utilisent des Cartouches Freezon pour offrir de grands avantages aux machines compatibles.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
-				<Header><Text>Effects</Text>
+				<Header><Text>Effets</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>  Lancers
-  Melters
-  Resin Ablator
-  Resin Liquifier
+					<Left>  Lanceurs
+  Fonderies
+  Ablateur de Résine
+  Liquéfieur de Résine
 					</Left>
-					<Right>28x Clear rate
-2x Range 
-4x Rate Boost
-4x Rate Boost</Right>
+					<Right>28x Taux clean
+2x Portée 
+4x Taux Boost
+4x Taux Boost</Right>
 				</TwoColumnParagraph>
         <Paragraph>
-          <Text>Freezon can be used to boost Geothermals Power Generation 20-fold, which internally include an injection interface via Storage Hoppers, so an Injector is not needed.</Text>
+          <Text>Le Freezon peut être utilisé pour stimuler la production d'énergie géothermique par 20, inclu une interface d'injection via des trémies de stockage.</Text>
         </Paragraph>
 			</Paragraphs>
  

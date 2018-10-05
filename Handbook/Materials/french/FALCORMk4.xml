@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Automatically collects marked loot from FALCOR Beacons mounted on SpiderBot. Requires attached Storage Hopper. Ideal for Wasp drops! You can mount 2 Beacons on the SpiderBot, and the ideal number of SpiderCORs is 4.</Text>
+					<Text>Collecte automatiquement le butin marqué par les balises FALCOR montées sur SpiderBot. Nécessite une trémie de stockage adjacente. Idéal pour les drops de WASP(Guêpe)! Vous pouvez installer 2 balises sur le SpiderBot, et le nombre idéal de SpiderCOR est de 4.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

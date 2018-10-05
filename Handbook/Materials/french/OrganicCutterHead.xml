@@ -21,9 +21,9 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Efficiency:
-					Maximum Hardness:
-					Durability:</Left>
+					<Left>Efficacité:
+					Dureté maximale:
+					Durabilité:</Left>
 					<Right>50%
 					250
 					1500</Right>

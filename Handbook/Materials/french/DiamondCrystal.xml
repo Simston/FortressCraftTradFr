@@ -4,19 +4,19 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Diamond Crystal</Text>
+					<Text>Cristal de Diamant</Text>
 				</Title>
 				<Icon>
 					<Name>Diamond Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A diamond crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth 0 to -75.</Text>
+					<Text>Un cristal de diamant est un matériau rare utilisé comme ingrédient de base pour Améliorations. On peut le trouver dans les cavernes en profondeurs 0 à -75.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Tricks and Tips.</Text>
+					<Text>Trucs et Astuces.</Text>
 				</Header>
-				<Paragraph><Text>These semi-open caves are best approached from the surface.</Text>
+				<Paragraph><Text>Ces grottes semi-ouvertes sont les plus proches la surface.</Text>
 </Paragraph>
 				
 			</Paragraphs>
