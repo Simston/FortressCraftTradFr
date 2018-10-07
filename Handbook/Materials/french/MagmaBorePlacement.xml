@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>MagmaBore Construction</Text>
+					<Text>Construction Perceur Magma</Text>
 				</Title>
 				<Icon>
 					<Name>MagmaBore Component</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Cuts an enormous bore down to the magma caverns in order to flood the Cold Caverns with heat. Build in a 33wx3hx33d configuration (3276 total)</Text>
+					<Text>Fore un énorme trou dans les cavernes magmatiques afin d’inonder les cavernes froides de chaleur. Construire dans une configuration 33wx3hx33d (3276 au total)</Text>
 				</Paragraph>
 	
 				<Spacer/>
 			
 				<Paragraph>
-					<Text>The MagmaBore will create us a shaft down to the Magma Caverns; once this is complete, we should be able to compress the magma and use it to finally wipe the CryoPlasm Spawner out - permenantly.</Text>
+					<Text>Le Perceur Magma va créer un puits vers les Cavernes Magma; une fois cette opération terminée, nous devrions pouvoir compresser le magma et l'utiliser pour éliminer le CryoPlasm Spawner - de manière permanente.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Paragraph>
-					<Text>The base of the MagmaBore is built in a 33 mètre square shape, 3 mètres tall. Once this is done, the base gantry will attempt to self-erect. This will require a clearance of 12 more mètres; the area to be cleared will be marked off with a red box. Clear inside this area to progress to the main digistruct gantry.</Text>
+					<Text>La base du Perceur Magma est construite dans une config de 33 mètres carrés et 3 mètres de hauteur. Une fois que cela est fait, le Portique de base tentera de s'auto-ériger. Cela nécessitera un dégagement de plus de 12 mètres; la zone à nettoyer sera marquée par des cases rouge. Dégagez l'intérieur de cette zone pour accéder au Portique principal de digistruct.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Paragraph>
-					<Text>The main part of the MagmaBore will require a further 64 mètres of clearance, for a total size of 33x80x33. Again, clear any detritus inside the blue box to proceeed to the final phase. We are going to need epic amounts of power to literally create this invincible drill from pure energy.</Text>
+					<Text>La partie principale du Perveur Magma nécessitera un dégagement supplémentaire de 64 mètres, pour une taille totale de 33x80x33. Encore une fois, éliminez tous les éléments dans la boîte bleue pour passer à la phase finale. Nous allons avoir besoin de quantités d'énergie épiques pour créer littéralement cet foreuse invincible à partir d’énergie pure.</Text>
 				</Paragraph>
 				<Spacer/>
 			</Paragraphs>
