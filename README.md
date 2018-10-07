@@ -14,7 +14,7 @@ Si vous souhaitez apporter votre contribution ou de simples modifications.
   [Discord FotressCraft](https://steamcommunity.com/linkfilter/?url=https://discord.gg/0kQmw4GKk6Zzpj2w)
  > Channel Translation Mon Login Discord : Steff#3048
 
-## INSTALLATION
+## Installation
 
 - Téléchargez le fichier Zip.
 - Glissez les répertoires directement dans : 
