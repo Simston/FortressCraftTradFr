@@ -11,9 +11,9 @@ Contact & Modifications
 Si vous souhaitez apporter votre contribution ou de simples modifications.
 2 Possibilitées :
 - En exécutant unne PullRequest via GitHub.
-- En me contactant sur le Discord Officiel de FortressCraft 
-  https://steamcommunity.com/linkfilter/?url=https://discord.gg/0kQmw4GKk6Zzpj2w
-  >>> Channel Translation Mon Login Discord : Steff#3048
+- En me contactant sur le Discord Officiel de FortressCraft.
+- https://steamcommunity.com/linkfilter/?url=https://discord.gg/0kQmw4GKk6Zzpj2w
+>>> Channel Translation Mon Login Discord : Steff#3048
 
 -------------------------
 INSTALLATION
