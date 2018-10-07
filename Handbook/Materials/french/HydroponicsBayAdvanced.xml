@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Advanced Hydroponics Bay</Text>
+					<Text>Baie Hydroponique Avancée</Text>
 				</Title>
 				<Icon>
 					<Name>AdvancedHydroponicsBay</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Grows plants much faster. Must be built indoors or will lose the plants being grown. Maybe requires power, haven&apos;t decided.</Text>
+					<Text>Cultive les plantes beaucoup plus rapidement. Doit être construit à l'intérieur les plantes cultivées seront détruites.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

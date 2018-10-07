@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hardened Resin</Text>
+					<Text>Résine Durcie</Text>
 				</Title>
 				<Icon>
 					<Name>Hardened Resin</Name>
@@ -12,12 +12,12 @@
 				</Icon>
         <Paragraph>
           <Text>
-            This incredibly hard organic structure appears to be shielding a soft and vulnerable core.
+            Cette structure organique incroyablement dure semble protéger un noyau mou et vulnérable.
           </Text>
         </Paragraph>
         <Paragraph>
           <Text>
-            Nano-Disintegrators can perhaps make a small hole, but we&apos;ll need specialised equipment to deal with large quantities of this resin, and this should be researched as soon as possible.
+            Les nano-désintégrateurs peuvent peut-être faire un petit trou, mais nous aurons besoin d'un équipement spécialisé pour traiter de grandes quantités de cette résine, ce qui devrait faire l'objet de recherches dès que possible.
           </Text>
         </Paragraph>
 			</Paragraphs>

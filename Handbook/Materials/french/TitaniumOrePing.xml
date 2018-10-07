@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Ore Ping</Text>
+					<Text>Ping de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Ore Ping</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Titanium Ore Ping is used to find additional titanium veins when the one located through the unknown material ping is almost exhausted or insufficient. For more information refer to the help guideance for the Blank Ore Ping.</Text>
+					<Text>Le Ping de Titane est utilisé pour trouver d’autres veines de minerai de titane si celles déjà découvertes sont sur le point de s’épuiser ou trop petite pour être encore exploitées. Pour plus d'informations, reportez-vous au guide d'aide relatif au Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

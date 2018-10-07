@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Coil</Text>
+					<Text>Bobine de Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Coil</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple iron coil created from iron wires in a Coiler Plant.</Text>
+					<Text>Une simple bobine de fer créée à partir de fils de fer dans une Usine de Bobine.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

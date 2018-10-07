@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Gear Crafter</Text>
+					<Text>Fabricateur d'Engrenage en Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Gear</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Cuts Iron Plates into Iron Gears for use in machinery.</Text>
+					<Text>Découpe les Plaques de Fer en Engrenages en Fer pour utilisation dans les machines.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>

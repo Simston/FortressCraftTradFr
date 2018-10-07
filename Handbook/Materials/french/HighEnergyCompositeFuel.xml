@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>High Energy Composite Fuel</Text>
+					<Text>Carburant Composite Haute Énergie</Text>
 				</Title>
 				<Icon>
 					<Name>High Energy Composite Fuel</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>High Energy Composite Fuel can be manufactured in a Refinery Reactor Vat from Biomass. It is used to power jet turbines and in the manufacture of missile defenses. Fuel canisters used in a jet turbine can be recycled when empty.</Text>
+					<Text>Carburant Composite Haute Énergie peut être fabriqué dans un Réacteur de Raffinerie VAT à partir de Biomasse. Il est utilisé pour alimenter des turbines à jet et dans la fabrication de défenses antimissiles. Les Cartouches de Carburant utilisés dans une turbine à réaction peuvent être recyclés lorsqu'ils sont vides.</Text>
 				</Paragraph>
 				<Link>
 					<Target>

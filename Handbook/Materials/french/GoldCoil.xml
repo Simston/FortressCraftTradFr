@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Coil</Text>
+					<Text>Bobine d'Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Coil</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple gold coil created from gold wires in a Coiler Plant.</Text>
+					<Text>Une simple bobine d'or créée à partir de fils d'or dans une usine de bobine.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

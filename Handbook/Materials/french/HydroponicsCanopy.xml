@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hydroponics Canopy</Text>
+					<Text>Verrière Hydroponique</Text>
 				</Title>
 				<Icon>
 					<Name>HydroponicsCanopy</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A decorative piece of canopy created on an Advanced Hydroponics Bay.</Text>
+					<Text>Un morceau de canopée décoratif créé sur une Baie Hydroponique Avancée.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

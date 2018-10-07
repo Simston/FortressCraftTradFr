@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Plate</Text>
+					<Text>Plaque de Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple iron plate created from iron bars in a Stamper Plant.</Text>
+					<Text>Une simple Plaque de Fer créée à partir de Lingots de Fer dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

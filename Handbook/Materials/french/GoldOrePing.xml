@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Ore Ping</Text>
+					<Text>Ping d&apos;Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Ore Ping</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Gold Ore Ping is used to find additional Gold ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</Text>
+					<Text>Le Ping d&apos;Orest est utilisé pour trouver d’autres veines de minerai d’or si celles déjà découvertes sont sur le point de s’épuiser ou trop petite pour être encore exploitées. Pour plus d'informations, reportez-vous au guide d'aide relatif au Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Housing</Text>
+					<Text>Boîtier en Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple gold housing created from gold plates.</Text>
+					<Text>Un simple boîtier en or créé à partir de plaques d'or.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

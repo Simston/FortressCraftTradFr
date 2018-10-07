@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Gear</Text>
+					<Text>Engrenage en Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Gear</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A bevelled gear, used in various motors and joints.</Text>
+					<Text>Un engrenage biseauté, utilisé dans divers moteurs et joints.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Bar</Text>
+					<Text>Lingot de Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Iron Bars are generally used in machines requiring a sturdy construction. They are crafted from Iron Ore, which can be found at least 65m below the surface.</Text>
+					<Text>Les Lingots de Fer sont généralement utilisées dans les machines nécessitant une construction robuste. Ils sont fabriqués à partir de minerai de fer, qui peut être trouvé au moins 65m sous la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

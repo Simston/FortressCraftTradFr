@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Green GlowPod</Text>
+					<Text>Plante Bioluminescente Verte</Text>
 				</Title>
 				<Icon>
 					<Name>Green GlowPod</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This native species of flora emits a steady green glow due to a chemical reaction just below the surface of the plant.</Text>
+					<Text>Cette espèce de flore indigène émet une lueur verte constante en raison d'une réaction chimique juste sous la surface de la plante..</Text>
 				</Paragraph>
 		
 				<Spacer/>

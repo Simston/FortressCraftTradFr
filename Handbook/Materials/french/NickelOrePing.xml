@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Ore Ping</Text>
+					<Text>Ping Minerai de Nickel</Text>
 				</Title>
 				<Icon>
-					<Name>Nickel Ore Ping</Name>
+					<Name>Le Ping Minerai de Nickel</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Nickel ore Ping is used to find additional Nickel ore veins if the one previously discovered is nearing exhaustion or is too small to be of any use. For more information refer to the help guidance for the Blank Ore Ping.</Text>
+					<Text>The Nickel ore Ping est utilisé pour trouver d’autres veines de minerai de nickel si celles déjà découvertes sont sur le point de s’épuiser ou trop petite pour être encore exploitées. Pour plus d'informations, reportez-vous au guide d'aide relatif au Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

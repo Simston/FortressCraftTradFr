@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hive Brain Matter</Text>
+					<Text>Matière Grise de (Hive)Ruche</Text>
 				</Title>
 				<Icon>
 					<Name>Brain Matter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Most of the hive mind was destroyed in the energy blast. Some of the brain matter is intact enough to warrant investigation. Your laboratory will be able to Analyse this item, which should give us additional research options.</Text>
+					<Text>La majeure partie de Matière Grise a été détruite lors de l'explosion d'énergie. Une partie de la matière cérébrale est suffisamment intacte pour justifier une enquête. Votre laboratoire sera en mesure d'analyser cet élément, ce qui devrait nous donner des options de recherche supplémentaires.</Text>
 				</Paragraph>
 				<Spacer/>
 rte
@@ -20,7 +20,7 @@ rte
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

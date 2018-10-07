@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hive Agitator</Text>
+					<Text>Agitateur de Ruche(Hive)</Text>
 				</Title>
 				<Icon>
 					<Name>Hivemind Agitator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The link between the Mynocks and the Hiveminds has been deciphered, and it seems we can reproduce the telepathic signals, meaning that we should be able to make a specific Hivemind grow, in order to farm the useful Resin.</Text>
+					<Text>Le lien entre les Mynocks et les Hivemind a été déchiffré et il semble que nous puissions reproduire les signaux télépathiques, ce qui signifie que nous devrions être en mesure de faire pousser un Hivemind spécifique, afin de cultiver la résine utile.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The growth rate can be modulated by feeding the Agitator more or less power. Approximately 25 power is needed to cause a single growth on the Hivemind. There is no particular limit on how many Agitators can be used on any number of Hiveminds. Consider this a warning.</Text>
+          <Text>Le taux de croissance peut être modulé en fournissant plus ou moins d'énergie à l'Agitateur. Il faut environ 25 points d’énergie pour provoquer une croissance sur le Hivemind. Il n'y a pas de limite particulière quant au nombre d'Agitateurs pouvant être utilisés sur un nombre quelconque d'Hiveminds. Considérez ceci comme un avertissement.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The centre of the Hive will need to be within 32 mètres of the Agitator.</Text>
+          <Text>Le centre de la ruche(Hive) devra se situer à moins de 32 mètres de l'Agitateur.</Text>
         </Paragraph>
         <Icon>
           <Name>Brain Matter</Name>

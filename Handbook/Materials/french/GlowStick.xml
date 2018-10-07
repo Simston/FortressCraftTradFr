@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Glow Stick</Text>
+					<Text>Bâton Lumineux</Text>
 				</Title>
 				<Icon>
 					<Name>Glow Stick</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Glow sticks are automatically crafted by your suit on request for the cost of 5 energy. Press G to throw a Glowstick!</Text>
+					<Text>Les bâtons lumineux sont automatiquement confectionnés par votre combinaison sur demande pour un coût de 5 énergies. Appuyez sur G pour lancer un bâton lumineux!</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

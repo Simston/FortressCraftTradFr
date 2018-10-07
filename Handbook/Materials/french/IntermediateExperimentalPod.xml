@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Intermediate Experimental Pod</Text>
+					<Text>Capsule Expérimentale Intermédiaire</Text>
 				</Title>
 				<Icon>
 					<Name>ResearchPod_Intermediate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Intermediate Experimental pods are used in a laboratory to conduct experiments and complete research projects, These pods are manufactured from Iron. For more information on laboratory research please visit the following guide.</Text>
+					<Text>Capsule Expérimentale Intermédiaire sont utilisés dans un laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de fer. Pour plus d'informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>For more information on creating experimental pods please read the following guide.</Text>
+					<Text>Pour plus d'informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant..</Text>
 				</Paragraph>
 				
 				<Link>
@@ -30,7 +30,7 @@
 						<Chapter>experimental pods</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Experimental Pods</Text>
+					<Text>Capsule Expérimentale</Text>
 				</Link>
 		
 			</Paragraphs>

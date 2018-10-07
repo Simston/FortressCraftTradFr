@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Pipe</Text>
+					<Text>Tuyau en Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple gold pipe created from gold bars in a Pipe Extrusion Plant.</Text>
+					<Text>Un simple tuyau en or créé à partir de lingots d'or dans une usine d'extrusion de tuyaux.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

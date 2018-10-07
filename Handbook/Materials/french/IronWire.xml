@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Wire</Text>
+					<Text>Fil de Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple iron wire created from iron bars in an Extrusion Plant.</Text>
+					<Text>Un simple fil de fer créé à partir de Lingots de Fer dans une usine d'extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

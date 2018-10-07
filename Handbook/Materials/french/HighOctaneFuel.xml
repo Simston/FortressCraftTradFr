@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>High Octane Fuel</Text>
+					<Text>Carburant à Haute Teneur en Octane</Text>
 				</Title>
 				<Icon>
 					<Name>HighOctanelCanister</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Fuel for use in the orbital railgun.</Text>
+					<Text>Carburant à utiliser dans le Canon Orbital.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

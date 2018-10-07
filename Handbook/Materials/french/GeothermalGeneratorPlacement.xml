@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Geothermal Generator Comp.</Text>
+					<Text>Composant Générateur Géothermique.</Text>
 				</Title>
 				<Icon>
 					<Name>Geothermal Generator comp</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The geothermal Generator components are used to form a high tier passive power generation system capable of outputting  10 times the power of a jet turbine. The geothermal generator must be placed in the cold caverns and fed Heat Conducting Pipes to start generating power. The Geothermal works by generating energy from heat differences, for every pipe placed below the cold cavern level the power generated par seconde will increase. Once the Heat Conducting Pipes reach the magma caverns they will start absorbing heat from the magma sea thereby generating exponentially more power than before. Since the Geothermal generates energy from heat differences feeding it freezon canisters should increase the Geothermal’s energy production by a significant amount. </Text>
+					<Text>Les composants du Générateur Géothermique sont utilisés pour former un système de production d’énergie passif de haut niveau capable de produire 10 fois la puissance d’une turbine à jet. Le Générateur Géothermique doit être placé dans les cavernes froides et alimenté par des tubes thermoconducteurs pour pouvoir générer de l'énergie. La géothermie fonctionne en générant de l'énergie à partir de différences de température. Pour chaque tuyau placé sous le niveau de la caverne froide, la puissance générée par seconde augmentera. Une fois que les conduits thermiques atteignent les cavernes de magma, ils vont commencer à absorber la chaleur de la source de magma, générant ainsi plus de puissance de manière exponentielle. La géothermie générant de l’énergie à partir des différences de température, elle devrait augmenter considérablement la production d’énergie globale. </Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Needs to be constructed in a 5x3x5.</Text>
+					<Text>Doit être construit dans un 5x3x5.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Heat Conducting Pipe</Material>
 					</Target>
-					<Text>Heat Conducting Pipe</Text>
+					<Text>Tuyau Conducteur de Chaleur</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
@@ -32,14 +32,14 @@
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Power (rush - always): 
-					Peak Power (plentiful):
-					Peak Power (scarce): 
-					Freezon Multiplier:
-					Multiplier Time:
+					<Left>Energie (rush - toujours): 
+					Pic d'Énergie (abondant):
+					Pic d'Énergie (insufissant): 
+					Multiplicateur Freezon:
+					Multiplicateur Temps:
 					Capacité Energie:
 					Max. Taux Transfert Energie:
-					Burn Time:
+					Temps de Combustion:
 					Carburant:</Left>
 					<Right>32808 par seconde
 					410.1 par seconde
@@ -49,7 +49,7 @@
 					15000
 					3200 par seconde
 					nan
-					Heat differential
+					Différentiel Température
 					</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

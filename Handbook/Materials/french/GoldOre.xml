@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Ore</Text>
+					<Text>Minerai d'Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Ore_Sparse</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Gold Ore will most likely be found below the Cold Caverns, Veins are found deeper too. Statistics show, with greater depth the richness will rise. It can be Dug-up with a Build Gun MK1, Ore Extractors and by Trencher-Extractors.</Text>
+					<Text>Le minerai d’or se trouvera très probablement au-dessous des cavernes froides, les veines sont également plus profondes. Les statistiques montrent que plus la veine est profonde, plus elle sera riche. Il peut être récolter avec un Fusil Constructeur MK1, des Extracteurs de Minerai et par des Foreuse à Tranchant.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The first Stages of Ore smelting can be done with Standard Ore Smelters. Later, when Throughput is valued over Efficiency, a Blast Furnace Setup is strongly recommended.</Text>
+					<Text>Les premières étapes de la fusion du minerai peuvent être réalisées avec les Fonderies standard. Plus tard, lorsque le débit est supérieur au rendement, une configuration de Haut Fourneau est fortement recommandée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>En Bref</Text></Header>
@@ -29,13 +29,13 @@
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>
 					<Right>-300 to -1500m
-					Bright Yellow, Wireframe
-					Build Gun MK1
-					Ore Extractor
-					Trencher Extractor MK1-MK3
+					Jaune Brillant, Métallique
+					Fusil Constructeur MK1
+					Extracteur de Minerai
+					Foreuse à Tranchant MK1-MK3
 					
-					Ore Smelter
-					Blast Furnace Setup</Right>
+					Fonderie
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

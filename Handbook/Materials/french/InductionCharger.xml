@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Induction Charger</Text>
+					<Text>Chargeur à Induction</Text>
 				</Title>
 				<Icon>
 					<Name>Induction Charger</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Induction Charger is a small 5x5 machine that has an extremely high throughput but minimal on-board storage. It is an excellent candidate for supplying power to an area without cluttering it with many lasers or batteries, and should avoid the need for having underground buried powerlines and distribution blocks.
+					<Text>Le chargeur à induction est une petite machine 5x5 avec un débit extrêmement élevé mais un stockage embarqué minimal. C'est un excellent candidat pour alimenter une zone en énergie sans l'encombrer de nombreux lasers ou batteries, et devrait éviter la nécessité d'avoir des lignes électriques enterrées et des blocs de distribution enterrés.
 
-					Usage is simple; build in a 5x1x5 square, feed power from any direction, and place the machines on top or to the sides. Be aware, as with all power-supplying machines, that facing a Laser Power Transmitter at the Charger AND touching the Charger will result in a feedback loop, and this should be avoided.
+					L'utilisation est simple. construire dans un carré de 5x1x5, alimenter de n'importe quelle direction, et placer les machines sur le dessus ou sur les côtés. Sachez, comme pour toutes les machines fournissant de l'énergie, si un LTE se trouve au niveau du chargeur ET si vous touchez le chargeur, une boucle de retour sera générée, ce qui devrait être évité.
 
-					This machine, placed underneath a Research Laboratory or other large, power-hungry machine, is excellent for arranging neat, high-speed power delivery.
+					Cette machine, placée sous un laboratoire de recherche ou une autre grande machine gourmande en énergie, est idéale pour organiser une distribution de puissance nette et rapide.
 					</Text>
 				</Paragraph>
 			</Paragraphs>
@@ -27,12 +27,12 @@
 				</Header>
 				<TwoColumnParagraph>
 					<Left>Stockage Interne:
-					Max. Power Input Rate: 
-					Max. Power Output Rate: 
+					Max. Taux entrée d'énergie:
+					Max. Taux sortie d'énergie: 
 					</Left>
 					<Right>1500
-					7500/face/second
-					1250/machine/second
+					7500/face/seconde
+					1250/machine/seconde
 					</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

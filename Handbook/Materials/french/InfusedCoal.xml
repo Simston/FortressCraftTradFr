@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Infused Coal</Text>
+					<Text>Charbon Infusé</Text>
 				</Title>
 				<Icon>
 					<Name>Infused Coal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Infused Coal is the product of the Crystal Coal Infuser. Infused Coal is an improvement over Enriched coal as it generates more power in the same amount of time.</Text>
+					<Text>Le charbon infusé est le produit de la L'nfuseur de Charbon au Cristal. Le charbon infusé est une amélioration par rapport au charbon enrichi, car il génère plus d’énergie dans le même temps donné.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

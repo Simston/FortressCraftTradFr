@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Ore</Text>
+					<Text>Minerai de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Ore</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Titanium Ore is found below the Cold Caverns. As you go deeper the richness of the veins will increase. It can be mined with the Build Gun MK1, Ore Extractors and Trencher Extractors.</Text>
+					<Text>Le minerai de titane se trouve sous les cavernes froides. Plus vous serrez en profondeur plus la richesse des veines augmentera. Il peut être extrait avec le Fusil Constructeur MK1, des Extracteurs de Minerai et par des Foreuse à Tranchant.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The first stages of ore smelting can be done with standard Ore Smelters. Later, when throughput is valued over efficiency, a Blast Furnace setup is strongly recommended.</Text>
+					<Text>Les premières étapes de la fusion du minerai peuvent être réalisées avec les Fonderies standard. Plus tard, lorsque le débit est supérieur au rendement, une configuration de Haut Fourneau est fortement recommandée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>En Bref</Text></Header>
@@ -29,13 +29,13 @@
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>
 					<Right>-350 to -1500m
-					Dark Blue, Wireframe
-					Build Gun MK1
-					Ore Extractor
-					Trencher Extractor MK1-MK3
+					Bleu Foncé, Métallique
+					Fusil Constructeur MK1
+					Extracteur de Minerai
+					Foreuse à Tranchant MK1-MK3
 					
-					Ore Smelter
-					Blast Furnace setup</Right>
+					Fonderie
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

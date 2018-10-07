@@ -4,27 +4,27 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Heat Conducting Pipe</Text>
+					<Text>Tuyau Conducteur de Chaleur</Text>
 				</Title>
 				<Icon>
 					<Name>Heat Conducting Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Heat Conducting Pipes combine the fluid transmitting power of copper piping and the combined heat and pressure resistance of Crystal Fiber Mesh. With this new type of pipe and the advancements that have been made in Geothermal Electricity, it is now a feasible solution to the growing power requirements of new machines.</Text>
+					<Text>Les conduites thermiques combinent la propriétée de transmission des fluides des tuyauteries en cuivre, et la résistance à la chaleur et à la pression du Treillis en Fibres de Cristal. Grâce à ce nouveau type de tuyau et aux progrès réalisés en matière d'énergie géothermique, il s’agit désormais d’une solution envisageable pour répondre aux besoins croissants en énergie des nouvelles machines.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Pipe Coater</Material>
 					</Target>
-					<Text>Pipe Coater</Text>
+					<Text>Usine à Tuyaux</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Geothermal Generator comp.</Material>
 					</Target>
-					<Text>Geothermal Generator comp.</Text>
+					<Text>Composant Générateur Géothermique.</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

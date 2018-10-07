@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hydrojet Cutter</Text>
+					<Text>Découpeur Hydrojet</Text>
 				</Title>
 				<Icon>
 					<Name>Hydrojet Cutter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Place this module on top of your manufacturing plant to allow the manufacture of suit upgrades.</Text>
+					<Text>Placez ce module au-dessus de votre usine de fabrication pour permettre la fabrication d'Amélioration de Combinaison.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

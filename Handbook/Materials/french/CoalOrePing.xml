@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Le Ping Charbon sert à trouver d'autres filons de Minerai de Charbon si celui précédemment découvert est sur le point de s'épuiser ou est trop petit pour être utilisé. Pour plus d’informations, reportez-vous au guide d’aide relatif à Ping de Minerai Vierge.</Text>
+					<Text>Le Ping Charbon sert à trouver d'autres filons de Minerai de Charbon si celui précédemment découvert est sur le point de s'épuiser ou est trop petit pour être exploté. Pour plus d’informations, reportez-vous au guide d’aide relatif à Ping de Minerai Vierge.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

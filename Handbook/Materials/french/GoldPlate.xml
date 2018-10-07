@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Plate</Text>
+					<Text>Plaque d&apos;Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple gold plate created from gold bars in a Stamper Plant.</Text>
+					<Text>Une simple plaque en or créée à partir de lingots d'or dans la Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

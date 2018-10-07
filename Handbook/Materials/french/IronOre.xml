@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Ore</Text>
+					<Text>Minerai de Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Ore_Sparse</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Found around 65m under the surface and below, Iron Ore can be smelted into Iron Bars using the smelter. Iron Bars are used in a wide variety of machines.</Text>
+					<Text>Trouvé à environ -65m sous la surface, le minerai de fer peut être fondu en Lingots de Fer à l'aide de la Fonderie. Les Lingots de Fer sont utilisées dans une grande variété de machines.</Text>
 			</Paragraph>
 				<Spacer/>
 				<Header><Text>En Bref</Text></Header>
@@ -24,12 +24,12 @@
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>
 					<Right>-65 to -850m
-					Red-Orange
-					Build Gun MK1
-					Ore Extractor
+					Rouge-Orange
+					Fusil Constructeur MK1
+					Extracteur de Minerai
 					
-					Ore Smelter
-					Blast Furnace setup</Right>
+					Fonderie
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>
 			
 

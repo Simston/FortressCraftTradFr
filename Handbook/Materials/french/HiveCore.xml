@@ -11,9 +11,9 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Hiveminds are present throughout the world, and are capable of growing Mynocks throughout the world to steal resources. Whilst the Mynocks themselves are easily dealt with by low-level turrets, the HiveMinds can provide a substantial challenge to your base.
+					<Text>Les Hiveminds sont présents dans le monde entier et sont capables de faire croître des Mynock pour voler des ressources. Alors que les Mynocks eux-mêmes sont facilement déstructible par des tourelles de bas niveau, les HiveMinds peuvent représenter un défi de taille.
           
-					You can force them to grow using Agitators, and there are Liquidfiers, Ablators and good-old-fashioned Explosives to deal with any overgrowth.
+					Vous pouvez les forcer à grandir en utilisant des Agitateurs, il existe également des Liquéfieurs, des Ablateurs et les bon vieux Explosifs pour faire face à toute surcroissance.
 					</Text>
 				</Paragraph>
         <Icon>
@@ -27,7 +27,7 @@
           <Target>
             <Material>Refined Liquid Resin</Material>
           </Target>
-          <Text>Refined Liquid Resin</Text>
+          <Text>Résine Liquide Raffinée</Text>
         </Link>
 			</Paragraphs>
 		</Page>

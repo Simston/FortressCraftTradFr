@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hardened Machine Block Assembler</Text>
+					<Text>Assembleur de Bloc Machine Durci</Text>
 				</Title>
 				<Icon>
 					<Name>HardenedMachineBlockAssembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses a mixture of Nickel and Titanium to create essential blocks.</Text>
+					<Text>Utilise un mélange de Nickel et de Titane pour créer des blocs essentiels.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Nickel Bar and Titanium Bar to start the hardening process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins 1 ligot de nickel et lingot de titane pour démarrer le processus de durcissement.</Text>
 				</Paragraph>
 
 				<Header>

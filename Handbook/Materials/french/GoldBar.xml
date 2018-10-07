@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Gold Bar</Text>
+					<Text>Lingot d'Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Gold Bars are generally used in advanced machines, especially those requiring high quality electrical contacts. Gold can also be used to manufacture decorative items. They are crafted from Gold Ore, which can be found at least 250m below the surface.</Text>
+					<Text>Les lingots d'or sont généralement utilisés dans les machines de pointe, notamment celles nécessitant des pièces électriques de haute qualité. L'or peut également être utilisé pour fabriquer des objets de décoration. Ils sont fabriqués à partir de minerai d’or, qui se trouve à au moins 250 m sous la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

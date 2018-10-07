@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Generic Room Controller</Text>
+					<Text>Contrôleur de Salle Générique</Text>
 				</Title>
 				<Icon>
 					<Name>RoomController</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This machine allows you to designate areas of your base for various behaviours. This has a number of advantages.</Text>
+					<Text>Cette machine vous permet de sélectionner des zones dans votre Base pour divers comportements. Cela présente de nombreux avantages.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Generic Rooms offer a large performance boost, both when inside and outside of the room. Every room requires an Internal Airlock and an External Airlock. Placing a Room Controller will then prompt you through any issues found, and should be relatively straightforward.</Text>
+          <Text>Les Salles Génériques offrent de grandes performances, à la fois à l'intérieur et à l'extérieur de la salle. Chaque pièce nécessite un SAS interne et un SAS externe. En plaçant un contrôleur de salle, vous serez alors invité à poser des questions sur tous les problèmes détectés.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Greenhouses will allow Hydroponic Bays to work much faster. They also put a very cool gaseous effect on the floor that can be used for effect.</Text>
+          <Text>Les serres(Greenhouse) permettront aux Baies Hydroponiques de travailler beaucoup plus rapidement. Ils produisent également sur le sol un effet gazeux très froid qui peut être utilisé.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Heated rooms confer 2 bonuses. Firstly, any cold effects on your suit are negated. Secondly, any machines suffering environmental Cold effects will work as normally, like Conveyors.</Text>
+          <Text>Les Chambres Chauffées confèrent 2 bonus. Tout d'abord, les effets d'hypothermie, de froid à l'intérieur de la combinaison sont annulés. Deuxièmement, toutes les machines subissant des effets environnementaux du au froid fonctionneront normalement, comme les Convoyeurs.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Filtered Rooms offer complete protection from any dangerous airborne particulates.</Text>
+          <Text>Les Salles Filtrées offrent une protection complète contre les particules dangereuses en suspension dans l'air.</Text>
         </Paragraph>
         <Spacer/>
       
@@ -37,7 +37,7 @@
 		</Page>
     <Page>
       <Title>
-        <Text>Generic Room Controller</Text>
+        <Text>Contrôleur de Salle Générique</Text>
       </Title>
       <Icon>
         <Name>RoomController</Name>
@@ -45,30 +45,30 @@
       </Icon>
       <Paragraphs>
       <Paragraph>
-        <Text>A number of machines require the specific control only rooms can offer.</Text>
+        <Text>Un certain nombre de machines nécessitent le contrôle spécifique que seules les salles peuvent offrir.</Text>
       </Paragraph>
 
         <TwoColumnParagraph>
           <Left>
-            Base Scanner
-            Robot Arms
-            Hydroponics
+            Scanner de Base
+            Bras Robots
+            Hydroponique
           </Left>
           <Right>
-            Required
+            Requiert
             4x speed boost
-            Greenhouse
+            Greenhouse(Serre)
           </Right>
         </TwoColumnParagraph>
         <Spacer/>
         <Paragraph>
-          <Text>Rooms can be made out of virtually any opaque material.</Text>
+          <Text>Les salles peuvent être fabriquées à partir de pratiquement n'importe quel matériau opaque.</Text>
         </Paragraph>
         <Paragraph>
-          <Text>To transfer items through the walls, use a Logistics Grommet. To transfer power through the walls, use a Power Grommet. Machines cannot be walls, with the exception of Minecart Track.</Text>
+          <Text>Pour transférer des articles à travers les murs, utilisez un Oeillet Logistique. Pour transférer l’énergie à travers les murs, utilisez un Oeillet d'Energie. Les machines ne peuvent pas être des murs, à l'exception de Piste Minecart.</Text>
         </Paragraph>
         <Paragraph>
-          <Text>Induction Plates are valid in both the Ceiling and Floor, to allow broad power transfer.</Text>
+          <Text>Les plaques d'induction sont valables à la fois au plafond et au sol, pour permettre un large transfert de d'énergie.</Text>
         </Paragraph>
         
       </Paragraphs>

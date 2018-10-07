@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs> 
 				<Title>
-					<Text>Hiemal Machine Block Assembler</Text>
+					<Text>Assembleur de Bloc Machine Hiemal</Text>
 				</Title>
 				<Icon>
 					<Name>Hiemal Block Assembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Fuses Chromed Machine Blocks and Magnetic Machine Blocks into Hiemal Machine Blocks.</Text>
+					<Text>Fusionne des blocs de Machine Chromés et des blocs de Machine Magnétiques en Bloc Machine Hiemal.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Chromed Machine Block and Magnetic Machine Block to start the fusing process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins un bloc machine chromé et un bloc machine magnétique pour démarrer le processus de d'assemblage.</Text>
 				</Paragraph>
 
 				<Header>

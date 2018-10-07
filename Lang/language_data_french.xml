@@ -444,8 +444,8 @@
   <string name="Magnetic Machine Blocks">Blocs Machine Magnétiques</string>
   <string name="Chromed Machine Block">Bloc Machine Chromé</string>
   <string name="Chromed Machine Blocks">Blocs Machine Chromés</string>
-  <string name="Hiemal Machine Block">Bloc Machine Hiémal</string>
-  <string name="Hiemal Machine Blocks">Blocs Machine Hiémals</string>
+  <string name="Hiemal Machine Block">Bloc Machine Hiemal</string>
+  <string name="Hiemal Machine Blocks">Blocs Machine Hiemals</string>
   <string name="Alloyed Machine Block">Bloc Machine en Alliage</string>
   <string name="Alloyed Machine Blocks">Blocs Machine en Alliage</string>
   <string name="Hardened Machine Block">Bloc Machine Durci</string>
@@ -499,7 +499,7 @@
   <string name="Perfect Faceted Eyes">Yeux à Facettes Purs</string>
   <string name="Massive Faceted Eye">Œil à Facettes Massif</string>
   <string name="Massive Faceted Eyes">Yeux à Facettes Massifs</string>
-  <string name="Hive Brain Matter">Matière Grise de Ruche</string>
+  <string name="Hive Brain Matter">Matière Grise de (Hive)Ruche</string>
   <string name="Research Parts">Composants de Recherche</string>
   <string name="Refined Liquid Resin">Résine Liquide Raffinée</string>
   <string name="Spoiled Organic Remains">Restes Organiques Pourris</string>
@@ -1103,8 +1103,8 @@
   <string name="Extruder Module_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes de l&apos;extrudeur quand&#xD;&#xA;attaché à une usine de fabrication.</string>
   <string name="Chip Etcher">Puce Etcher</string>
   <string name="Chip Etcher_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes de puces d&apos;éther quand&#xD;&#xA;connecté à une usine de fabrication.</string>
-  <string name="Hydrojet Cutter">Cutter Hydrojet</string>
-  <string name="Hydrojet Cutter_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes du Cutter Hydrojet quand&#xD;&#xA;connecté à une usine de fabrication.</string>
+  <string name="Hydrojet Cutter">Découpeur Hydrojet</string>
+  <string name="Hydrojet Cutter_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes du Découpeur Hydrojet quand&#xD;&#xA;connecté à une usine de fabrication.</string>
   <string name="Robotic Welder">Soudeur Robotique</string>
   <string name="Robotic Welder_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes du Soudeur Robotique quand connecté à une usine de fabrication.</string>
   <string name="Incubator">Incubateur</string>
@@ -1267,7 +1267,7 @@
   <string name="Alien Tendril Spawn_DESC" />
   <string name="Alien Tendril">Vrille Alien</string>
   <string name="Alien Tendril_DESC" />
-  <string name="Hive Core">Cœur de Ruche</string>
+  <string name="Hive Core">Cœur de Ruche(Hive)</string>
   <string name="Hive Core_DESC" />
   <string name="Hardened Resin">Résine Durcie</string>
   <string name="Hardened Resin_DESC">Cette structure organique incroyablement dure semble protéger un noyau souple et vulnérable. Seuls les Nano-Désintégrateurs seront en mesure de couper au travers.</string>
@@ -1349,7 +1349,7 @@
   <string name="Crystal Clock Maker_DESC">Crée une horloge faite de cristal. À utiliser pour faire fonctionner l’électronique à une vitesse précise.</string>
   <string name="OverClocker">OverClocker</string>
   <string name="OverClocker_DESC">Utilise de grosses quantités d&apos;énergie pour Overclocker soigneusement les Horloges de Cristal. S&apos;utilise dans les machines de fin.</string>
-  <string name="Crystal Coal Infuser">Infuseur de Cristal au Charbon</string>
+  <string name="Crystal Coal Infuser">Infuseur de Charbon au Cristal</string>
   <string name="Crystal Coal Infuser_DESC">Infuseur du charbon enrichi avec du cristal.</string>
   <string name="Fuel Canister Crafter">Constructeur de Cartouches à Carburant</string>
   <string name="Fuel Canister Crafter_DESC">Utilise un seul tuyau en Fer pour faire une Cartouche de Carburant Vide.</string>
@@ -1493,7 +1493,7 @@
   <string name="Bulk Mass Storage Stocking Port_DESC" />
   <string name="Orbital Strike Controller">Contrôleur de Frappe Orbitale</string>
   <string name="Orbital Strike Controller_DESC">Bombarde le site depuis l’orbite. C&apos;est la seule façon d’être sûr. Requière un Transmetteur D&apos;Énergie Orbital entièrement chargé.</string>
-  <string name="SurfaceHiveSpawn">Spawner Ruche en Surface</string>
+  <string name="SurfaceHiveSpawn">Spawner Ruche(Hive) en Surface</string>
   <string name="SurfaceHiveSpawn_DESC" />
   <string name="Construction Paste">Pâte de Construction</string>
   <string name="Construction Paste_DESC" />

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Pipe</Text>
+					<Text>Tuyau en Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple iron pipe created from iron bars in a Pipe Extrusion Plant. Required for the creation of Empty Fuel Cells.</Text>
+					<Text>Un simple Tuyau de Fer créé à partir de Lingots de Fer dans une Usine d’Extrusion de Tuyaux. Requis pour la création de Cartouches à Combustible Vides.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

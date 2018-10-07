@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Imbued Machine Block</Text>
+					<Text>Bloc Machine Imprégné</Text>
 				</Title>
 				<Icon>
 					<Name>Imbued Machine Block</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Crafting component of tier 4 machinery. Can also be used for construction</Text>
+					<Text>Composant de fabrication de machines de rang 4. Peut aussi être utilisé pour la construction</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

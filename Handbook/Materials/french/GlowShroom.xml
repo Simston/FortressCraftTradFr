@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>GlowShroom</Text>
+					<Text>Champignon Bioluminescent</Text>
 				</Title>
 				<Icon>
 					<Name>GlowShroom</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A glowing fungus found on the surface of this planet. Do Not Eat!</Text>
+					<Text>Un champignon rougeoyant trouvé à la surface de cette planète. Ne pas manger!</Text>
 				</Paragraph>
 		
 				<Spacer/>

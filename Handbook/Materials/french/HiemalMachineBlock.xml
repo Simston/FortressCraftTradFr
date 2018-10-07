@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hiemal Machine Block</Text>
+					<Text>Bloc Machine Hiemal</Text>
 				</Title>
 				<Icon>
 					<Name>HiemalMachineBlock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A high level machine used for many cold caverns machines.</Text>
+					<Text>Une machine de haut niveau utilisée pour de nombreuses machines de cavernes froides.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hardened Machine Block</Text>
+					<Text>Bloc Machine Durci</Text>
 				</Title>
 				<Icon>
 					<Name>HardenedMachineBlock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A machine used for some other high tier machines.</Text>
+					<Text>Une machine utilisée pour d'autres machines de haut niveau.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

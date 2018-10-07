@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Iron Housing</Text>
+					<Text>Boîtier en Fer</Text>
 				</Title>
 				<Icon>
 					<Name>Iron Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple iron housing created from iron plates.</Text>
+					<Text>Un boîtier en fer simple créé à partir de plaques de fer.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

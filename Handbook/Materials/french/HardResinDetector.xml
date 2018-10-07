@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hard Resin Detector</Text>
+					<Text>Détecteur de Résine Durcie</Text>
 				</Title>
 				<Icon>
 					<Name>Hard Resin Detector</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This basic early-warning system will detect Hardened Resin. We&apos;ve detected these growths across the entire planet, lying dormant. The heat and vibrations from our base appear to attract them, and we run the risk of our machinery being overgrown. These detectors should pin-point the direction the growths are coming from, and allow you to investigate and, if necessary, deal with them.</Text>
+					<Text>Ce système d'alerte précoce de base détectera la résine durcie. Nous avons détecté ces croissances dormantes sur toute la planète. La chaleur et les vibrations de notre base semblent les attirer et nous risquons de surcharger nos machines. Ces détecteurs doivent indiquer la direction d'où proviennent les excroissances et vous permettre d'enquêter et, si nécessaire, de les traiter.</Text>
 				</Paragraph>
 				<Spacer/>
 
