@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Logistics Hopper</Text>
+					<Text>Trémie Logistique</Text>
 				</Title>
 				<Icon>
 					<Name>LogisticsHopper</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The logistics hopper is a cheaper version of the standard storage hopper which can store just 2 items but can process items as quickly as a storage hopper. The logistics hopper is suitable as an output hopper for an ore extractor without any upgrades. You should look to upgrade logistics hoppers if they become a bottleneck.</Text>
+					<Text>La Trémie Logistique est une version moins chère de la Trémie de Stockage standard qui ne peut stocker que 2 articles mais peut traiter des articles aussi rapidement qu&apos;une Trémie de Stockage. La Trémie Logistique convient comme trémie de sortie pour un Extracteur de Minerai sans aucune amélioration. Vous devriez chercher à améliorer les Trémies Logistiques si le flux de marchandise n&apos;est plus fluide.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>For more information on storage hoppers please refer to the standard storage hopper guide.</Text>
+					<Text>Pour plus d&apos;informations sur les Trémies de Stockage, reportez-vous au guide standard des Trémies de Stockage.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Page>0</Page>
 						<Material>StorageHopper</Material>
 					</Target>
-					<Text>Storage Hopper</Text>
+					<Text>Trémies de Stockage</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

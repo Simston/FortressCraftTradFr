@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Capsule Expérimentale Intermédiaire sont utilisés dans un laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de fer. Pour plus d'informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
+					<Text>Capsule Expérimentale Intermédiaire sont utilisés dans un laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de fer. Pour plus d&apos;informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -22,7 +22,7 @@
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>Pour plus d'informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant..</Text>
+					<Text>Pour plus d&apos;informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant..</Text>
 				</Paragraph>
 				
 				<Link>

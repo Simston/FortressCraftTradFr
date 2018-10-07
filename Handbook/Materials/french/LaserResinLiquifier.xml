@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Laser Resin Liquifier</Text>
+					<Text>Laser Liquéfacteur de Résine</Text>
 				</Title>
 				<Icon>
 					<Name>Laser Resin Liquifier</Name>
@@ -13,34 +13,34 @@
 
 				<Paragraph>
 					<Text>
-            This is the second part in a 3-step method to utilise and clear the Hardened Resin that the Hiveminds excrete around them.
+             C&apos;est la deuxième partie d&apos;une méthode en 3 étapes pour utiliser et traiter la Résine Durcie que les Hiveminds sécretent autour d&apos;eux.
 
-            The Liquifier uses a heated plasma stream to liquify and extract the soft insides of Liquified Hard Resin.
+             Le Liquéfacteur utilise un flux de plasma chauffé pour liquéfier et extraire les parties molles de la résine dure liquéfiée.
 
-            You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin.
+             Vous pouvez ensuite utiliser une Raffinerie de Résine Liquide pour le convertir en Résine Liquide Raffinée.
 
-            To convert from Hard Resin to Ablated Hard Resin, use a Hard Resin Ablator
+             Pour convertir de la Résine Dure en Résine Dure ablée, utilisez un Ablateur Laser de Résine Dure
 
-            The rate at which it uses power and Liquifies is sped up substantially when properly cooled with Freezon.
+             Le taux d&apos;utilisation de l&apos;énergie et de la Liquéfaction est considérablement accéléré lorsqu&apos;il est correctement refroidi au Freezon.
           </Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Laser Resin Ablator</Material>
 					</Target>
-					<Text>Laser Resin Ablator</Text>
+					<Text>Ablateur Laser de Résine</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Liquid Resin Refiner</Material>
 					</Target>
-					<Text>Liquid Resin Refiner</Text>
+					<Text>Raffinerie de Résine Liquide</Text>
 				</Link>
 					<Link>
 					<Target>
 						<Material>Refined Liquid Resin</Material>
 					</Target>
-					<Text>Refined Liquid Resin</Text>
+					<Text>Résine Liquide Raffinée</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
@@ -51,12 +51,12 @@
 				</Header>
 				<TwoColumnParagraph>
 					<Left>Portée:
-					Ablation Time(Rapid):
-					Ablation Time:
+					Temps d&apos;Ablation (Rapide):
+					Temps d&apos;Ablation:
 					Energie Requise:
 					Capacité Energie:
 					Max. Taux de Recharge:</Left>
-					<Right> 16 blocks
+					<Right> 16 blocs
 					1.25 secondes
 					2.5 secondes
 					500 par seconde

@@ -16,9 +16,9 @@
 				<Paragraph>
 					<Text>Les balises des robots (FALCOR) peuvent être utilisées selon trois modes différents.
 
-					Si la balise a été placée sur le sol, elle recueillera les objets dans un rayon de 16 mètres dans toutes les directions et les conserveras jusqu'à ce qu'un FALCOR MK1 soit disponible pour la récupération.
+					Si la balise a été placée sur le sol, elle recueillera les objets dans un rayon de 16 mètres dans toutes les directions et les conserveras jusqu&apos;à ce qu&apos;un FALCOR MK1 soit disponible pour la récupération.
 
-					Si la balise a été placée sur une trémie de stockage, elle collectera les éléments de cette trémie de stockage et les conserveras jusqu'à ce qu'un FALCOR de logistique soit disponible.
+					Si la balise a été placée sur une trémie de stockage, elle collectera les éléments de cette trémie de stockage et les conserveras jusqu&apos;à ce qu&apos;un FALCOR de logistique soit disponible.
 					
 					Si une balise est ajoutée au Spiderbot, celle-ci ramassera le butin autour du Spiderbot. Les drones SpiderCor doivent collecter le butin provenant des balises. (Seulement deux balises requises)
 
@@ -31,9 +31,9 @@
 			<Paragraphs>
 				<Paragraph>
 				<Text>
-					Les stations FALCOR ne nécessitent pas d'énergie, pas plus que les balises de stockage. Les balises collectrices nécessitent toutefois de l'énergie.
+					Les stations FALCOR ne nécessitent pas d&apos;énergie, pas plus que les balises de stockage. Les balises collectrices nécessitent toutefois de l&apos;énergie.
 
-					Pour les premier et deuxième types de balises, un dégagement d'au moins 16 m au-dessus d'elles est requis.
+					Pour les premier et deuxième types de balises, un dégagement d&apos;au moins 16 m au-dessus d&apos;elles est requis.
 				</Text>
 				</Paragraph>
 				<Link>

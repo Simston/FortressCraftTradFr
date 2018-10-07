@@ -13,13 +13,13 @@
 				<Paragraph>
 					<Text>Les Oeillets d&apos;énergie constituent le moyen le plus efficace d’alimenter les pièces. Ils peuvent uniquement se connecter à des un bloc BSE ou des blocs Générateurs.
 
-          L'une des machines impliquées doit être une BSE. Si vous utilisez une paire de BSE, d’un côté ou de l’autre, la charge sera équilibrée entre eux.
+          L&apos;une des machines impliquées doit être une BSE. Si vous utilisez une paire de BSE, d’un côté ou de l’autre, la charge sera équilibrée entre eux.
           
-          Si vous souhaitez alimenter la diode, utilisez une face BSE et une ligne LTE de l’autre. Cela forcera l'énergie à circuler dans la direction que vous choisissez.
+          Si vous souhaitez alimenter la diode, utilisez une face BSE et une ligne LTE de l’autre. Cela forcera l&apos;énergie à circuler dans la direction que vous choisissez.
           
           Vous pouvez également utiliser des blocs Générateurs pour transférer l’énergie dans un BSE de l’autre côté. Cela inclut les panneaux solaires et les Générateur Pyrothermique.
         
-          Vous ne pouvez pas faire fonctionner le LTE à travers l'Oeillet. Une BSE cible donnera la configuration requise ici. La conversion d’une configuration d’alimentation existante en une configuration de Oeillet/Salle nécessite uniquement un BSE supplémentaire.
+          Vous ne pouvez pas faire fonctionner le LTE à travers l&apos;Oeillet. Une BSE cible donnera la configuration requise ici. La conversion d’une configuration d’alimentation existante en une configuration de Oeillet/Salle nécessite uniquement un BSE supplémentaire.
           </Text>
 				</Paragraph>
 			</Paragraphs>

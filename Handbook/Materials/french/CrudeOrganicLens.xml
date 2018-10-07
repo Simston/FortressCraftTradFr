@@ -11,13 +11,13 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Insérer dans un Transmetteur d&apos;Énergie Laser pour améliorer son taux de transmission d'énergie.</Text>
+					<Text>Insérer dans un Transmetteur d&apos;Énergie Laser pour améliorer son taux de transmission d&apos;énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Taux de Transmission d'Energie:</Left>
+					<Left>Taux de Transmission d&apos;Energie:</Left>
 					<Right>125%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

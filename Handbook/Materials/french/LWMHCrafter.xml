@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lightweight Machine Housing Crafter</Text>
+					<Text>Fabricateur Carter de Machine Léger</Text>
 				</Title>
 				<Icon>
 					<Name>Lightweight Machine Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Turns 6 plates into 1 Lightweight Machine Housing. A lot of machines use these as a base component.</Text>
+					<Text>Transforme 6 plaques en 1 Carter de Machine Léger. Beaucoup de machines les utilisent comme composants de base.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>

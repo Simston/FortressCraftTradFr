@@ -12,7 +12,7 @@
 				</Icon>
 				<Paragraph>
 					<Text>Le plus grand des Ascenseurs disponibles, cette machine Frozen Factory est idéale pour la livraison en masse de matériaux tels que le Chrome et le Molybdène dans les cavernes gelées. Cet Ascenseur a une capacité énorme et est extrêmement rapide!</Text>
-					<Text>Si vous êtes en mode de jeu Rapide, l'Ascenseur de Cargaison Volumineux transportera le double du chargement</Text>
+					<Text>Si vous êtes en mode de jeu Rapide, l&apos;Ascenseur de Cargaison Volumineux transportera le double du chargement</Text>
 				</Paragraph>
 				<Spacer/>
 
@@ -24,7 +24,7 @@
 					Vitesse Maximale:
 					Accélération:
 					Capacité Maximale:
-					Utilisation d'Energie (Voyage):
+					Utilisation d&apos;Energie (Voyage):
 					</Left>
 					<Right>Illimité
 					15 mètres/sec (30 en Rapide)

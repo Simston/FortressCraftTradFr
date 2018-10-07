@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lightweight Machine Plates</Text>
+					<Text>Plaque de Machine Légère</Text>
 				</Title>
 				<Icon>
 					<Name>Lightweight Machine Plates</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A small metal plate, used in lightweight objects.</Text>
+					<Text>Une petite plaque de métal, utilisée dans les objets légers.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -13,9 +13,9 @@
 				<Paragraph>
 					<Text>Le Moniteur Système de Fret fournit des informations utiles sur vos réseaux de fret afin de mieux suivre votre offre et votre demande de ressources. Appuyez sur E pour accéder à l’affichage du panneau. Vous pouvez parcourir chaque réseau de fret un à un avec les boutons fournis ou afficher une liste pour sélectionner le réseau qui vous intéresse.
 
-					Vous pouvez également afficher l'inventaire global. Ceci affichera une liste de tous les contenus de tous les stockages connectés à votre système de fret.
+					Vous pouvez également afficher l&apos;inventaire global. Ceci affichera une liste de tous les contenus de tous les stockages connectés à votre système de fret.
 					
-					Pour plus d'informations sur la terminologie du système de fret, voir la page suivante. Pour plus d'informations sur la configuration de vos réseaux de fret et de vos envois, reportez-vous à la rubrique Station Chariot de Fret.</Text>			
+					Pour plus d&apos;informations sur la terminologie du système de fret, voir la page suivante. Pour plus d&apos;informations sur la configuration de vos réseaux de fret et de vos envois, reportez-vous à la rubrique Station Chariot de Fret.</Text>			
 					</Paragraph>
 				<Icon>
 					<Name>Minecart Load</Name>
@@ -31,13 +31,13 @@
 				<Paragraph>
 					<Text>Chaque réseau de fret est constitué d’un ensemble d’articles de fret définis par le joueur pour le transport dans le système. Chacun de ces articles de fret est associé à quatre propriétés principales: inventaire, déficit, surplus et quantité en transit.
 					
-					L'inventaire est la quantité totale du fret existant dans la mémoire connectée au réseau.
+					L&apos;inventaire est la quantité totale du fret existant dans la mémoire connectée au réseau.
 					
-					Le Déficit est la somme de chaque station manquant d'un bien de son inventaire cible. C'est une mesure de la quantitée requise pour un article.
+					Le Déficit est la somme de chaque station manquant d&apos;un bien de son inventaire cible. C&apos;est une mesure de la quantitée requise pour un article.
 					
-					Le Surplus est l'excédent d'articles que les stations ont à offrir aux autres stations du réseau. C'est une mesure du nombre d'articles disponibles en tant que produits de rechange prêts à être transportés par les Chariots.
+					Le Surplus est l&apos;excédent d&apos;articles que les stations ont à offrir aux autres stations du réseau. C&apos;est une mesure du nombre d&apos;articles disponibles en tant que produits de rechange prêts à être transportés par les Chariots.
 					
-					La quantité en transit(Transit Quantity) correspond au nombre total d'articles actuellement transportés par des chariots de fret sur le réseau. Les chariots de fret ne collecteront les articles d'une station que si la quantité en transit est inférieure au déficit du réseau. Une fois la quantité atteinte, les chariots seront en mesure de combler le déficit, de sorte qu'aucun article supplémentaire ne soit requis.</Text>
+					La quantité en transit(Transit Quantity) correspond au nombre total d&apos;articles actuellement transportés par des chariots de fret sur le réseau. Les chariots de fret ne collecteront les articles d&apos;une station que si la quantité en transit est inférieure au déficit du réseau. Une fois la quantité atteinte, les chariots seront en mesure de combler le déficit, de sorte qu&apos;aucun article supplémentaire ne soit requis.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

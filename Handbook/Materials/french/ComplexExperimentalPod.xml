@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les Capsules Expérimentales Chargé sont utilisés dans le Laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de Lithium. Pour plus d'informations sur la recherche en Laboratoire, veuillez consulter le guide suivant.</Text>
+					<Text>Les Capsules Expérimentales Chargé sont utilisés dans le Laboratoire pour mener des expériences et mener à bien des projets de recherche. Ces Capsules sont fabriquées à partir de Lithium. Pour plus d&apos;informations sur la recherche en Laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -22,7 +22,7 @@
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>Pour plus d'informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant.</Text>
+					<Text>Pour plus d&apos;informations sur la création de Capsules Expérimentales, veuillez lire le guide suivant.</Text>
 				</Paragraph>
 				
 				<Link>

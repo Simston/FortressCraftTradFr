@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les Capsules Expérimentale Basique sont utilisés dans un laboratoire pour mener des expériences et compléter des projets de recherche. Ces Capsules sont fabriqués à partir de cuivre. Pour plus d'informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
+					<Text>Les Capsules Expérimentale Basique sont utilisés dans un laboratoire pour mener des expériences et compléter des projets de recherche. Ces Capsules sont fabriqués à partir de cuivre. Pour plus d&apos;informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
@@ -22,7 +22,7 @@
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>Pour plus d'informations sur la création des Capsules Expérimentales, veuillez lire le guide suivant.</Text>
+					<Text>Pour plus d&apos;informations sur la création des Capsules Expérimentales, veuillez lire le guide suivant.</Text>
 				</Paragraph>
 				
 				<Link>

@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les courroies transporteuses constituent un moyen relativement peu coûteux et facile pour déplacer des ressources. La première utilisation sera probablement de déplacer des matériaux d’une Trémie de Stockage adjacente à une mine de minerai ou de charbon, une mine reliée à une fonderie, ou à un Générateur d'Energie tel que le HAC ou un Générateur Pyrothermique.</Text>
+					<Text>Les courroies transporteuses constituent un moyen relativement peu coûteux et facile pour déplacer des ressources. La première utilisation sera probablement de déplacer des matériaux d’une Trémie de Stockage adjacente à une mine de minerai ou de charbon, une mine reliée à une fonderie, ou à un Générateur d&apos;Energie tel que le HAC ou un Générateur Pyrothermique.</Text>
 				</Paragraph>
 				
 				<Header>
@@ -28,11 +28,11 @@
 					<Text>Limitations</Text>
 				</Header>
 				<Paragraph>
-					<Text>Les convoyeurs sont peu coûteux et ne nécessitent pas d'alimentation externe, mais ils présentent un certain nombre d'inconvénients. Ils sont vulnérables aux environnements extrêmement froids / toxiques et leur conception ouverte les rend particulièrement vulnérables aux attaques. Des méthodes de transport alternatives doivent être recherchées.</Text>
+					<Text>Les convoyeurs sont peu coûteux et ne nécessitent pas d&apos;alimentation externe, mais ils présentent un certain nombre d&apos;inconvénients. Ils sont vulnérables aux environnements extrêmement froids / toxiques et leur conception ouverte les rend particulièrement vulnérables aux attaques. Des méthodes de transport alternatives doivent être recherchées.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Le Convoyeur Basique est moins chère que la Convoyeur classique mais est BEAUCOUP plus lent. Utilisez-le pour une automatisation précoce ou lorsqu'un débit élevé n'est pas requis.</Text>
+					<Text>Le Convoyeur Basique est moins chère que la Convoyeur classique mais est BEAUCOUP plus lent. Utilisez-le pour une automatisation précoce ou lorsqu&apos;un débit élevé n&apos;est pas requis.</Text>
 				</Paragraph>
 				
 				<Header><Text>Filtration</Text>
@@ -42,7 +42,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Utilisez un Convoyeur Filtrant vous permet d'avoir un contrôle plus précis de la répartition des ressources. Ce type de filtre est utilisé pour contrôler le matériel éjecté des trémies dans un réseau de convoyeurs. Vous pouvez définir un filtre pour supprimer les déchets, les minerais, les produits organiques, les gemmes, le charbon, la biomasse, les matières fondues, les objets combustibles, les articles artificiels, le cristal et les lingots seulement.</Text>
+					<Text>Utilisez un Convoyeur Filtrant vous permet d&apos;avoir un contrôle plus précis de la répartition des ressources. Ce type de filtre est utilisé pour contrôler le matériel éjecté des trémies dans un réseau de convoyeurs. Vous pouvez définir un filtre pour supprimer les déchets, les minerais, les produits organiques, les gemmes, le charbon, la biomasse, les matières fondues, les objets combustibles, les articles artificiels, le cristal et les lingots seulement.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

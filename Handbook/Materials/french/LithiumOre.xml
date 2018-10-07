@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Ore</Text>
+					<Text>Minerai de Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Ore_Sparse</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Found around 120m under the surface and below, Lithium Ore can be smelted into Lithium Bars using the smelter. Lithium Bars are generally used in machines which store or transmit power.</Text>
+					<Text>Trouvé à environ 120m sous la surface et en dessous, le minerai de lithium peut être fondu en Lingots de Lithium à l&apos;aide de la Fonderie. Les Lingots de Lithium sont généralement utilisées dans des machines qui stockent ou transmettent de l&apos;énergie.</Text>
 				</Paragraph>
 				
 				<Spacer/>
@@ -20,18 +20,18 @@
 				<TwoColumnParagraph>
 					<Left>Occurrence:
 					Couleur Ping:
-					1ère Etape de l'Extraction:
-					2ème Etape de l'Extraction:
+					1ère Etape de l&apos;Extraction:
+					2ème Etape de l&apos;Extraction:
 					
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>
 					<Right>-120 to -850m
-					Grey with Teal
-					Build Gun MK1
-					Ore Extractor
+					Gris/Turquoise
+					Fusil Constructeur MK1
+					Extracteur de Minerai
 					
-					Ore Smelter
-					Blast Furnace setup</Right>
+					Fonderie
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>				
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Fil d'Or</Text>
+					<Text>Fil d&apos;Or</Text>
 				</Title>
 				<Icon>
 					<Name>Gold Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Un simple fil d'or créé à partir de lingots d'or dans une usine d'extrusion de fil.</Text>
+					<Text>Un simple fil d&apos;or créé à partir de lingots d&apos;or dans une usine d&apos;extrusion de fil.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

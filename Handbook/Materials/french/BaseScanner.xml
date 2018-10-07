@@ -11,20 +11,20 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Le scanneur de base vous permet d'examiner de nombreux aspects des performances actuelles et passées de votre base. Le placer dans une pièce vous donnera une vue non filtrée de toutes les données de base.Cependant ce n'est généralement pas très utile.</Text>
+					<Text>Le scanneur de base vous permet d&apos;examiner de nombreux aspects des performances actuelles et passées de votre base. Le placer dans une pièce vous donnera une vue non filtrée de toutes les données de base.Cependant ce n&apos;est généralement pas très utile.</Text>
 				</Paragraph>
         <Paragraph>
           <Text>Placer une Trémie de Stockage dans la zone Holo vous permettra de filtrer le graphique. Les règles sont simples, si vous voulez voir quelque chose, mettez quelque chose de similaire dans la Trémie de Stockage.</Text>
         </Paragraph>
         
         <Paragraph>
-          <Text>  - Tout PSB filtrera l'Energie totale de la Base.
+          <Text>  - Tout PSB filtrera l&apos;Energie totale de la Base.
   - Tout minerai ou lingot filtrera uniquement ce type de ressource.
-  - Une résine liquide raffinée vous permettra de surveiller vos installations de traitement de la Résine et d'Agriculture.
+  - Une résine liquide raffinée vous permettra de surveiller vos installations de traitement de la Résine et d&apos;Agriculture.
   - BioMasse, Cristal et Charbon filtreront également les types appropriés.</Text>
         </Paragraph>
         <Paragraph>
-          <Text>L'efficacité de la Base fait référence au ratio de minerais sur les lingots créées; Si sa valeur est supérieure à 100%, vous ne collectez pas assez de minerai; s'il est inférieur à 100%, vous ne fondez pas assez de lingots</Text>
+          <Text>L&apos;efficacité de la Base fait référence au ratio de minerais sur les lingots créées; Si sa valeur est supérieure à 100%, vous ne collectez pas assez de minerai; s&apos;il est inférieur à 100%, vous ne fondez pas assez de lingots</Text>
         </Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Logistics Grommet</Text>
+					<Text>Oeillet Logistique</Text>
 				</Title>
 				<Icon>
 					<Name>Space Hatch</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Lets you transfer items through the walls of rooms to the outside and vice versa. Requires conveyors on opposite sides.</Text>
+					<Text>Vous permet de transférer des objets à travers les murs des pièces vers l&apos;extérieur et inversement. Nécessite des convoyeurs sur les côtés opposés.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

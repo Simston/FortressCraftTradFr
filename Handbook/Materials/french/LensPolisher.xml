@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lens Polisher</Text>
+					<Text>Polisseur de Lentilles</Text>
 				</Title>
 				<Icon>
 					<Name>Lens Polisher</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Turns any lenses into useful Polished Lenses after a long time polishing.</Text>
+					<Text>Transforme les lentilles en Lentilles Polies, après un long processus de polissage.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 1 Lens to start the polishing process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins une lentille pour commencer le processus de polissage.</Text>
 				</Paragraph>
 
 				<Header>

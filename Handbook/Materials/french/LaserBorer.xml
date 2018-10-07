@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Laser Borer</Text>
+					<Text>Foreuse Laser</Text>
 				</Title>
 				<Icon>
 					<Name>LaserBorer</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>HEFC-powered Laser Boring device. Rapidly creates a 3x3 hole 256m straight down. Build in a 3x3x3 shape.</Text>
+					<Text>CCHE-alimentation Dispositif Foreuse Laser. Crée rapidement un trou de 3x3 de 256m de profondeur verticale. Construire dans un 3x3x3.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

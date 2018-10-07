@@ -14,9 +14,9 @@
 					<Text>Les Chariots et les Stations de Fret assurent une distribution intelligente des ressources au sein de votre forteresse.</Text>
 				</Paragraph>
 				<Paragraph>
-				<Text>Les stations de transport de fret peuvent s’interfacer directement avec le stockage de masse et les trémies. Les chariots qui arrivent à la station vont collecter des ressources de stockage pour les transporter vers d'autres destinations. Les ressources désignées doivent être configurées à chaque Station Chariot de Fret.
+				<Text>Les stations de transport de fret peuvent s’interfacer directement avec le stockage de masse et les trémies. Les chariots qui arrivent à la station vont collecter des ressources de stockage pour les transporter vers d&apos;autres destinations. Les ressources désignées doivent être configurées à chaque Station Chariot de Fret.
 				
-				Les Chariots de Fret ne collecteront des ressources d'une Station Chariot de Fret que si les ressources sont requises par une autre station du réseau. Les exigences d'une station sont définies par les limites de stockage de fret enregistré. Consultez les pages suivantes pour définir le réseau et configurer le fret enregistré pour une gare.
+				Les Chariots de Fret ne collecteront des ressources d&apos;une Station Chariot de Fret que si les ressources sont requises par une autre station du réseau. Les exigences d&apos;une station sont définies par les limites de stockage de fret enregistré. Consultez les pages suivantes pour définir le réseau et configurer le fret enregistré pour une gare.
 				
 				Maintenez les touches CTRL, SHIFT ou ALT enfoncées lors du réglage des limites de stock pour modifier leurs valeurs de 1, 10 ou 1 000 par clic. Un clic droit sur un registre vide permet d’enregistrer un élément par son nom.</Text>
 				</Paragraph>
@@ -28,11 +28,11 @@
 				<Text>Réseau de Fret</Text>
 				</Title>
 				<Paragraph>
-				<Text>Les Station Chariot de Fret sont divisés par leurs réseaux de fret. Le réseau est un nom qui indique quelles autres stations peuvent se connecter à celle-ci pour fournir et recevoir du fret. Il est de votre responsabilité de vous assurer que les chariots peuvent réellement atteindre chaque station du réseau! Sinon, les chariots pourraient rester coincés avec des produits non livrables. Les chariots s'allumeront en rouge et indiqueront une erreur lorsqu'ils ne pourront pas trouver ou joindre leur destination.
+				<Text>Les Station Chariot de Fret sont divisés par leurs réseaux de fret. Le réseau est un nom qui indique quelles autres stations peuvent se connecter à celle-ci pour fournir et recevoir du fret. Il est de votre responsabilité de vous assurer que les chariots peuvent réellement atteindre chaque station du réseau! Sinon, les chariots pourraient rester coincés avec des produits non livrables. Les chariots s&apos;allumeront en rouge et indiqueront une erreur lorsqu&apos;ils ne pourront pas trouver ou joindre leur destination.
 				
-				Lors de la première ouverture du panneau de la station (E), il vous sera demandé d’affecter la station de chariots à un réseau. Vous pouvez réaffecter une station à un nouveau réseau à tout moment. Toutefois, les chariots et les marchandises précédemment récupérées à la station seront réservées pour le réseau précédent jusqu'à leur livraison.
+				Lors de la première ouverture du panneau de la station (E), il vous sera demandé d’affecter la station de chariots à un réseau. Vous pouvez réaffecter une station à un nouveau réseau à tout moment. Toutefois, les chariots et les marchandises précédemment récupérées à la station seront réservées pour le réseau précédent jusqu&apos;à leur livraison.
 				
-				Il vous appartient de décider de la meilleure organisation de vos réseaux, que ce soit en fonction du type de biens distribués, des lieux desservis ou d'un autre système. Expérimentez pour trouver ce qui vous convient le mieux!
+				Il vous appartient de décider de la meilleure organisation de vos réseaux, que ce soit en fonction du type de biens distribués, des lieux desservis ou d&apos;un autre système. Expérimentez pour trouver ce qui vous convient le mieux!
 
 				ASTUCE! Choisissez un nom de réseau descriptif afin de vous rappeler de son rôle ou les biens qu’il distribue. Par exemple, "Composants T1", "Capsules de recherche" ou "Carburant"...</Text>
 				</Paragraph>
@@ -44,13 +44,13 @@
 				<Text>Configuration</Text>
 				</Title>
 				<Paragraph>
-				<Text>Appuyez sur (E) pour interagir avec la Station Chariot de Fret et ouvrir l'interface de configuration de la station. Appuyez sur le bouton (Set Freight, Définir Fret) pour configurer les marchandises à livrer.
+				<Text>Appuyez sur (E) pour interagir avec la Station Chariot de Fret et ouvrir l&apos;interface de configuration de la station. Appuyez sur le bouton (Set Freight, Définir Fret) pour configurer les marchandises à livrer.
 				
-				L'enregistrement d'un article en tant que fret désigné se compose de deux parties. Le premier est l’article lui-même qui peut être glissé d’un emplacement d’inventaire vers l’emplacement vide situé à la fin de la liste ou par un clic droit sur l’emplacement pour le rechercher par son nom. La seconde consiste à définir le point de consigne du stock cible.
+				L&apos;enregistrement d&apos;un article en tant que fret désigné se compose de deux parties. Le premier est l’article lui-même qui peut être glissé d’un emplacement d’inventaire vers l’emplacement vide situé à la fin de la liste ou par un clic droit sur l’emplacement pour le rechercher par son nom. La seconde consiste à définir le point de consigne du stock cible.
 
-				Le (Target Stock) point de consigne du stock cible correspond à la quantité de marchandises que les chariots tenteront de maintenir à la station. S'il y a moins d'articles dans l'inventaire, les chariots cibles tenteront de livrer des articles à la station. Si l'inventaire est supérieur à la cible, les chariots les collecteront et les livreront si une autre station en a besoin pour atteindre son stock cible.
+				Le (Target Stock) point de consigne du stock cible correspond à la quantité de marchandises que les chariots tenteront de maintenir à la station. S&apos;il y a moins d&apos;articles dans l&apos;inventaire, les chariots cibles tenteront de livrer des articles à la station. Si l&apos;inventaire est supérieur à la cible, les chariots les collecteront et les livreront si une autre station en a besoin pour atteindre son stock cible.
 				
-				Définir intentionnellement le stock sur une valeur basse ou 0, la plupart ou la totalité des articles est disponible pour le transport vers d'autres stations.</Text>
+				Définir intentionnellement le stock sur une valeur basse ou 0, la plupart ou la totalité des articles est disponible pour le transport vers d&apos;autres stations.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -60,13 +60,13 @@
 				<Text>Réseau de Voies</Text>
 				</Title>
 				<Paragraph>
-				<Text>Les chariots doivent être assignés à une station pour qu'un dépôt libère un chariot sur la piste.
+				<Text>Les chariots doivent être assignés à une station pour qu&apos;un dépôt libère un chariot sur la piste.
 				
-				Une fois assignés, les chariots de fret donnent la priorité à la station désignée pour le ramassage. Lorsqu'un chariot de fret livre des marchandises à une autre station, il ne récupérera que les marchandises nécessaires à la station qui lui est attribuée. De cette façon, le chariot retournera rapidement à la station qui lui a été attribuée pour donner la priorité à son service principal.
+				Une fois assignés, les chariots de fret donnent la priorité à la station désignée pour le ramassage. Lorsqu&apos;un chariot de fret livre des marchandises à une autre station, il ne récupérera que les marchandises nécessaires à la station qui lui est attribuée. De cette façon, le chariot retournera rapidement à la station qui lui a été attribuée pour donner la priorité à son service principal.
 				
 				Un chariot affecté à une seule station de réception, recherchera des stations proposant des marchandises pouvant satisfaire les demandes de la station. Comme le chariot donne la priorité au retour à la station assignée, vous serrez assuré que les marchandises très demandées arriveront à cette station.
 				
-				Assurez-vous que chaque stockage de masse dispose de suffisamment d'espace pour contenir les montants de la demande, ainsi qu'un peu de surplus pour éviter les excédents renvoyés à la station. Le nom d’une station apparaît en rouge sur le moniteur du système si un chariot n’a pas pu être déposé à la station au cours des dernières minutes.</Text>
+				Assurez-vous que chaque stockage de masse dispose de suffisamment d&apos;espace pour contenir les montants de la demande, ainsi qu&apos;un peu de surplus pour éviter les excédents renvoyés à la station. Le nom d’une station apparaît en rouge sur le moniteur du système si un chariot n’a pas pu être déposé à la station au cours des dernières minutes.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -78,9 +78,9 @@
 				<Paragraph>
 				<Text>Les jonctions offrent la possibilité de bifurquer le chemin des chariots afin qu’ils n’aient pas besoin de parcourir chaque station sur de longue boucle; au lieu de cela, ils empruntent le chemin le plus court directement vers laquelle ils doivent se rendent.
 				
-				Une station peut prendre en charge jusqu'à 180 objets de débit par minute. Même un grand stockage de masse n'a besoin que de quelques stations pour desservir tous les chariots. N'oubliez pas non plus que toutes les stations ayant le même ID de réseau sur un stockage de masse partageront les marchandises, il n'y a donc pas lieu de dupliquer les entrées.
+				Une station peut prendre en charge jusqu&apos;à 180 objets de débit par minute. Même un grand stockage de masse n&apos;a besoin que de quelques stations pour desservir tous les chariots. N&apos;oubliez pas non plus que toutes les stations ayant le même ID de réseau sur un stockage de masse partageront les marchandises, il n&apos;y a donc pas lieu de dupliquer les entrées.
 				
-				Si vous avez besoin que les stations d'un stockage aient des marchandises différentes, utilisez un ID de réseau différent. Cela vous permet de séparer les marchandises avec un niveau de stock cible différent. Utile pour définir les priorités de distribution!</Text>
+				Si vous avez besoin que les stations d&apos;un stockage aient des marchandises différentes, utilisez un ID de réseau différent. Cela vous permet de séparer les marchandises avec un niveau de stock cible différent. Utile pour définir les priorités de distribution!</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -92,7 +92,7 @@
 				<Paragraph>
 				<Text>Les chariots naviguent directement entre les destinations. Ceci permet des connexions de piste ouvertes ou des stations avec une seule connexion de piste. Les chariots ne tenteront pas de quitter une station à moins d’avoir un itinéraire sûr pour se rendre à leur destination. Attention cependant aux collisions.
 				
-				Lors de l'utilisation de la fonction de recherche par clic droit, saisissez "component"(composant), "placement"(emplacement) ou "multi" (sans guillemets) pour obtenir une liste des composants multi-blocs. 
+				Lors de l&apos;utilisation de la fonction de recherche par clic droit, saisissez "component"(composant), "placement"(emplacement) ou "multi" (sans guillemets) pour obtenir une liste des composants multi-blocs. 
 				
 				Les rails de renforcement aux jonctions accélèrent rapidement les chariots qui doivent attendre pour un chemin dégagé.</Text>
 				</Paragraph>

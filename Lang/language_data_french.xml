@@ -174,7 +174,7 @@
   <string name="Nickel Bars">Lingots de Nickel</string>
   <string name="Titanium Bar">Lingot de Titane</string>
   <string name="Titanium Bars">Lingots de Titane</string>
-  <string name="Low Grade Steel Bar">Lingot d&apos;acier de basse qualité</string>
+  <string name="Low Grade Steel Bar">Lingot d&apos;acier de Qualité Inférieure</string>
   <string name="Low Grade Steel Bars">Lingots d&apos;acier de basse qualité</string>
   <string name="Steel Ball Bearing">Bille de Roulement en Acier</string>
   <string name="Steel Ball Bearings">Billes de Roulement en Acier</string>
@@ -1047,7 +1047,7 @@
   <string name="Transport Pipe Filter_DESC">Supprime les matériaux en fonction des règles</string>
   <string name="Stamper Plant">Presse</string>
   <string name="Stamper Plant_DESC">Transforme les Lingots en Plaques</string>
-  <string name="Extrusion Plant">Usine d'Extrusion de Fil</string>
+  <string name="Extrusion Plant">Usine d&apos;Extrusion de Fil</string>
   <string name="Extrusion Plant_DESC">Transforme les Lingots en Fils</string>
   <string name="Coiler Plant">Usine de Bobine</string>
   <string name="Coiler Plant_DESC">Enroule les Câbles en Bobines</string>
@@ -1253,7 +1253,7 @@
   <string name="Laser Mirror_DESC" />
   <string name="Laser Receptor">Récepteur Laser</string>
   <string name="Laser Receptor_DESC" />
-  <string name="Lift w/underside Piston">Piston dessous d&apos;Ascenseur</string>
+  <string name="Lift w/underside Piston">Ascenseur à Piston inférieur</string>
   <string name="Lift w/underside Piston_DESC">Monte ou descend jusqu&apos;à 64m à une allure de 1m/s</string>
   <string name="Lift Compressor">Compresseur d&apos;Ascenseur</string>
   <string name="Lift Compressor_DESC">A besoin d&apos;énergie.&#xD;&#xA;Augmente le taux de compression d&apos;un ascenseur T1&#xD;&#xA;Attacher à un ascenseur T1 pour l&apos;utiliser.</string>
@@ -1514,7 +1514,7 @@
   <string name="Partially Ablated Resin_DESC">Le revêtement extérieur dur a été ablaté; Nous devrions maintenant pouvoir liquider le noyau interne mou.</string>
   <string name="Ablated Resin">Résine Ablatée</string>
   <string name="Ablated Resin_DESC">Le revêtement extérieur dur a été ablaté; Nous devrions maintenant pouvoir liquider le noyau interne mou.</string>
-  <string name="Liquified Resin">Résin Liquéfiée</string>
+  <string name="Liquified Resin">Résine Liquéfiée</string>
   <string name="Liquified Resin_DESC">La résine a maintenant été liquéfiée et peut être collectée.</string>
   <string name="Cold Creep Spawner">Spawner de Rampeur Gelé</string>
   <string name="Cold Creep Spawner_DESC" />
@@ -1550,7 +1550,7 @@
   <string name="Cold Cavern Climate Control Centre_DESC" />
   <string name="CryoPlasm Lancer">Tourelle Anti-CryoPlasm</string>
   <string name="CryoPlasm Lancer_DESC">Courte distance, rapide, défense contre CryoPlasm</string>
-  <string name="CryoPlasm Melter">Liquéfieur de CryoPlam</string>
+  <string name="CryoPlasm Melter">Liquéfacteur de CryoPlam</string>
   <string name="CryoPlasm Melter_DESC">Liquéfie le CryoPlasm à moyenne portée. Utile seulement quand jumelé avec d&apos;autres défenses.</string>
   <string name="CryoPlasm Dazzler Turret">Tourelle Dazzler CryoPlasm</string>
   <string name="CryoPlasm Dazzler Turret_DESC">Tourelle longue portée, rapide, défense contre CryoPlasm. Marche seulement en ligne droite. Requiert 250k d&apos;énergie pour ce déclencher.</string>
@@ -1649,7 +1649,7 @@
   <string name="MK2 Organic Solar Component_CRAFT_HINT">Ne peut être placé que sur le Laboratoire, les Raffineries et les grosses Batteries!</string>
   <string name="Pyrothermic Generator_CRAFT_DESC">Brûle les ressources dans la Trémie attachée pour alimenter les machines adjacentes. Perte d&apos;efficacité avec la profondeur en raison d&apos;une mauvaise ventilation. Utilisez les émetteurs de puissance laser pour envoyer la puissance plus profondément.</string>
   <string name="Pyrothermic Generator_CRAFT_HINT">Nécessite beaucoup d&apos;Oxygène et ne peut être placé sous terre.</string>
-  <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Transmet une puissance à un taux très faible à partir d&apos;un générateur ou d&apos;une batterie. Peut alimenter une machine, une batterie ou un autre émetteur. Attachez-le à un mur pour envoyer le courant verticalement.</string>
+  <string name="Basic Laser Energy Transmitter_CRAFT_DESC">Transmet de l&apos;énergie à un taux très faible à partir d&apos;un générateur ou d&apos;une batterie. Peut alimenter une machine, une batterie ou un autre émetteur. Attachez-le à un mur pour envoyer le courant verticalement.</string>
   <string name="Basic Laser Energy Transmitter_CRAFT_HINT">Portée maximale: 64. Mettre à niveau dès que possible.</string>
   <string name="Laser Energy Transmitter MK1_CRAFT_DESC">Transmet un courant faible à partir d&apos;un générateur ou d&apos;une batterie jusqu&apos;à 64 m. Peut alimenter une machine, une batterie ou un autre émetteur. Attachez-le à un mur pour envoyer le courant verticalement.</string>
   <string name="Laser Energy Transmitter MK1_CRAFT_HINT">Portée maximale: 64</string>
@@ -1913,7 +1913,7 @@
   <string name="Refinery Controller_CRAFT_HINT">Doit être connecté à une cuve de Réacteur de Raffinerie pour fonctionner.</string>
   <string name="Refinery Reactor Vat Component_CRAFT_DESC">Composant de la Cuve du Réacteur de Raffinage. Doit être construit dans une configuration 3x3x3 (27 au total). Nécessite un Contrôleur de Raffinerie adjacent.</string>
   <string name="Refinery Reactor Vat Component_CRAFT_HINT">Placez dans une configuration 3 par 3 par 3 pour former une Cuve de Réacteur valide.</string>
-  <string name="Jet Turbine Generator Housing_CRAFT_DESC">Composant de boîtier pour un Générateur à Turbine à Jet. Brûle le carburant HEC pour entraîner une turbine générant beaucoup de puissance. Construire 3 de haut avec une base 4x3.</string>
+  <string name="Jet Turbine Generator Housing_CRAFT_DESC">Composant de boîtier pour un Générateur Jet Turbine. Brûle le carburant HEC pour entraîner une turbine générant beaucoup de puissance. Construire 3 de haut avec une base 4x3.</string>
   <string name="Jet Turbine Generator Housing_CRAFT_HINT">Construisez une forme horizontale de 4 sur 3 et construisez 3 haut, en utilisant 36 blocs au total. Fixer une prise pour former l&apos;avant de la machine.</string>
   <string name="Jet Turbine Generator Intake_CRAFT_DESC">Aspiration de grandes quantités d&apos;air pour la turbine. Placez en face du batiment 3m de haut et 3m de large.</string>
   <string name="Jet Turbine Generator Intake_CRAFT_HINT">L&apos;entrée du générateur de turbine est placée à l&apos;avant du batiment dans une configuration de 3 sur 3, avec 9 blocs au total.</string>
@@ -1991,7 +1991,7 @@
   <string name="Crude Organic Lens_CRAFT_HINT">Celles-ci sont les plus efficaces placées dans les LTE de niveau intermédiaire.</string>
   <string name="Organic Lens_CRAFT_DESC">Insérer dans un Laser Transmetteur d&apos;Energie pour augmenter la vitesse de 100%</string>
   <string name="Organic Lens_CRAFT_HINT">Celles-ci sont les plus efficaces placées dans les LTE de niveau intermédiaire.</string>
-  <string name="Exceptional Organic Lens_CRAFT_DESC">Insérer dans un Transmetteur d'Energie Laser pour augmenter la vitesse de 250%.</string>
+  <string name="Exceptional Organic Lens_CRAFT_DESC">Insérer dans un Transmetteur d&apos;Energie Laser pour augmenter la vitesse de 250%.</string>
   <string name="Exceptional Organic Lens_CRAFT_HINT">Ce sont les plus efficaces placés dans les LTE de haut niveau.</string>
   <string name="Iron Gear_CRAFT_DESC">Engrenage biseauté, utilisé dans divers moteurs et joints.</string>
   <string name="Iron Gear_CRAFT_HINT">Il est plus efficace d’automatiser la fabrication de ce produit.</string>
@@ -2045,7 +2045,7 @@
   <string name="Auto Upgrader_CRAFT_HINT">Un gain de temps massif!</string>
   <string name="Manufacturing Plant_CRAFT_DESC">Les Usines de Fabrication permettent l&apos;artisanat et la fabrication automatisées. Requiert Fusil Constructeur V2 pour être utilisé!</string>
   <string name="Manufacturing Plant_CRAFT_HINT">Requiert Fusil Constructeur V2 pour être déplacé!</string>
-  <string name="Location Marker_CRAFT_DESC">Stocke une zone. Utiliser dans les machines qui nécessitent une cible telle que le Téléporteur. Voir le manuel pour plus d&apos;informations.</string>
+  <string name="Location Marker_CRAFT_DESC">Enregistre un emplacement. Utiliser dans les machines qui nécessitent une cible telle que le Téléporteur. Voir le manuel pour plus d&apos;informations.</string>
   <string name="Location Marker_CRAFT_HINT">Sélectionner le marqueur dans votre barre de raccourcis affichera l&apos;emplacement enregistré</string>
   <string name="Teleporter_CRAFT_DESC">Fournir un marqueur de position et suffisamment d&apos;énergie pour permettre la téléportation. Sautez en haut pour activer.</string>
   <string name="Teleporter_CRAFT_HINT">Sautez sur l&apos;appareil pour l&apos;activer!</string>
@@ -4229,7 +4229,7 @@
   <string name="No_linked_centre_found">Aucun centre lié trouvé!</string>
   <string name="Orbital_RailGun_Link">RailGun Orbital Lié</string>
   <string name="Temperature_X">Température {0}°C</string>
-  <string name="Liquified_Resin_Needed_X">Bidons HECF Requis {0}</string>
+  <string name="Liquified_Resin_Needed_X">Bidons CCHE Requis {0}</string>
   <!--TeleporterWindow-->
   <string name="Power_Cost">Coût Energie:</string>
   <string name="No_Marker">Aucun Marqueur</string>
@@ -4493,7 +4493,7 @@
   <string name="Super Construction Paste Grinder_CRAFT_DESC">Convertit des déchets inutiles et du Charbon en Pâte de Construction. Tous les blocs esthétiques utilisent la pâte de construction!</string>
   <string name="Super Construction Paste Grinder_CRAFT_HINT">Ne fonctionne que si vous avez le DLC Dapper Indie Supporter.</string>
 	
-  <string name="Lightweight Machine Housing Crafter">Fabricateur Carter de Machine Léger </string>
+  <string name="Lightweight Machine Housing Crafter">Fabricateur Carter de Machine Léger</string>
   <string name="Lightweight Machine Housing Crafter_DESC">Transforme  plaques en 1 Carter.</string>
   <string name="Lightweight Machine Housing Crafter_CRAFT_DESC">Machine qui transforme automatiquement les Plaque d&apos;Etain en Carter de Machine Léger.</string>
   <string name="Lightweight Machine Housing Crafter_CRAFT_HINT">Beaucoup plus efficace que de le faire à la main!</string>

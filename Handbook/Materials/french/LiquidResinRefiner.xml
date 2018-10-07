@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Liquid Resin Refiner</Text>
+					<Text>Raffinerie de Résine Liquide</Text>
 				</Title>
 				<Icon>
 					<Name>Liquid Resin Refiner</Name>
@@ -12,15 +12,15 @@
 				</Icon>
 
 				<Paragraph>
-					<Text>This is the final step to utilise and clear the Hardened Resin that the Hiveminds excrete around them.
+					<Text>C’est la dernière étape pour utiliser et éliminer la résine durcie que les Hivemind sécretent autour d’eux.
 					</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>The Liquifier uses a heated plasma stream to liquify and extract the soft insides of Liquified Hard Resin. You can then use a Liquid Resin Refiner to convert this to Refined Liquid Resin.
+					<Text>Le Liquéfacteur utilise un flux de plasma chauffé pour liquéfier et extraire les parties molles de la Résine Dure Liquéfiée. Vous pouvez ensuite utiliser un Raffineur de Résine Liquide pour le convertir en Résine Liquide Raffinée.
 					 </Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>To convert from Hard Resin to Ablated Hard Resin, use a Hard Resin Ablator
+					<Text>Pour convertir de la Résine Dure en Résine Dure ablée, utilisez un Ablateur de Résine Dure
 					</Text>
 				</Paragraph>
  
@@ -28,19 +28,19 @@
 					<Target>
 						<Material>Laser Resin Ablator</Material>
 					</Target>
-					<Text>Laser Resin Ablator</Text>
+					<Text>Ablateur Laser de Résine</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Laser Resin Liquifier</Material>
 					</Target>
-					<Text>Laser Resin Liquifier</Text>
+					<Text>Laser Liquéfacteur de Résine</Text>
 				</Link>
 					<Link>
 					<Target>
 						<Material>Refined Liquid Resin</Material>
 					</Target>
-					<Text>Refined Liquid Resin</Text>
+					<Text>Résine Liquide Raffinée</Text>
 				</Link>
 
 			</Paragraphs>
@@ -48,7 +48,7 @@
 		<Page>
 			<Paragraphs>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 10 Liquified Resin to start the refining process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins 10 résines liquéfiées pour démarrer le processus de raffinage.</Text>
 				</Paragraph>
 
 				<Header>

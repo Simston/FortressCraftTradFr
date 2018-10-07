@@ -11,9 +11,9 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les Dépôts de Chariots de Fret ajoutent des chariots de fret à votre réseau de fret. Placez une trémie de stockage adjacente au dépôt avec les autorisations appropriées, assurez-vous que le dépôt soit connecté au système de voies(rails) reliant les Stations Chariot de Fret et définissez les affectations des chariots pour toutes les stations souhaitées qu'ils doivent desservir et le dépôt les enverra sur les voies. Chaque dépôt est limité à un placement de Chariot de Fret toutes les 15 secondes.
+					<Text>Les Dépôts de Chariots de Fret ajoutent des chariots de fret à votre réseau de fret. Placez une trémie de stockage adjacente au dépôt avec les autorisations appropriées, assurez-vous que le dépôt soit connecté au système de voies(rails) reliant les Stations Chariot de Fret et définissez les affectations des chariots pour toutes les stations souhaitées qu&apos;ils doivent desservir et le dépôt les enverra sur les voies. Chaque dépôt est limité à un placement de Chariot de Fret toutes les 15 secondes.
 					
-					Les Chariots de Fret retourneront au dépôt s'il n'y a plus de travail pour eux parmi les stations accessibles. Assurez-vous que les chariots ont un itinéraire de retour au dépôt. Le dépôt nécessite au moins une trémie de stockage avec les autorisations appropriées définies pour accepter le chariot entrant. Vous pouvez utiliser des dépôts séparés pour le lancement et le retour des chariots.
+					Les Chariots de Fret retourneront au dépôt s&apos;il n&apos;y a plus de travail pour eux parmi les stations accessibles. Assurez-vous que les chariots ont un itinéraire de retour au dépôt. Le dépôt nécessite au moins une trémie de stockage avec les autorisations appropriées définies pour accepter le chariot entrant. Vous pouvez utiliser des dépôts séparés pour le lancement et le retour des chariots.
 					</Text>
 				</Paragraph>
 			</Paragraphs>
@@ -25,7 +25,7 @@
 				</Title>
 				<Spacer/>
 				<Paragraph>
-					<Text>Une fois dans votre réseau de fret, les chariots de fret naviguent vers la station qui leurs sont attribuée et tentent de distribuer la marchandise en fonction des besoins de la station. Reportez-vous à Informations sur la Station Chariot de Fret pour plus de détails sur la configuration des paramètres d'objets.</Text>
+					<Text>Une fois dans votre réseau de fret, les chariots de fret naviguent vers la station qui leurs sont attribuée et tentent de distribuer la marchandise en fonction des besoins de la station. Reportez-vous à Informations sur la Station Chariot de Fret pour plus de détails sur la configuration des paramètres d&apos;objets.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Icon>

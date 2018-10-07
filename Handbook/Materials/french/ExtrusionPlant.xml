@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Usine d'Extrusion de Fil</Text>
+					<Text>Usine d&apos;Extrusion de Fil</Text>
 				</Title>
 				<Icon>
 					<Name>Extrusion Plant</Name>
@@ -17,10 +17,10 @@
 					<Text>Utilisation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Introduisez des Lingots de Métal dans l'installation d'extrusion à partir d'un autre convoyeur, d'une machine à convoyeur ou d'un Convoyeur à plateau tournant. L'extrudeuse convertira les lingots en fils pouvant être utilisés dans des recettes supplémentaires, convertis en bobines ou en circuits imprimés.</Text>
+					<Text>Introduisez des Lingots de Métal dans l&apos;installation d&apos;extrusion à partir d&apos;un autre convoyeur, d&apos;une machine à convoyeur ou d&apos;un Convoyeur à plateau tournant. L&apos;extrudeuse convertira les lingots en fils pouvant être utilisés dans des recettes supplémentaires, convertis en bobines ou en circuits imprimés.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>L'Usine d'Extrusion de Fil est essentiel pour l'automatisation de la Recherche en Laboratoire.</Text>
+					<Text>L&apos;Usine d&apos;Extrusion de Fil est essentiel pour l&apos;automatisation de la Recherche en Laboratoire.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Liquified Resin</Text>
+					<Text>Résine Liquéfiée</Text>
 				</Title>
 				<Icon>
 					<Name>Liquified Resin</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The resin has now been liquified, and can be collected.</Text>
+					<Text>La résine a maintenant été liquéfiée et peut être collectée.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

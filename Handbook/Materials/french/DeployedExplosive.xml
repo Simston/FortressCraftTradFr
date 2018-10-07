@@ -16,7 +16,7 @@
 				<Header>
 					<Text>Trucs et astuces!</Text>
 				</Header>
-				<Paragraph><Text>- Cette machine a besoin d'une quantitée croissante d'énergie!</Text>
+				<Paragraph><Text>- Cette machine a besoin d&apos;une quantitée croissante d&apos;énergie!</Text>
 </Paragraph>
 				<Paragraph><Text>- Niveau 1 = 100 énergie.</Text>
 </Paragraph>
@@ -31,9 +31,9 @@
 				<Paragraph><Text>- Niveau 6 = 10 000 000 énergie.</Text>
 </Paragraph>
 
-				<Paragraph><Text>- Les niveaux intermédiaires d'énergie ne donnent aucun rayon de souffle supplémentaire!</Text>
+				<Paragraph><Text>- Les niveaux intermédiaires d&apos;énergie ne donnent aucun rayon de souffle supplémentaire!</Text>
 </Paragraph>
-				<Paragraph><Text>- Atteindre le niveau 6 avec la production actuelle d'énergie mise en œuvre est déjà un défi!</Text>
+				<Paragraph><Text>- Atteindre le niveau 6 avec la production actuelle d&apos;énergie mise en œuvre est déjà un défi!</Text>
 </Paragraph>
 				<Header>
 					<Text>Prudence!!</Text>

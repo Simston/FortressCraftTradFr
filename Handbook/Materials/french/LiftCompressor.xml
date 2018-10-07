@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lift Compressor</Text>
+					<Text>Compresseur d&apos;Ascenseur</Text>
 				</Title>
 				<Icon>
 					<Name>Lift Compressor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Attach to the base of a piston lift to improve the rate at which gas is regenerated, maintaining the performance of heavily-used lifts. This compressor must be externally powered. A compressors are required on a lift to achieve the maximum height of 256m. Please note that due to technical limitations, Multiplayer Lifts are limited to 64m; a &apos;waterfall&apos; of lifts is the best solution here.</Text>
+					<Text>Fixez-le à la base d&apos;un ascenseur à piston pour améliorer le taux de régénération du gaz, tout en maintenant les performances des ascenseurs très utilisés. Ce compresseur doit être alimenté de manière externe. Un compresseur est nécessaire sur un ascenseur pour atteindre une hauteur maximale de 256 m. Veuillez noter qu&apos;en raison de contraintes techniques, les ascenseurs de mode multijoueurs sont limités à 64 m; une &apos;cascade&apos; d&apos;ascenseurs est la meilleure solution dans ce cas.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Gas Recovery:
+					<Left>Récupération Gaz:
 					Utilisation Energie:
 					Capacité Energie:
-					Power Transfer Rate:</Left>
+					Taux Transfert d&apos;Energie:</Left>
 					<Right>0.15 l/s
 					1 /s
 					150
 					5 /s</Right>
 				</TwoColumnParagraph>
         <Paragraph>
-          <Text>Please note : The 64m limitation for multiplayer is a technical one, not for reasons of gameplay, and it is recommended you use Teleporters or Advanced Teleporters for long-distance movement in network games</Text>
+          <Text>Remarque: la limite de 64 m pour le mode multijoueur est dûe à des raisons techniques et non pas à des raisons de gameplay. Il est recommandé d&apos;utiliser des téléporteurs ou des téléporteurs avancés dans les parties en réseau.</Text>
         </Paragraph>
 			</Paragraphs>
 		</Page>

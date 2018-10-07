@@ -14,15 +14,15 @@
 					<Text>Le Hub Alimentation Centrale (HAC) est la machine la plus importante de votre base. Trop avancé pour être répliqué et vous ne pouvez pas survivre sur ce monde sans lui, vous devez donc le protéger à tout prix.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Production d'Energie</Text>
+					<Text>Production d&apos;Energie</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>Le HAC contient une grande batterie interne capable de stocker l'énergie récupérée par ses panneaux solaires et par le petit générateur de combustible fossile situé à l'intérieur. L'espace disponible est d'une seule unité de carburant distribué à la fois. Par conséquent, vous devriez automatiser la distribution de carburant à l'aide d'une trémie de stockage ou d'une mini-trémie dès que possible.</Text>
+					<Text>Le HAC contient une grande batterie interne capable de stocker l&apos;énergie récupérée par ses panneaux solaires et par le petit générateur de combustible fossile situé à l&apos;intérieur. L&apos;espace disponible est d&apos;une seule unité de carburant distribué à la fois. Par conséquent, vous devriez automatiser la distribution de carburant à l&apos;aide d&apos;une trémie de stockage ou d&apos;une mini-trémie dès que possible.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Le HAC enverra automatiquement de l'énergie aux machines environnantes qui en ont besoin. Vous pouvez également insérer ou extraire de l'énergie directement en interagissant avec celle-ci (défaut &#39;E&#39;).Ce panneau de contrôle vous permet également d’insérer du carburant dans le générateur.</Text>
+					<Text>Le HAC enverra automatiquement de l&apos;énergie aux machines environnantes qui en ont besoin. Vous pouvez également insérer ou extraire de l&apos;énergie directement en interagissant avec celle-ci (défaut &#39;E&#39;).Ce panneau de contrôle vous permet également d’insérer du carburant dans le générateur.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -33,7 +33,7 @@
 					<Text>Laser Orbital</Text>
 				</Header>
 				<Paragraph>
-					<Text>Le faisceau laser émis depuis le haut du HAC peut être utilisé comme balise pour retrouver votre base. Toutefois, veillez à ne pas placer de blocs à proximité de celui-ci, car ils risquent d'être détruits..</Text>
+					<Text>Le faisceau laser émis depuis le haut du HAC peut être utilisé comme balise pour retrouver votre base. Toutefois, veillez à ne pas placer de blocs à proximité de celui-ci, car ils risquent d&apos;être détruits..</Text>
 				</Paragraph>
 			<Header>
 					<Text>Systèmes Informatiques</Text>

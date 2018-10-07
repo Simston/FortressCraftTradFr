@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Trouvé près de la surface, le minerai de cuivre peut être fondu en Lingots de Cuivre à l'aide de la Fonderie. Les Lingots de Cuivre sont largement utilisées dans une large gamme de machines à composants électriques.</Text>
+					<Text>Trouvé près de la surface, le minerai de cuivre peut être fondu en Lingots de Cuivre à l&apos;aide de la Fonderie. Les Lingots de Cuivre sont largement utilisées dans une large gamme de machines à composants électriques.</Text>
 				</Paragraph>
 				
 				<Spacer/>
@@ -20,8 +20,8 @@
 				<TwoColumnParagraph>
 					<Left>Occurrence:
 					Couleur Ping:
-					1ère Etape de l'Extraction:
-					2ème Etape de l'Extraction:				
+					1ère Etape de l&apos;Extraction:
+					2ème Etape de l&apos;Extraction:				
 					
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>

@@ -11,13 +11,13 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Améliore la vitesse à laquelle un extracteur de minerai extrait le minerai au prix d'une utilisation accrue de l'énergie.</Text>
+					<Text>Améliore la vitesse à laquelle un extracteur de minerai extrait le minerai au prix d&apos;une utilisation accrue de l&apos;énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Vitesse d'Extraction:</Left>
+					<Left>Vitesse d&apos;Extraction:</Left>
 					<Right>800%</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

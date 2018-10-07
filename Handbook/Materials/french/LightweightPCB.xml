@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lightweight PCB</Text>
+					<Text>PCB Léger</Text>
 				</Title>
 				<Icon>
 					<Name>Lightweight PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A titanium based PCB created from titanium coils in a PCB Assembling Plant.</Text>
+					<Text>Un PCB à base de titane créé à partir de bobines de titane dans une usine d&apos;assemblage de PCB.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

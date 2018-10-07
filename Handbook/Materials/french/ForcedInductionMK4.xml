@@ -11,13 +11,13 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les modules d'Induction Forcée constituent une amélioration de la Fonderie, augmente la vitesse de fusion au détriment d'une consommation d'énergie considérablement accrue. Pour utiliser le module, placez-le au dessus de la Fonderie. 
+					<Text>Les modules d&apos;Induction Forcée constituent une amélioration de la Fonderie, augmente la vitesse de fusion au détriment d&apos;une consommation d&apos;énergie considérablement accrue. Pour utiliser le module, placez-le au dessus de la Fonderie. 
 
-					Les améliorations d'induction forcée T4 doublent également la vitesse à laquelle le minerai peut être collecté à partir de la trémie de stockage adjacente.</Text>
+					Les améliorations d&apos;induction forcée T4 doublent également la vitesse à laquelle le minerai peut être collecté à partir de la trémie de stockage adjacente.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Les Fonderies Basiques ne prennent pas en charge les améliorations d'Induction Forcée.</Text>
+					<Text>Les Fonderies Basiques ne prennent pas en charge les améliorations d&apos;Induction Forcée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
@@ -27,7 +27,7 @@
 					Utilisation Energie:
 					Stockage Energie:
 					Taux de Chauffe:
-					Taux Transfert d'Objet:</Left>
+					Taux Transfert d&apos;Objet:</Left>
 					<Right>400%
 					3200%
 					400%

@@ -11,13 +11,13 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-          <Text>Insérez-le dans un Transmetteur d'Energie Laser pour augmenter de façon uniforme le taux de transmission de son énergie. Donne une augmentation massive des TEL de bas niveau, mais est beaucoup moins utile dans ceux de niveau supérieur.</Text>
+          <Text>Insérez-le dans un Transmetteur d&apos;Energie Laser pour augmenter de façon uniforme le taux de transmission de son énergie. Donne une augmentation massive des TEL de bas niveau, mais est beaucoup moins utile dans ceux de niveau supérieur.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Taux de Transmission d'Energie:</Left>
+					<Left>Taux de Transmission d&apos;Energie:</Left>
 					<Right>15 EPS</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Macerator</Text>
+					<Text>Macérateur</Text>
 				</Title>
 				<Icon>
 					<Name>Macerator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Macerator Is capable of atomizing some of the most resilient materials known to man. Sometimes the atomization process returns a mineral rich compound primarily consisting of one of the elements that the imputed item contains. The outputted item is indistinguishable from normal ore and can be treated as such.</Text>
+					<Text>Le Macérateur est capable d&apos;atomiser certains des matériaux les plus résistants connus de l&apos;homme. Parfois, le processus d&apos;atomisation renvoie un composé riche en minéraux constitué principalement d&apos;un des éléments contenus dans l&apos;objet imputé. L&apos;objet produit ne peut pas être distingué du minerai normal et peut être traité comme tel.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
@@ -30,10 +30,10 @@
 				<Spacer/>
 				<Spacer/>
 				<Header>
-					<Text>Tips and Tricks!</Text>
+					<Text>Trucs et Astuces!</Text>
 				</Header>
 				<Paragraph>
-					<Text>- This machine is fed from a conveyor belt, and will output any reclaimed ore to a adjacent storage hopper.</Text>
+					<Text>- Cette machine est alimentée par un Convoyeur et achemine tout minerai récupéré vers une trémie de stockage adjacente.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

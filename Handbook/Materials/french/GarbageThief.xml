@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Le Cyberdyne Voleur de Déchets, est un simple voleur de minerai reconfiguré pour enlever les déchets dans l'inventaire au lieu du minerai. Lorsqu'elle est utilisée avec plusieurs broyeur de pâtes de construction, cette machine peut rapidement éliminer et transformer les déchets en pâte de construction, libérant ainsi l'inventaire. Pour des performances optimales, remplacez le sol d'un couloir fréquenté par cette machine et un système de traitement de sortie approprié.
+					<Text>Le Cyberdyne Voleur de Déchets, est un simple voleur de minerai reconfiguré pour enlever les déchets dans l&apos;inventaire au lieu du minerai. Lorsqu&apos;elle est utilisée avec plusieurs broyeur de pâtes de construction, cette machine peut rapidement éliminer et transformer les déchets en pâte de construction, libérant ainsi l&apos;inventaire. Pour des performances optimales, remplacez le sol d&apos;un couloir fréquenté par cette machine et un système de traitement de sortie approprié.
 
 					Il suffit de construire notre tout nouveau Voleur de Déchets (tm) dans une configuration 3x3 et de l’alimenter avec seulement 5 points d’énergie par bloc.</Text>
 				</Paragraph>
@@ -23,7 +23,7 @@
 					Stockage Interne:
 					Utilisation Energie:
 					</Left>
-					<Right>Jusqu'à 3,300/minute!
+					<Right>Jusqu&apos;à 3,300/minute!
 					100 units of Garbage!
 					Seulement 5 energie par Déchet!
 					</Right>

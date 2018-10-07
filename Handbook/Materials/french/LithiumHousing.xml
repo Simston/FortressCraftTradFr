@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Housing</Text>
+					<Text>Boîtier en Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple lithium housing created from lithium plates.</Text>
+					<Text>Un simple boîtier en lithium créé à partir de plaques de lithium.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

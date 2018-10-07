@@ -4,39 +4,39 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Jet Turbine Generator Intake</Text>
+					<Text>Admission du Générateur Jet Turbine</Text>
 				</Title>
 				<Icon>
 					<Name>Drain Grate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Jet Turbine Generator is a more advanced method of generating power from fossil fuels. It requires High Energy Composite Fuel produced from Biomass in a refinery vat.</Text>
+					<Text>Le Générateur Jet Turbine est une méthode plus avancée de production d’énergie à partir de combustibles fossiles. Il nécessite un Combustible Composite à Haute Énergie produit à partir de biomasse dans une Cuve de Raffinerie VAT.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Construction</Text>
 </Header>
 				<Paragraph>
-					<Text>To construct a Jet Turbine place 36 housing components 3m high on a 4m x 3m base. Then construct a 3m x 3m  intake on either housing face of the same size.</Text>
+					<Text>Pour construire une Jet Turbine, placez 36 composants de boîtier(Logement) d’une hauteur de 3 m sur une base de 4 x 3 m. Construisez ensuite une Admission de 3m x 3m sur l&apos;une ou l&apos;autre face du boîtier de la même taille.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Peak Power (rush):
-					Peak Power (plentiful):
-					Peak Power (scarce):
+					<Left>Pic d&apos;Energie (rush):
+					Pic d&apos;Energie (abondant):
+					Pic d&apos;Energie (rare):
 					Capacité Energie:
 					Max. Taux Transfert Energie:
-					Burn Time:
+					Temps de Combustion
 					Carburant:</Left>
-					<Right>1822 par seconde (HECF)
-					455 par seconde (HECF)
-					182 par seconde (HECF)
+					<Right>1822 par seconde (CCHE)
+					455 par seconde (CCHE)
+					182 par seconde (CCHE)
 					3000
 					320 par seconde
 					30 secondes (Max RPM)
-					High Energy Composite Fuel</Right>
+					Carburant Composite Haute Energie</Right>
 				</TwoColumnParagraph>
 				
 			</Paragraphs>

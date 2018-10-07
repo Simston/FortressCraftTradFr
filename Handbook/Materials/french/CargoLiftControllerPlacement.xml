@@ -14,7 +14,7 @@
 				<Paragraph>
 					<Text>
 					Cette machine est utilisée pour le transport en masse vertical, sans pareil pour récupérer des ressources des profondeurs du monde.
-					Construire dans un 3x1x3 dans un puit d'une profondeur appropriée. L'Excavateur Automatique est idéal pour cette tâche.</Text>
+					Construire dans un 3x1x3 dans un puit d&apos;une profondeur appropriée. L&apos;Excavateur Automatique est idéal pour cette tâche.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -40,9 +40,9 @@ Allez à la page suivante pour des informations sur la configuration et la const
 				</Title>
 				<Spacer/>
 				<Paragraph>
-					<Text>Une fois que vous avez nettoyé votre puit à la profondeur souhaitée, vous devrez adapter des Rails d'Ascenseur aux bords de celui-ci.
+					<Text>Une fois que vous avez nettoyé votre puit à la profondeur souhaitée, vous devrez adapter des Rails d&apos;Ascenseur aux bords de celui-ci.
 
-					Attachez simplement une trémie de stockage au Contrôleur d'Ascenseur de Cargaison et il les placera automatiquement, jusqu'à ce que le sol soit plein.
+					Attachez simplement une trémie de stockage au Contrôleur d&apos;Ascenseur de Cargaison et il les placera automatiquement, jusqu&apos;à ce que le sol soit plein.
 
 					Il n’ya AUCUNE limite à la distance pour le placer, toutefois veuillez noter qu’il ya un compromis entre distance et vitesse.
 
@@ -66,9 +66,9 @@ Allez à la page suivante pour des informations sur la configuration et la const
 					<Text>Déploiement</Text>
 				</Title>
 				<Paragraph>
-					<Text>Une fois que votre Contrôleur d'Ascenseur de Cargaison lit une profondeur appropriée, vous êtes prêt à y installer un Ascenseur de Cargaison.
-					Ouvrez simplement l'UI du Contrôleur d'Ascenseur de Cargaison(touche par défaut &#39;E&#39;) et faites glisser l'Ascenseur approprié dans l'emplacement.
-					Vous pouvez retirer et améliorer les Ascenseurs de Cargaison, mais l'ascenseur DOIT être vide avant cela.
+					<Text>Une fois que votre Contrôleur d&apos;Ascenseur de Cargaison lit une profondeur appropriée, vous êtes prêt à y installer un Ascenseur de Cargaison.
+					Ouvrez simplement l&apos;UI du Contrôleur d&apos;Ascenseur de Cargaison(touche par défaut &#39;E&#39;) et faites glisser l&apos;Ascenseur approprié dans l&apos;emplacement.
+					Vous pouvez retirer et améliorer les Ascenseurs de Cargaison, mais l&apos;ascenseur DOIT être vide avant cela.
 					</Text>
 				</Paragraph>
 
@@ -105,9 +105,9 @@ Allez à la page suivante pour des informations sur la configuration et la const
 					<Text>Utilisation</Text>
 				</Title>
 				<Paragraph>
-					<Text>Votre Ascenseur montera et descendra automatiquement dans le puit si il dispose d'assez d'énergie, puis collectera et déchargera des ressources en fonction des commandes passées. Pour modifier les commandes, ouvrez simplement l'interface utilisateur du Contrôleur Ascenseur de Cargaison (la touche par défaut est &#39;E&#39;) et modifiez-les de manière appropriée.
+					<Text>Votre Ascenseur montera et descendra automatiquement dans le puit si il dispose d&apos;assez d&apos;énergie, puis collectera et déchargera des ressources en fonction des commandes passées. Pour modifier les commandes, ouvrez simplement l&apos;interface utilisateur du Contrôleur Ascenseur de Cargaison (la touche par défaut est &#39;E&#39;) et modifiez-les de manière appropriée.
 
-					Une fois aux limites supérieure ou inférieure de votre puits, l'ascenseur tente de charger et de décharger via les trémies de stockage connectées. Il suffit de les placer en contact avec l'ascenseur garé.
+					Une fois aux limites supérieure ou inférieure de votre puits, l&apos;ascenseur tente de charger et de décharger via les trémies de stockage connectées. Il suffit de les placer en contact avec l&apos;ascenseur garé.
 					</Text>
 				</Paragraph>
 				

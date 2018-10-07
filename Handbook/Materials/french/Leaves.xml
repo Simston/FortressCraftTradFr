@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Leaves</Text>
+					<Text>Feuilles</Text>
 				</Title>
 				<Icon>
 					<Name>Leaves</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Can be collected from trees and placed or macerated.</Text>
+					<Text>Peut être ramassé des arbres et planté ou Macéré.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

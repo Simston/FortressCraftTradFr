@@ -11,9 +11,9 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Le chargeur à induction est une petite machine 5x5 avec un débit extrêmement élevé mais un stockage embarqué minimal. C'est un excellent candidat pour alimenter une zone en énergie sans l'encombrer de nombreux lasers ou batteries, et devrait éviter la nécessité d'avoir des lignes électriques enterrées et des blocs de distribution enterrés.
+					<Text>Le chargeur à induction est une petite machine 5x5 avec un débit extrêmement élevé mais un stockage embarqué minimal. C&apos;est un excellent candidat pour alimenter une zone en énergie sans l&apos;encombrer de nombreux lasers ou batteries, et devrait éviter la nécessité d&apos;avoir des lignes électriques enterrées et des blocs de distribution enterrés.
 
-					L'utilisation est simple. construire dans un carré de 5x1x5, alimenter de n'importe quelle direction, et placer les machines sur le dessus ou sur les côtés. Sachez, comme pour toutes les machines fournissant de l'énergie, si un LTE se trouve au niveau du chargeur ET si vous touchez le chargeur, une boucle de retour sera générée, ce qui devrait être évité.
+					L&apos;utilisation est simple. construire dans un carré de 5x1x5, alimenter de n&apos;importe quelle direction, et placer les machines sur le dessus ou sur les côtés. Sachez, comme pour toutes les machines fournissant de l&apos;énergie, si un LTE se trouve au niveau du chargeur ET si vous touchez le chargeur, une boucle de retour sera générée, ce qui devrait être évité.
 
 					Cette machine, placée sous un laboratoire de recherche ou une autre grande machine gourmande en énergie, est idéale pour organiser une distribution de puissance nette et rapide.
 					</Text>
@@ -27,8 +27,8 @@
 				</Header>
 				<TwoColumnParagraph>
 					<Left>Stockage Interne:
-					Max. Taux entrée d'énergie:
-					Max. Taux sortie d'énergie: 
+					Max. Taux entrée d&apos;énergie:
+					Max. Taux sortie d&apos;énergie: 
 					</Left>
 					<Right>1500
 					7500/face/seconde

@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lift w/underside Piston</Text>
+					<Text>Ascenseur à Piston inférieur</Text>
 				</Title>
 				<Icon>
 					<Name>T1 Lift</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A lift with a piston which raises and lowers a platform. A wireless connection to your suit allows the lift to raise or lower automatically to your location when you approach the lift shaft. This can be augmented with a manual control module to allow precise movement at the behest of anyone using the lift. A lift can move significantly faster when not encumbered by the weight of a player, and will do so if a player is detected near the lift shaft at any height reachable by the lift.</Text>
+					<Text>Un ascenseur avec un piston qui soulève et abaisse une plate-forme. Une connexion sans fil à votre combinaison permet à l&apos;ascenseur de monter ou de descendre automatiquement à votre emplacement lorsque vous vous approchez de la cage d&apos;ascenseur. Peut être complété par un module de commande manuelle pour permettre un mouvement précis à la demande de quiconque utilise l&apos;ascenseur. Un ascenseur peut se déplacer beaucoup plus rapidement s&apos;il n&apos;est pas encombré par le poids d&apos;un joueur. Il le fera également si un joueur est détecté près de la cage d&apos;ascenseur à une hauteur accessible par l&apos;ascenseur.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Interact (default &#39;E&#39;) with the lift to adjust the maximum range, fine tune with alternate interact (default &#39;Shift+E&#39;). Upgrade the lift with powered compressors to regenerate gas faster, maintaining performance for heavily-used lifts. A powered compressor is already required for the lift to extend beyond 64m (32m in lowest detail setting).</Text>
+					<Text>Interagir (par défaut &apos;E&apos;) avec l&apos;ascenseur pour régler la portée maximale, réglages affinés avec (défaut &apos;Shift + E&apos;). Améliorez l&apos;ascenseur avec des Compresseurs pour régénérer le gaz plus rapidement, tout en maintenant les performances des ascenseurs très utilisés. Un compresseur motorisé est déjà nécessaire pour que l&apos;ascenseur aille au-delà de 64 m (32 m dans le réglage le plus détaillé).</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -25,24 +25,24 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Maximum Speed (with gas):
-					Maximum Speed (no gas):
+					<Left>Vitesse Maximale (avec gas):
+					Vitesse Maximale (sans gas):
 					Portée Maximale:
-					Gas Capacity:
-					Gas Recovery:
-					Gas Usage:
-					Pause Timer:</Left>
+					Capacité de Gaz:
+					Récupération de Gaz:
+					Utilisation du Gaz:
+					Temps de Pause:</Left>
 					<Right>12 m/s
 					3 m/s
-					256m (64m in multiplayer)
-					24 liters
+					256m (64m en multijoueur)
+					24 litres
 					0.025 l/s
 					1 l/s
 					5 secondes</Right>
 				</TwoColumnParagraph>
         <Spacer/>
         <Paragraph>
-          <Text>Please note : The 64m limitation for multiplayer is a technical one, not for reasons of gameplay, and it is recommended you use Teleporters or Advanced Teleporters long-distance movement in network games</Text>
+          <Text>Remarque: la limite de 64 m pour le mode multijoueur est dûe à des raisons techniques et non pas à des raisons de gameplay. Il est recommandé d&apos;utiliser des téléporteurs ou des téléporteurs avancés dans les parties en réseau.</Text>
         </Paragraph>
 			</Paragraphs>
 		</Page>

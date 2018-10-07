@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Bar</Text>
+					<Text>Lingot de Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Lithium Bars are generally used in machines which store or transmit power. They are crafted from Lithium Ore, which can be found at least 120m below the surface.</Text>
+					<Text>Les Lingots de Lithium sont généralement utilisées dans des machines qui stockent ou transmettent de l&apos;énergie. Ils sont fabriqués à partir de minerai de lithium, qui peut être trouvé à -120m sous la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

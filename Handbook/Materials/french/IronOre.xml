@@ -11,15 +11,15 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Trouvé à environ -65m sous la surface, le minerai de fer peut être fondu en Lingots de Fer à l'aide de la Fonderie. Les Lingots de Fer sont utilisées dans une grande variété de machines.</Text>
+					<Text>Trouvé à environ -65m sous la surface, le minerai de fer peut être fondu en Lingots de Fer à l&apos;aide de la Fonderie. Les Lingots de Fer sont utilisées dans une grande variété de machines.</Text>
 			</Paragraph>
 				<Spacer/>
 				<Header><Text>En Bref</Text></Header>
 				<TwoColumnParagraph>
 					<Left>Occurrence:
 					Couleur Ping:
-					1ère Etape de l'Extraction:
-					2ème Etape de l'Extraction:
+					1ère Etape de l&apos;Extraction:
+					2ème Etape de l&apos;Extraction:
 					
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>

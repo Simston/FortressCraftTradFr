@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Pipe</Text>
+					<Text>Tuyau en Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple lithium pipe created from lithium bars in a Pipe Extrusion Plant.</Text>
+					<Text>Un simple Tuyau de Lithium créé à partir de Lingots de Lithium dans une usine d’extrusion de tuyaux.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

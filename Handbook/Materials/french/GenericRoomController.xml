@@ -15,7 +15,7 @@
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Les Salles Génériques offrent de grandes performances, à la fois à l'intérieur et à l'extérieur de la salle. Chaque pièce nécessite un SAS interne et un SAS externe. En plaçant un contrôleur de salle, vous serez alors invité à poser des questions sur tous les problèmes détectés.</Text>
+          <Text>Les Salles Génériques offrent de grandes performances, à la fois à l&apos;intérieur et à l&apos;extérieur de la salle. Chaque pièce nécessite un SAS interne et un SAS externe. En plaçant un contrôleur de salle, vous serez alors invité à poser des questions sur tous les problèmes détectés.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
@@ -23,11 +23,11 @@
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Les Chambres Chauffées confèrent 2 bonus. Tout d'abord, les effets d'hypothermie, de froid à l'intérieur de la combinaison sont annulés. Deuxièmement, toutes les machines subissant des effets environnementaux du au froid fonctionneront normalement, comme les Convoyeurs.</Text>
+          <Text>Les Chambres Chauffées confèrent 2 bonus. Tout d&apos;abord, les effets d&apos;hypothermie, de froid à l&apos;intérieur de la combinaison sont annulés. Deuxièmement, toutes les machines subissant des effets environnementaux du au froid fonctionneront normalement, comme les Convoyeurs.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Les Salles Filtrées offrent une protection complète contre les particules dangereuses en suspension dans l'air.</Text>
+          <Text>Les Salles Filtrées offrent une protection complète contre les particules dangereuses en suspension dans l&apos;air.</Text>
         </Paragraph>
         <Spacer/>
       
@@ -62,13 +62,13 @@
         </TwoColumnParagraph>
         <Spacer/>
         <Paragraph>
-          <Text>Les salles peuvent être fabriquées à partir de pratiquement n'importe quel matériau opaque.</Text>
+          <Text>Les salles peuvent être fabriquées à partir de pratiquement n&apos;importe quel matériau opaque.</Text>
         </Paragraph>
         <Paragraph>
-          <Text>Pour transférer des articles à travers les murs, utilisez un Oeillet Logistique. Pour transférer l’énergie à travers les murs, utilisez un Oeillet d'Energie. Les machines ne peuvent pas être des murs, à l'exception de Piste Minecart.</Text>
+          <Text>Pour transférer des articles à travers les murs, utilisez un Oeillet Logistique. Pour transférer l’énergie à travers les murs, utilisez un Oeillet d&apos;Energie. Les machines ne peuvent pas être des murs, à l&apos;exception de Piste Minecart.</Text>
         </Paragraph>
         <Paragraph>
-          <Text>Les plaques d'induction sont valables à la fois au plafond et au sol, pour permettre un large transfert de d'énergie.</Text>
+          <Text>Les plaques d&apos;induction sont valables à la fois au plafond et au sol, pour permettre un large transfert de d&apos;énergie.</Text>
         </Paragraph>
         
       </Paragraphs>

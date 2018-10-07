@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Laser Energy Transmitter MK2</Text>
+					<Text>Laser Transmetteur d&apos;Énergie MK2</Text>
 				</Title>
 				<Icon>
 					<Name>Laser Energy Transmitter MK2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Laser Energy Transmitters (or LETs) are the backbone of your power delivery network, they can send power over a distance of up to 64m and can deliver it directly to machines, power storage blocks, or another LET to extend the range.</Text>
+					<Text>Les Laser Transmetteur d&apos;Énergie (ou LTE) constituent l&apos;épine dorsale de votre réseau de distribution d&apos;énergie. Ils peuvent envoyer de l&apos;énergie sur une distance maximale de 64m et ainsi le livrer directement aux machines, aux blocs de stockage d&apos;énergie ou à un autre service LTE afin d&apos;étendre la portée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>To open the control panel for the LET press the &#39;Interact&#39; key (default &#39;E&#39;). This allows you to upgrade the lens which will boost power transfer. You can also switch the firing mode so that it will wait for a full battery before sending power. LETs have a small internal capacity, consider complementing them with Power Storage Blocks to ensure a reliable supply of power as supply and demand vary.</Text>
+					<Text>Pour ouvrir le panneau de commande du LTE, appuyez sur la touche &apos;Interact&apos; (par défaut, &apos;E&apos;). Vous permet d&apos;améliorer la Lentille, ce qui stimulera le transfert d&apos;énergie. Vous pouvez également changer le mode de transfert afin qu&apos;il attende d&apos;avoir une batterie pleine avant d&apos;envoyer l&apos;énergie. Les LTE ayant une faible capacité interne, envisagez de les compléter avec des blocs de stockage d&apos;énergie afin de garantir une alimentation fiable en énergie, car l&apos;offre et la demande varient.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

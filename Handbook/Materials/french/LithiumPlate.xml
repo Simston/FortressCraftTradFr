@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Plate</Text>
+					<Text>Plaque de Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple lithium plate created from lithium bars in a Stamper Plant.</Text>
+					<Text>Une simple Plaque de Lithium créée à partir de Lingots de Lithium dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

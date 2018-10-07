@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Liquéfieur de CryoPlam</Text>
+					<Text>Liquéfacteur de CryoPlam</Text>
 				</Title>
 				<Icon>
 					<Name>CryoPlasm Melter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Fait fondre le CryoPlasm à moyenne portée. Utile uniquement en association avec d'autres types de défense.
+					<Text>Fait fondre le CryoPlasm à moyenne portée. Utile uniquement en association avec d&apos;autres types de défense.
 					La fusion du CryoPlasm provoque sa transformation en un liquide tombant dans l’air et hors des blocs.</Text>
 				</Paragraph>
 				<Header>

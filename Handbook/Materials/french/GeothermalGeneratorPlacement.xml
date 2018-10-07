@@ -11,7 +11,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Les composants du Générateur Géothermique sont utilisés pour former un système de production d’énergie passif de haut niveau capable de produire 10 fois la puissance d’une turbine à jet. Le Générateur Géothermique doit être placé dans les cavernes froides et alimenté par des tubes thermoconducteurs pour pouvoir générer de l'énergie. La géothermie fonctionne en générant de l'énergie à partir de différences de température. Pour chaque tuyau placé sous le niveau de la caverne froide, la puissance générée par seconde augmentera. Une fois que les conduits thermiques atteignent les cavernes de magma, ils vont commencer à absorber la chaleur de la source de magma, générant ainsi plus de puissance de manière exponentielle. La géothermie générant de l’énergie à partir des différences de température, elle devrait augmenter considérablement la production d’énergie globale. </Text>
+					<Text>Les composants du Générateur Géothermique sont utilisés pour former un système de production d’énergie passif de haut niveau capable de produire 10 fois la puissance d’une turbine à jet. Le Générateur Géothermique doit être placé dans les cavernes froides et alimenté par des tubes thermoconducteurs pour pouvoir générer de l&apos;énergie. La géothermie fonctionne en générant de l&apos;énergie à partir de différences de température. Pour chaque tuyau placé sous le niveau de la caverne froide, la puissance générée par seconde augmentera. Une fois que les conduits thermiques atteignent les cavernes de magma, ils vont commencer à absorber la chaleur de la source de magma, générant ainsi plus de puissance de manière exponentielle. La géothermie générant de l’énergie à partir des différences de température, elle devrait augmenter considérablement la production d’énergie globale. </Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
@@ -33,8 +33,8 @@
 				</Header>
 				<TwoColumnParagraph>
 					<Left>Energie (rush - toujours): 
-					Pic d'Énergie (abondant):
-					Pic d'Énergie (insufissant): 
+					Pic d&apos;Énergie (abondant):
+					Pic d&apos;Énergie (insufissant): 
 					Multiplicateur Freezon:
 					Multiplicateur Temps:
 					Capacité Energie:

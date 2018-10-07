@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Wire</Text>
+					<Text>Fil de Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>Lithium Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple lithium wire created from lithium bars in an Extrusion Plant.</Text>
+					<Text>Un simple fil de lithium créé à partir de lingots de lithium dans une usine d&apos;extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
