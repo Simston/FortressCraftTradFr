@@ -11,11 +11,11 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Le Bloc de Stockage d’Énergie MK 2 peut contenir une réserve d'énergie maximale de 1500. Il faudra l'énergie d'un générateur connecté et le fournira à toutes les machines ou transmetteurs de puissance connectés. Plusieurs Blocs de Stockage d’Énergie partageront l'énergie entre eux, mais ceci n'est pas efficace pour la transmission d'énergie sur plus de quelques blocs. Les Laser Transmetteur d&apos;Énergie doivent plutôt être utilisés à cette fin.</Text>
+					<Text>Le Bloc de Stockage d’Énergie MK 2 peut contenir une réserve d&apos;énergie maximale de 1500. Il faudra l&apos;énergie d&apos;un générateur connecté et le fournira à toutes les machines ou transmetteurs de puissance connectés. Plusieurs Blocs de Stockage d’Énergie partageront l&apos;énergie entre eux, mais ceci n&apos;est pas efficace pour la transmission d&apos;énergie sur plus de quelques blocs. Les Laser Transmetteur d&apos;Énergie doivent plutôt être utilisés à cette fin.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>L'énergie peut être extraite du Bloc de Stockage d’Énergie en appuyant sur la touche &#39;Extraire&#39; (&#39;Q&#39; par défaut) et distribuée via la touche &#39;Interact&#39; (par défaut &#39;E&#39;).</Text>
+					<Text>L&apos;énergie peut être extraite du Bloc de Stockage d’Énergie en appuyant sur la touche &#39;Extraire&#39; (&#39;Q&#39; par défaut) et distribuée via la touche &#39;Interact&#39; (par défaut &#39;E&#39;).</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

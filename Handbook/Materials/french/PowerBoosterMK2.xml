@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>ARTHER Amplificateur d'Énergie MK2</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK2</Text>
 				</Title>
 				<Icon>
 					<Name>MK2 Power Booster</Name>
@@ -12,7 +12,7 @@
 				</Icon>
 				<Spacer/>
 				<Paragraph>
-					<Text>L'utilisation de cet élément rétablira immédiatement l'alimentation d'ARTHER. Planifiez à l'avance et prolongez vos trajets souterrains et améliorez vos machines</Text>
+					<Text>L&apos;utilisation de cet élément rétablira immédiatement l&apos;alimentation d&apos;ARTHER. Planifiez à l&apos;avance et prolongez vos trajets souterrains et améliorez vos machines</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -28,13 +28,13 @@
 					<Target>
 						<Material>PowerBoosterMK3</Material>
 					</Target>
-					<Text>ARTHER Amplificateur d'Énergie MK3</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK3</Text>
 				</Link>
 					<Link>
 					<Target>
 						<Material>MK2PowerBoosterCharger</Material>
 					</Target>
-					<Text>Fabriqué par Chargeur d'Amplificateur d&apos;Énergie MK2</Text>
+					<Text>Fabriqué par Chargeur d&apos;Amplificateur d&apos;Énergie MK2</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

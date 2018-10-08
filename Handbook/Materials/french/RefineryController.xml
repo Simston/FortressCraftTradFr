@@ -20,9 +20,9 @@
 					<Text>Composant Cuve de Réacteur de Raffinerie</Text>
 				</Link>
 				<Paragraph>
-					<Text>Le Contrôleur de Raffinerie est la machine qui maintient les équilibres chimiques précis requis pour créer les produits souhaités. Pour fonctionner, le produit brut doit être fourni au contrôleur, ainsi que suffisamment d'énergie pour fonctionner. Les Trémies de Stockage adjacentes au contrôleur peuvent recevoir le produit de sortie.
+					<Text>Le Contrôleur de Raffinerie est la machine qui maintient les équilibres chimiques précis requis pour créer les produits souhaités. Pour fonctionner, le produit brut doit être fourni au contrôleur, ainsi que suffisamment d&apos;énergie pour fonctionner. Les Trémies de Stockage adjacentes au contrôleur peuvent recevoir le produit de sortie.
 
-Connecter un contrôleur à une Cuve n'importe où directement contre la Cuve. S'il est connecté, la fenêtre contextuelle s'affichera et le contrôleur s'orientera vers la cuve et placera les tuyaux pour s'y connecter.</Text>
+Connecter un contrôleur à une Cuve n&apos;importe où directement contre la Cuve. S&apos;il est connecté, la fenêtre contextuelle s&apos;affichera et le contrôleur s&apos;orientera vers la cuve et placera les tuyaux pour s&apos;y connecter.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -30,7 +30,7 @@ Connecter un contrôleur à une Cuve n'importe où directement contre la Cuve. S
 		<Page>
 			<Paragraphs>
 				<Paragraph>
-				<Text>Connecter un Contrôleur à une Cuve placer le contrôleur n'importe où directement contre la cuve. S'il est connecté, la fenêtre contextuelle l'affichera et le contrôleur s'orientera vers la cuve et placera les tuyaux pour s'y connecter.
+				<Text>Connecter un Contrôleur à une Cuve placer le contrôleur n&apos;importe où directement contre la cuve. S&apos;il est connecté, la fenêtre contextuelle l&apos;affichera et le contrôleur s&apos;orientera vers la cuve et placera les tuyaux pour s&apos;y connecter.
 
 Vous pouvez récupérer des produits à partir du contrôleur en appuyant sur (A) ou en connectant une trémie de stockage.</Text></Paragraph>
 							

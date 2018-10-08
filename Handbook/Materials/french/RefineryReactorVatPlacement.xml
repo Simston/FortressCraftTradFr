@@ -20,9 +20,9 @@
 					<Text>Contrôleur de Raffinerie</Text>
 				</Link>
 				<Paragraph>
-					<Text>Une Cuve de Réacteur de Raffinerie est une grande structure construite à partir de blocs de Composants de Cuve de Réacteur. Lorsqu'il est placé dans une configuration solide de 3x3x3, la cuve s'affiche en tant que grande machine.
+					<Text>Une Cuve de Réacteur de Raffinerie est une grande structure construite à partir de blocs de Composants de Cuve de Réacteur. Lorsqu&apos;il est placé dans une configuration solide de 3x3x3, la cuve s&apos;affiche en tant que grande machine.
 
-La Cuve de Réacteur contient les processus chimiques nécessaires à la recombinaison des hydrates de carbone. Pour fonctionner, il doit être connecté à un contrôleur. Il est possible d'empiler des Cuves au-dessus de chacunes connectés au contrôleur, afin de permettre au contrôleur de fonctionner sur plusieurs Cuves en même temps. Vous obtiendrez ainsi une augmentation linéaire des coûts de production et d’énergie, ainsi que le stockage des produits finis: chaque cuve peut stocker 10 produits finis avant de manquer de place pour en traiter davantage. L'avantage d'utiliser plus de Cuves sur un Contrôleur est d'éviter de devoir fabriquer plusieurs contrôleurs de raffinerie coûteux.</Text>
+La Cuve de Réacteur contient les processus chimiques nécessaires à la recombinaison des hydrates de carbone. Pour fonctionner, il doit être connecté à un contrôleur. Il est possible d&apos;empiler des Cuves au-dessus de chacunes connectés au contrôleur, afin de permettre au contrôleur de fonctionner sur plusieurs Cuves en même temps. Vous obtiendrez ainsi une augmentation linéaire des coûts de production et d’énergie, ainsi que le stockage des produits finis: chaque cuve peut stocker 10 produits finis avant de manquer de place pour en traiter davantage. L&apos;avantage d&apos;utiliser plus de Cuves sur un Contrôleur est d&apos;éviter de devoir fabriquer plusieurs contrôleurs de raffinerie coûteux.</Text>
 
 
 				</Paragraph>

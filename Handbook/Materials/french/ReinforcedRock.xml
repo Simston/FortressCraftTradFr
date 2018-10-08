@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Reinforced Rock</Text>
+					<Text>Roche Renforcée</Text>
 				</Title>
 				<Icon>
 					<Name>Reinforced Rock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A basic construction material which can be machined anywhere without requring the services of the manufacturing plant. Open the self crafting interface (default &#39;C&#39;) to manufacture these.</Text>
+					<Text>Un matériau de construction de base qui peut être fabriqué n&apos;importe où sans nécessiter les services de l&apos;usine de fabrication. Ouvrez l&apos;interface d&apos;auto-création (par défaut &apos;C&apos;) pour les fabriquer.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

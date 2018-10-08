@@ -12,7 +12,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>L'Usine de Rails Ascenseur est une machine capable de mouler une paire Mécanismes de Fer en un Rail utilisable pour le système de levage de cargaison.</Text>
+					<Text>L&apos;Usine de Rails Ascenseur est une machine capable de mouler une paire Mécanismes de Fer en un Rail utilisable pour le système de levage de cargaison.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
@@ -38,7 +38,7 @@
 				<Spacer/>
 				<Spacer/>
 				<Paragraph>
-					<Text>Reportez-vous au Contrôleur Ascenseur de Cargaison pour plus d'informations.</Text>
+					<Text>Reportez-vous au Contrôleur Ascenseur de Cargaison pour plus d&apos;informations.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
