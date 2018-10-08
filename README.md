@@ -19,4 +19,4 @@ Si vous souhaitez apporter votre contribution ou de simples modifications.
 - Glissez les répertoires directement dans :   
 Version 32bit : \Steam\steamapps\common\FortressCraft\32\Default\  
 Version 64bit : \Steam\steamapps\common\FortressCraft\64\Default\  
-Confirmer le remplacer des 3 différents dossiers, Data, Lang et Handbook.
+Confirmer le remplacement des 3 différents dossiers, Data, Lang et Handbook.
