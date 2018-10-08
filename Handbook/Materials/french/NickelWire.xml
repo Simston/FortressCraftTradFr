@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Wire</Text>
+					<Text>Fil de Nickel</Text>
 				</Title>
 				<Icon>
 					<Name>Nickel Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple nickel wire created from nickel bars in an Extrusion Plant.</Text>
+					<Text>Un simple fil de nickel créé à partir de barres de nickel dans une usine d&apos;extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

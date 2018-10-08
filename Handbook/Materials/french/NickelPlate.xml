@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Plate</Text>
+					<Text>Plaque de Nickel</Text>
 				</Title>
 				<Icon>
 					<Name>Nickel Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple nickel plate created from nickel bars in a Stamper Plant.</Text>
+					<Text>Une simple plaque de nickel créée à partir de barres de nickel dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

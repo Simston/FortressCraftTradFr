@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ore Extractor</Text>
+					<Text>Extracteur de Minerai</Text>
 				</Title>
 				<Icon>
 					<Name>Ore Extractor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Ore Extractor is your go to machine for harvesting resources. When you dig using your build gun, each attempt at mining a block of ore subtracts from the total resources available in that ore block. This will occasionally generate an ore, but produces a lot of rubble. You can also super dig by holding Control. This will produce a small amount of ore quickly at a high energy cost and terrible efficiency. Avoid wasting ore in this way when possible.</Text>
+					<Text>L&apos;Extracteur de Minerai est la machine idéale pour récolter des ressources. Lorsque vous creusez avec votre fusil de construction, chaque tentative d&apos;extraction d&apos;un bloc de minerai est soustraite du total des ressources disponibles dans ce bloc de minerai. Cela peut occasionnellement générer un minerai, mais produit beaucoup de gravats. Vous pouvez également effectuer une Super-Minage en maintenant Control. Cela produira rapidement une petite quantité de minerai à un coût énergétique élevé. Évitez de gaspiller du minerai de cette façon lorsque cela est possible.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>To automate the collection of ore, use an Ore Extractor. You can place the extractor up against an ore block and it will consume energy to extract resources automatically. You can open the ore extractor control panel by pressing the &#39;Interact&#39; key (default &#39;E&#39;). This allows you to add energy to the machine from your suit, collect ore from its internal storage, and upgrade the machine. The starting extractors are significantly more resource efficient than super digging and can be left unattended.</Text>
+					<Text>Pour automatiser la collecte du minerai, utilisez un Extracteur de Minerai. Vous pouvez placer l&apos;extracteur contre un bloc de minerai et il utilisera de l&apos;énergie pour extraire les ressources automatiquement. Vous pouvez ouvrir le panneau de configuration de l’extracteur de minerai en appuyant sur la touche &#39;Interaction&#39; (par défaut, &#39;E&#39;). Cela vous permet d&apos;ajouter de l&apos;énergie à la machine à partir de votre combinaison, de collecter le minerai de son stockage interne et de mettre à niveau la machine. Les extracteurs de départ sont nettement plus efficaces en ressources que le Super-Minage de l&apos;outil et peuvent être laissés sans surveillance.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -23,53 +23,53 @@
 		<Page>
 			<Paragraphs>
 				<Paragraph>
-					<Text>The extractor has an internal storage capacity of 500 energy which is a little over two full suit&#39;s worth of energy so you will need to make multiple trips to fill it up. If its internal storage fills up the extractor will cease mining until it has been emptied. You can place a storage hopper next to the extractor to provide more storage space and also return the ore to you base using conveyors.</Text>
+					<Text>L’extracteur a une capacité de stockage interne de 500 points d’énergie, ce qui représente un peu plus de deux fois l’énergie stocké dans la combinaison. Vous devrez donc effectuer plusieurs voyages pour le remplir. Si son stockage interne est plein, l&apos;extracteur cessera d&apos;exploiter jusqu&apos;à ce qu&apos;il soit vidé. Vous pouvez placer une trémie de stockage à côté de l&apos;extracteur pour fournir plus d&apos;espace de stockage et également renvoyer le minerai à votre base à l&apos;aide de convoyeurs.</Text>
 				</Paragraph>
 				
 
 				<Paragraph>
-					<Text>The Ore Extractor speed in ore per minute and efficiency are displayed in the control panel shown when interacting with the machine. At 10% efficiency 9 mineable ore is destroyed for each unit collected.</Text>
+					<Text>La vitesse d&apos;extraction du minerai exprimée en minerai par minute et son efficacité s&apos;affichent dans le panneau de configuration affiché lors de l&apos;interaction avec la machine. À 10% d&apos;efficacité, 9 minerais exploitables sont détruits pour chaque unité collectée.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Upgrading Extractors</Text>
+					<Text>Amélioration des Extracteurs</Text>
 				</Header>
 				<Paragraph>
-					<Text>The base Ore Extractor is a useful piece of machinery, but is far from its maximum power. The extractor can be upgraded with two parts: New motors and new cutter heads. With the control panel open click the appropriate upgrade slot and the best upgrade from your inventory will be inserted. You can also drag the upgrades from or to your inventory.</Text>
+					<Text>L&apos;extracteur de minerai de base est une pièce de machine utile, mais est loin de sa puissance maximale. L&apos;extracteur peut être amélioré en deux parties: nouveaux moteurs et nouvelles têtes de coupe. Avec le panneau de commande ouvert, cliquez sur l&apos;emplacement de mise à niveau approprié et la meilleure Amélioration de votre inventaire sera insérée. Vous pouvez également faire glisser les Améliorations de votre inventaire.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Motor</Text>
+					<Text>Moteur</Text>
 				</Header>
 				<Paragraph>
-					<Text>A new motor increases the speed at which the excavator drill head mines, which means you will receive more ore per minute. The increased speed comes at higher power cost so ensure your power supply is sufficient before upgrading.</Text>
+					<Text>Un nouveau moteur augmente la vitesse d&apos;extraction de la tête de forage, ce qui signifie que vous recevrez plus de minerai par minute. La vitesse accrue entraîne un coût énergétique plus élevé. Assurez-vous donc que votre alimentation est suffisante avant de procéder à la mise à niveau.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 			<Page>
 			<Paragraphs>				
 				<Header>
-					<Text>Cutter Head</Text>
+					<Text>Tête de Coupe</Text>
 				</Header>
 				<Paragraph>
-					<Text>Upgrading the cutter head increases the efficiency at which the excavator extracts ores. This means that it will be able to retrieve more ore from a vein over its lifetime. Besides the efficiency upgrade, the new cutter head will also allow the excavator to dig harder materials, which the base cutter head may not be able to cut into at all.</Text>
+					<Text>L&apos;amélioration de la tête de coupe augmente l&apos;efficacité avec laquelle l&apos;excavatrice extrait les minerais. Cela signifie qu&apos;il sera capable de récupérer plus de minerai d&apos;une veine au cours de sa vie. Outre l&apos;amélioration de l&apos;efficacité, la nouvelle tête de coupe permettra également à l&apos;excavatrice de creuser des matériaux plus durs, que la tête de coupe de base pourrait ne pas être capable de couper du tout.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Paragraph>
-					<Text>Cutter heads will wear out over time, their remaining durability is shown in the ore extractor control panel.</Text>
+					<Text>Les têtes de coupe s&apos;useront avec le temps, leur durabilité restante est indiquée dans le panneau de configuration de l&apos;extracteur de minerai.</Text>
 				</Paragraph>
 				
-				<Header><Text>HoloBase readout</Text></Header>
+				<Header><Text>Lecture HoloBase</Text></Header>
 				<TwoColumnParagraph>
-					<Left>Yellow:
-					Red/Blue Flash:
-					Red/Cyan Flash:
-					Red/Black Flash:
-					Red/Green Flash:</Left>
-					<Right>Working
-					Out of Power
-					Out of Storage
-					Idle
-					Drill Stuck</Right>
+					<Left>Jaune:
+					Flash Rouge/Bleu:
+					Flash Rouge/Cyan:
+					Flash Rouge/Noir:
+					Flash Rouge/Vert</Left>
+					<Right>En Travail
+					Déchargée
+					Plus de Stockage
+					Au Repos
+					Foreuse Bloquée</Right>
 				</TwoColumnParagraph>
 				
 			</Paragraphs>

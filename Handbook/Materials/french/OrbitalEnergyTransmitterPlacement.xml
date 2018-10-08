@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Orbital Energy Transmitter Component</Text>
+					<Text>Composant Transmetteur D&apos;Énergie Orbital</Text>
 				</Title>
 				<Icon>
 					<Name>Orbital Energy Transmitter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The culmination of our work on this planet. The Orbital Energy Transmitter (OET) will be able send enough energy into the Low-Orbit Ion Cannon (LOIC). This accumulated energy can then be redirected down onto the surface in a non-nuclear but massively destructive way, capable of vapourising anything for a huge distance around it. We must protect our base while we power the OET, for if our Central Power Hub is badly damaged the OET will quickly discharge.</Text>
+					<Text>L&apos;aboutissement de notre travail sur cette planète. Le transmetteur d’énergie orbitale (TEO) sera en mesure d’envoyer suffisamment d’énergie dans le canon à ions à orbite basse (CIOB). Cette énergie accumulée peut ensuite être redirigée vers la surface de manière non nucléaire mais massivement destructive, capable de vaporiser n&apos;importe quoi sur une distance considérable. Nous devons protéger notre base pendant que nous alimentons le TEO, car si notre HAC est gravement endommagé, le TEO se déchargera rapidement.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Construction</Text>
 </Header>
 				<Spacer/>
 				<Paragraph>
-					<Text>The Orbital Energy Transmitter is a massive construction requiring 1053 components in total. It must be built 13m tall on a 9m by 9m base with a clear view of the sky.</Text>
+					<Text>Le Transmetteur D&apos;Énergie Orbital est une construction massive nécessitant au total 1053 composants. Il doit être construit à une hauteur de 13 m sur une base de 9 m sur 9 m avec une vue dégagée sur le ciel.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

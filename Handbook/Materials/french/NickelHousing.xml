@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Housing</Text>
+					<Text>Boîtier en Nickel</Text>
 				</Title>
 				<Icon>
 					<Name>Nickel Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple nickel housing created from nickel plates.</Text>
+					<Text>Un boîtier en nickel simple créé à partir de plaques de nickel.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

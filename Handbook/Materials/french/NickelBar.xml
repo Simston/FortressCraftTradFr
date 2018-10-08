@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Bar</Text>
+					<Text>Lingot de Nickel</Text>
 				</Title>
 				<Icon>
 					<Name>Nickel Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Nickel Bars are generally used in advanced machines. They are crafted from Nickel Ore, which can be found at least 400m below the surface.</Text>
+					<Text>Les Lingots de Nickel sont généralement utilisées dans les machines avancées. Ils sont fabriqués à partir de minerai de nickel, qui peut être trouvé au moins 400m sous la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

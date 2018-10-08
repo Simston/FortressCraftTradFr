@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Nickel Coil</Text>
+					<Text>Bobine de Nickel</Text>
 				</Title>
 				<Icon>
 					<Name>Nickel Coil</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple nickel coil created from nickel wires in a Coiler Plant.</Text>
+					<Text>Une simple bobine de nickel créée à partir de fils de nickel dans une usine de bobine.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
