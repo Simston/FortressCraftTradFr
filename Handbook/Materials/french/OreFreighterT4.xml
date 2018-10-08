@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Bulk Ore Freighter</Text>
+					<Text>Fret de Minerai Massive</Text>
 				</Title>
 				<Icon>
 					<Name>Bulk Minecart</Name>
@@ -27,14 +27,14 @@
 				</TwoColumnParagraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Ore freighters are high capacity freight carts.  Unlike their conventional variants they can only carry one item type at a time and it must be a type of harvestable ore.</Text>>
+					<Text>Les Frets de Minerai sont des chariots de transport de grande capacité. Contrairement à leurs variantes conventionnelles(Minecart), ils ne peuvent transporter qu&apos;un seul type d&apos;élément à la fois et il doit s&apos;agir d&apos;un type de minerai exploitable.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Freight Cart Depot</Material>
 					</Target>
-					<Text>Freight Cart Depot</Text>
+					<Text>Dépôt Chariot de Fret</Text>
 				</Link>
 			</Paragraphs>
 		</Page>				

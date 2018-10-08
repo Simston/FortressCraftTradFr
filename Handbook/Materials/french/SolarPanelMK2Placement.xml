@@ -21,12 +21,12 @@
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Peak Power (rush):
-					Peak Power (plentiful):
-					Peak Power (scarce):
+					<Left>Pic Enérgie (rush):
+					Pic Maximale (abondante):
+					Pic Enérgie (rare):
 					Capacité Energie:
 					Max. Taux Transfert Energie:
-					Burn Time:
+					Temps de Combustion:
 					Carburant:</Left>
 					<Right>567 par seconde
 					405 par seconde

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Particle Filter</Text>
+					<Text>Filtre à Particules</Text>
 				</Title>
 				<Icon>
 					<Name>Particle Filter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Particle Filter is an advanced version of the suit’s Particulate filtration system, using the primitive technology previously used to facilitate survival in the toxic caverns we are now able to stripe specific partials from the particulate dense air found in the various caverns. The Particle Filter is built in a 5x3x5 formation.</Text>
+					<Text>Le Filtre à Particules est une version avancée du système de filtration des particules de la combinaison, qui utilise la technologie primitive précédemment utilisée pour faciliter la survie dans les cavernes toxiques. Nous sommes maintenant en mesure de retirer des particules spécifiques de l’air dense contenu dans les différentes cavernes. Le filtre à particules est construit dans un 5x3x5.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
@@ -32,25 +32,25 @@
 					<Target>
 						<Chapter>T4_Particles</Chapter>
 					</Target>
-					<Text>Particulate Filtration System</Text>
+					<Text>Système de Filtration de Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Compressor</Material>
 					</Target>
-					<Text>Particle Compressor</Text>
+					<Text>Compresseur de Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Storage</Material>
 					</Target>
-					<Text>Particle Storage</Text>
+					<Text>Stockage de Paricules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Gas Bottler</Material>
 					</Target>
-					<Text>Gas Bottler</Text>
+					<Text>Bouteille de Gaz</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

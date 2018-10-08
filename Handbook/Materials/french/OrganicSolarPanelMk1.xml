@@ -4,28 +4,28 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Organic Solar Panel</Text>
+					<Text>Panneau Solaire Organique</Text>
 				</Title>
 				<Icon>
 					<Name>Organic Solar Panel</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Organic Solar Panels are a low maintenance source of renewable power. They must be placed with direct access to the sky above them and will generate power during the day and at a reduced rate during the night. They will distribute this power to any adjacent machine, Power Storage Block or Laser Power Transmitter.</Text>
+					<Text>Les Panneaux Solaires Organiques sont une source d&apos;énergie renouvelable nécessitant peu d&apos;entretien. Ils doivent être placés avec un accès direct au ciel, et générer de l’énergie pendant la journée et à un taux réduit pendant la nuit. Ils distribueront cette énergie à toute machine adjacente, BSE ou LTE.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Organic Solar Panels have decent internal power capacity but should still be backed up by a suitable number of Power Storage Blocks to ensure a reliable supply of power at all times.</Text>
+					<Text>Les Panneaux Solaires Organiques ont une capacité d’alimentation interne décente, mais doivent toujours être soutenus par un nombre approprié de blocs de stockage de puissance afin de garantir une alimentation fiable en permanence.</Text>
 				</Paragraph>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Peak Power (rush):
-					Peak Power (plentiful):
-					Peak Power (scarce):
+					<Left>Pic Enérgie (rush):
+					Pic Maximale (abondante):
+					Pic Enérgie (rare):
 					Capacité Energie:
 					Max. Taux Transfert Energie:
-					Burn Time:
+					Temps de Combustion:
 					Carburant:</Left>
 					<Right>63 par seconde
 					45 par seconde

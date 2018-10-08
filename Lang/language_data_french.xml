@@ -1053,7 +1053,7 @@
   <string name="Coiler Plant_DESC">Enroule les Câbles en Bobines</string>
   <string name="Pipe Extrusion Plant">Extrudeuses de Tuyau</string>
   <string name="Pipe Extrusion Plant_DESC">Transforme les Lingots en Tuyaux</string>
-  <string name="PCB Assembling Plant">Assemblage PCB</string>
+  <string name="PCB Assembling Plant">Usine d&apos;Assemblage PCB</string>
   <string name="PCB Assembling Plant_DESC">Transforme les Bobines en PCBs</string>
   <string name="Conveyor Turntable">Convoyeur Plateau Tournant</string>
   <string name="Conveyor Turntable_DESC">Distribue automatiquement les Objets</string>

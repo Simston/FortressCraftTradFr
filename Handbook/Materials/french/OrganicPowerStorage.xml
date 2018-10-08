@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Organic Power Storage Block</Text>
+					<Text>Bloc de Stockage d’Énergie Organique</Text>
 				</Title>
 				<Icon>
 					<Name>Organic Power Storage</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Organic Power Storage block Ban hold up to 12500 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks.</Text>
+					<Text>Le Bloc de Stockage d’Énergie Organique peut contenir jusqu&apos;à 12500 d&apos;énergie. Il faudra l&apos;énergie d&apos;un générateur connecté et le fournira à toutes les machines ou transmetteurs d&apos;énergie connectés. Plusieurs blocs de stockage d&apos;énergie partageront l&apos;énergie entre eux, mais cela n&apos;est pas efficace pour la transmission d&apos;énergie sur plus de quelques blocs.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Energy can be extracted from the power storage block by pressing the &#39;Extract&#39; key (default &#39;Q&#39;), and inserted using the &#34;Interact&#34; key (default &#39;E&#39;).</Text>
+					<Text>L&apos;énergie peut être extraite du bloc de stockage d&apos;énergie en appuyant sur la touche &#39;Extraire&#39; (&#39;A&#39; par défaut) et insérée à l&apos;aide de la touche "Interact" (par défaut &#39;E&#39;).</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The Organic PSB has the densest available energy storage, but has limited transfer speed.</Text>
+					<Text>Le BSE Organique possède le stockage d&apos;énergie disponible le plus élevé, mais sa vitesse de transfert est limitée.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

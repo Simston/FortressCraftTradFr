@@ -4,23 +4,23 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>PCB Assembling Plant</Text>
+					<Text>Usine d&apos;Assemblage PCB</Text>
 				</Title>
 				<Icon>
 					<Name>PCB Assembling Plant</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The PCB Assembling Plant is a regular conveyor fitted with a machine for manufacturing printed circuit boards from Coils of wire, and behaves like a Conveyor in all circumstances.</Text>
+					<Text>L&apos;Usine d&apos;Assemblage PCB est un Convoyeur standard équipé d&apos;une machine pour la fabrication de cartes de circuit imprimé à partir de bobines de fil et se comporte comme un convoyeur classique.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Usage</Text>
+					<Text>Utilisation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Feed coils into the PCB Assembling Plant, ideally directly from aa Coiler Plant. The PCB Assembling Plant will convert the coils into PCBs which can be used in additional recipies.</Text>
+					<Text>Alimentez les bobines dans l’Usine d&apos;Assemblage PCB, idéalement directement à partir d’une Usine de Bobine. L&apos;Usine d&apos;Assemblage PCB convertira les bobines en PCB pouvant être utilisés dans des recettes supplémentaires.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>The PCB Assembling Plant is essential for the automation of Laboratory Research.</Text>
+					<Text>L&apos;Usine d&apos;Assemblage PCB est essentiel pour l&apos;automatisation de la Recherche en Laboratoire.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

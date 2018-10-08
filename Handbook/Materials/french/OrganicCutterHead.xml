@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Organic Cutter Head</Text>
+					<Text>Tête de Coupe Organique</Text>
 				</Title>
 				<Icon>
 					<Name>Organic Cutter Head</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Reduces wasted ore by improving the efficiency of our ore extraction process. Also allows the mining of harder materials. Cutter heads wear out over time.</Text>
+					<Text>Réduit le gaspillage de minerai en améliorant l&apos;efficacité de notre processus d&apos;extraction de minerai. Permet également l&apos;extraction de matériaux plus durs. Les têtes de coupe s&apos;usent avec le temps.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The Organic Cutter Head is made from the stinger of a local life form, it is far more efficient than the Steel Cutter Head but wears out more quickly.</Text>
+					<Text>La Tête de Coupe Organique est fabriquée à partir d’une forme de vie locale; elle est bien plus efficace que la tête de coupe en acier mais s’use plus rapidement.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

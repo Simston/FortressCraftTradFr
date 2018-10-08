@@ -11,10 +11,10 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses a large amount of power to increase the rate at which Crystal Clocks tick.</Text>
+					<Text>Utilise une grande quantité d&apos;énergie pour augmenter le taux de ticks des Cristaux Overclokés.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 1 Crystal Clock to start the overclocking process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins une Horloge en Cristal pour démarrer le processus d’overclocking.</Text>
 				</Paragraph>
         <Spacer/>
         <Header>

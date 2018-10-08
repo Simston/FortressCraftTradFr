@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Particle Storage</Text>
+					<Text>Stockage de Particules</Text>
 				</Title>
 				<Icon>
 					<Name>Particle Storage</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Particle Storage is used to store the output of a maximum of 4 Particle Compressors. This multi-block facilitates the storage of the collected and compressed particles before bottling. The Particle Storage is built in a 3x7x3 formation.</Text>
+					<Text>Le Stockage de Particules est utilisé pour stocker la sortie d&apos;un maximum de 4 Compresseurs de Particules. Ce multi-bloc facilite le stockage des particules collectées et comprimées avant la mise en bouteille. Le stockage de particules est construit dans un 3x7x3.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>
@@ -19,7 +19,7 @@
 				<Spacer/>
 				<TwoColumnParagraph>
 					<Left>
-					Capacity:
+					Capacité:
 					</Left>
 					<Right>
 					4800
@@ -30,25 +30,25 @@
 					<Target>
 						<Chapter>T4_Particles</Chapter>
 					</Target>
-					<Text>Particulate Filtration System</Text>
+					<Text>Système de Filtration de Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Filter</Material>
 					</Target>
-					<Text>Particle Filter</Text>
+					<Text>Filtre à Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Particle Compressor</Material>
 					</Target>
-					<Text>Particle Compressor</Text>
+					<Text>Compresseur de Particules</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Gas Bottler</Material>
 					</Target>
-					<Text>Gas Bottler</Text>
+					<Text>Bouteille de Gaz</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
