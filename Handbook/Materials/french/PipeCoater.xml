@@ -1,29 +1,29 @@
 <MaterialEntry>
-	<Key>PipeCoater</Key>
+	<Key>PipeCoate</Key>
 	<Pages>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Pipe Coater</Text>
+					<Text>Usine à Tuyaux</Text>
 				</Title>
 				<Icon>
 					<Name>Pipe Coater</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Using advanced bonding techniques, the high heat and pressure resistance of Crystal Fiber Mesh can now be applied to Copper Pipes using plastic pellets due to their unique molecular structure acting as a bonding agent. The bonding process takes 300 power at a rate of 50 pps to ensure an even coating.</Text>
+					<Text>En utilisant des techniques de collage avancées, la haute résistance à la chaleur et à la pression des Treillis en Fibres de Cristal peuvent désormais être appliquée aux tubes en cuivre à l’aide de Granulles de Plastique grâce à leur structure moléculaire unique jouant le rôle d’agent de collage. Le processus de collage nécessite une puissance de 300 à 50 eps pour assurer un revêtement uniforme.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Heat Conducting Pipe</Material>
 					</Target>
-					<Text>Heat Conducting Pipe</Text>
+					<Text>Tuyau Conducteur de Chaleur</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Geothermal Generator comp.</Material>
 					</Target>
-					<Text>Geothermal Generator comp.</Text>
+					<Text>Composant Générateur Géothermique</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

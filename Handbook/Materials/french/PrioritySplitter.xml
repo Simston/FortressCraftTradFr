@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Priority Splitter</Text>
+					<Text>Séparateur de Priorité</Text>
 				</Title>
 				<Icon>
 					<Name>Priority Splitter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Sends all incoming items Right, unless blocked, then Left.</Text>
+					<Text>Envoie tous les éléments entrants Droite, sauf si bloqué, puis à Gauche.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

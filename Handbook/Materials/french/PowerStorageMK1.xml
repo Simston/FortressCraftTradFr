@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Power Storage Block</Text>
+					<Text>Bloc de Stockage d’Énergie</Text>
 				</Title>
 				<Icon>
 					<Name>PowerStorageBlock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The power storage block can hold a reserve of up to 200 energy. It will take energy from an attached generator and provide it to any attached machines or power transmitters. Multiple power storage blocks will share energy between themselves however this is not efficient for transmission of energy across more than a few blocks, laser power transmitters should be used instead for this purpose.</Text>
+					<Text>Le Bloc de Stockage d’Énergie peut contenir une réserve allant jusqu'à 200 d'énergie. Il faudra l'énergie d'un générateur connecté et transmettra l'énergie à toutes les machines ou transmetteurs de d'énergie connectés. Plusieurs Blocs de Stockage d’Énergie partageront l'énergie entre eux, mais ceci n'est pas efficace pour la transmission d'énergie sur plus de quelques blocs. Les Laser Transmetteur d&apos;Énergie doivent plutôt être utilisés à cette fin.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Energy can be extracted from the power storage block by pressing the &#39;Extract&#39; key (default &#39;Q&#39;), and inserted using the &#34;Interact&#34; key (default &#39;E&#39;).</Text>
+					<Text>L'énergie peut être extraite du Bloc de Stockage d’Énergie en appuyant sur la touche &#39;Extraire&#39; (&#39;Q&#39; par défaut) et distribuée via la touche &#39;Interact&#39; (par défaut &#39;E&#39;).</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>

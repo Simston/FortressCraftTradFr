@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Refinery Reactor Vat</Text>
+					<Text>Cuve de Réacteur de Raffinerie</Text>
 				</Title>
 				<Icon>
 					<Name>Metal Siding 1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The refinery allows you to recombine carbohydrates found on the alien planet into useful materials. To operate, it requires two parts: The Refinery Controller and a Refinery Reactor Vat. </Text>
+					<Text>La Raffinerie vous permet de recombiner les hydrates de carbone trouvés sur la planète extraterrestre en matériaux utiles. Pour fonctionner, il nécessite deux parties: le Contrôleur de Raffinerie et une Cuve de Réacteur de Raffinerie. </Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Refinery Controller</Material>
 					</Target>
-					<Text>Refinery Controller</Text>
+					<Text>Contrôleur de Raffinerie</Text>
 				</Link>
 				<Paragraph>
-					<Text>A refinery reactor vat is a large structure built from Reactor Vat Component blocks. When placed in a solid 3 by 3 by 3 configuration, the vat will display as a large machine.
+					<Text>Une Cuve de Réacteur de Raffinerie est une grande structure construite à partir de blocs de Composants de Cuve de Réacteur. Lorsqu'il est placé dans une configuration solide de 3x3x3, la cuve s'affiche en tant que grande machine.
 
-The reactor vat contains the chemical processes required to recombine carbohydrates. In order to function, it must be connected to a controller. It is possible to stack vats on top of each one connected to controller, in order to allow the controller to operate on multiple vats at the same time. This will give you a linear increase in production and power cost, as well as storage of output product: Each vat can store 10 completed products before it will run out of room to process more. The bonus in using more vats on one controller is to avoid having to make multiple expensive refinery controllers.</Text>
+La Cuve de Réacteur contient les processus chimiques nécessaires à la recombinaison des hydrates de carbone. Pour fonctionner, il doit être connecté à un contrôleur. Il est possible d'empiler des Cuves au-dessus de chacunes connectés au contrôleur, afin de permettre au contrôleur de fonctionner sur plusieurs Cuves en même temps. Vous obtiendrez ainsi une augmentation linéaire des coûts de production et d’énergie, ainsi que le stockage des produits finis: chaque cuve peut stocker 10 produits finis avant de manquer de place pour en traiter davantage. L'avantage d'utiliser plus de Cuves sur un Contrôleur est d'éviter de devoir fabriquer plusieurs contrôleurs de raffinerie coûteux.</Text>
 
 
 				</Paragraph>
@@ -32,7 +32,7 @@ The reactor vat contains the chemical processes required to recombine carbohydra
 		<Page>
 			<Paragraphs>
 			<Paragraph>
-			<Text>Each vat contains many electrical conduits as well as many transport pipes. Because of this, any power supplied to the vats will also be delivered to the connected controller. Maximum power storage of the refinery depends on the amount of vats connected.</Text>
+			<Text>Chaque cuve contient de nombreux conduits électriques ainsi que de nombreux tuyaux de transport. De ce fait, toute l’alimentation fournie aux cuves sera également transmise au contrôleur connecté. La capacité de stockage maximale de la raffinerie dépend de la quantité de cuves connectées.</Text>
 			</Paragraph>
 			</Paragraphs>
 		</Page>

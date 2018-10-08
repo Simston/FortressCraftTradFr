@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>ARTHER Power Booster MK1</Text>
+					<Text>ARTHER Amplificateur d'Énergie MK1</Text>
 				</Title>
 				<Icon>
 					<Name>MK1 Power Booster</Name>
@@ -12,7 +12,7 @@
 				</Icon>
 				<Spacer/>
 				<Paragraph>
-					<Text>Usage of this item will immediately restore power to ARTHER. Plan ahead and you can extend your trips underground and boost machines. These are auto-crafted by Power Booster Chargers.</Text>
+					<Text>L'utilisation de cet élément rétablira immédiatement l'énergie d'ARTHER. Planifiez à l'avance et prolongez vos trajets souterrains et améliorez vos machines. Ceux-ci sont auto-conçus par Chargeurs d'Amplificateur d'Énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -28,13 +28,13 @@
 					<Target>
 						<Material>PowerBoosterMK2</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK2</Text>
+					<Text>ARTHER Amplificateur d'Énergie MK2</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>MK1PowerBoosterCharger</Material>
 					</Target>
-					<Text>Crafted by MK1 Power Booster Charger</Text>
+					<Text>Fabriqué par Chargeur d'Amplificateur d&apos;Énergie MK1</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

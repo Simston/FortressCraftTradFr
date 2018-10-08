@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Primary PCB</Text>
+					<Text>PCB Primaire</Text>
 				</Title>
 				<Icon>
 					<Name>Primary PCB</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A tin based PCB created from tin coils in a PCB Assembling Plant.</Text>
+					<Text>Un PCB à base d'étain créé à partir de bobines d'étain dans une usine d'assemblage de PCB.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

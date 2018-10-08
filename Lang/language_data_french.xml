@@ -1113,7 +1113,7 @@
   <string name="Assembly Station_DESC">Module pour usine de fabrication.&#xD;&#xA;Débloque les recettes de la Station d&apos;Assemblage quand connecté à une usine de fabrication.</string>
   <string name="Refinery Controller">Contrôleur de Raffinerie</string>
   <string name="Refinery Controller_DESC">Contrôle le processus de création qui permet de recombiner les glucides en d&apos;autres formes.</string>
-  <string name="Refinery Reactor Vat">Réacteur de Raffinerie VAT</string>
+  <string name="Refinery Reactor Vat">Cuve de Réacteur de Raffinerie</string>
   <string name="Refinery Reactor Vat_DESC">Le joueur ne devrait jamais pouvoir lire ceci...</string>
   <string name="Jet Turbine Generator">Générateur Jet Turbine</string>
   <string name="Jet Turbine Generator_DESC">Le joueur ne devrait jamais pouvoir lire ceci...</string>
@@ -1333,7 +1333,7 @@
   <string name="SpiderBot Core Charger_DESC">Imprègne les Bobines de Lithium avec de l&apos;énergie. Alimente le SpiderBot via le quai de rechargement avec une Trémie de Stockage.</string>
   <string name="Liquid Resin Refiner">Raffinerie de Résine Liquide</string>
   <string name="Liquid Resin Refiner_DESC" />
-  <string name="Rack Railer">Usine Rails Ascenseur</string>
+  <string name="Rack Railer">Usine de Rails Ascenseur</string>
   <string name="Rack Railer_DESC">Fabrique et pose des Rails pour les ascenseurs de marchandises</string>
   <string name="MK1 PowerCore Charger">Chargeur de Cœur MK1</string>
   <string name="MK1 PowerCore Charger_DESC">Fabrique automatiquement un booster d&apos;énergie à usage unique. Cela donne à ARTHER 100 d&apos;énergie. Placer l&apos;objet dans la barre de raccourcis pour l&apos;utiliser.</string>
@@ -1403,7 +1403,7 @@
   <string name="Casting Pipe (Straight)_DESC">Permet le passage du métal fondu du haut fourneau au bassin de coulée continue</string>
   <string name="Casting Pipe (Bend)">Tuyau de Fonderie (Courbé)</string>
   <string name="Casting Pipe (Bend)_DESC">Permet le passage du métal fondu du haut fourneau au bassin de coulée continue</string>
-  <string name="Refinery Reactor Vat Component">Composant Vat du Réacteur de Raffinerie</string>
+  <string name="Refinery Reactor Vat Component">Composant Cuve du Réacteur de Raffinerie</string>
   <string name="Refinery Reactor Vat Component_DESC">Contient des réactions biochimiques sous haute pression. Placer dans un cube 3x3x3 pour former un réacteur. Joignez un contrôleur de raffinerie pour fonctionner.</string>
   <string name="Jet Turbine Generator Housing">Logement de Générateur de Jet Turbine</string>
   <string name="Jet Turbine Generator Housing_DESC">Brûle du Fuel HEC pour faire tourner une turbine générant beaucoup d&apos;énergie. Construire une forme au sol de 4 par 3 et de 3 de haut. mettez une admission pour former l&apos;avant de la machine.</string>
@@ -1910,7 +1910,7 @@
   <string name="Hiemal Block Assembler_CRAFT_DESC">Composant commun pour les machines avancées.</string>
   <string name="Hiemal Block Assembler_CRAFT_HINT">Utilisé pour les plus haut niveau de machines T4.</string>
   <string name="Refinery Controller_CRAFT_DESC">Transformez la biomasse en produits utiles. Voir le manuel pour plus d&apos;informations.</string>
-  <string name="Refinery Controller_CRAFT_HINT">Doit être connecté à une cuve de Réacteur de Raffinerie pour fonctionner.</string>
+  <string name="Refinery Controller_CRAFT_HINT">Doit être connecté à une Cuve de Réacteur de Raffinerie pour fonctionner.</string>
   <string name="Refinery Reactor Vat Component_CRAFT_DESC">Composant de la Cuve du Réacteur de Raffinage. Doit être construit dans une configuration 3x3x3 (27 au total). Nécessite un Contrôleur de Raffinerie adjacent.</string>
   <string name="Refinery Reactor Vat Component_CRAFT_HINT">Placez dans une configuration 3 par 3 par 3 pour former une Cuve de Réacteur valide.</string>
   <string name="Jet Turbine Generator Housing_CRAFT_DESC">Composant de boîtier pour un Générateur Jet Turbine. Brûle le carburant HEC pour entraîner une turbine générant beaucoup de puissance. Construire 3 de haut avec une base 4x3.</string>

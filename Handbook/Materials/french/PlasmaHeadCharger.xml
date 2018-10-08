@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Plasma Head Charger</Text>
+					<Text>Chargeur de Tête Plasma</Text>
 				</Title>
 				<Icon>
 					<Name>Compressor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This charger uses a large amount of power to greatly enhance the mining rate of a steel drill head along with maximizing its efficiency.</Text>
+					<Text>Ce chargeur utilise une grande quantité d’énergie pour améliorer considérablement le taux d’extraction d’une Tête de Coupe en Acier tout en maximisant son efficacité.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 1 Steel Drill Head to start the charging process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins 1 Tête de Coupe en Acier pour démarrer le processus de chargement.</Text>
 				</Paragraph>
 
 				<Header>

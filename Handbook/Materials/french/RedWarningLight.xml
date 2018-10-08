@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Red Warning Light</Text>
+					<Text>Lampe Urgence Rouge</Text>
 				</Title>
 				<Icon>
 					<Name>Red Warning Light</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Attach to a machine to monitor it.</Text>
+					<Text>Attacher à une machine pour la monitorer.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

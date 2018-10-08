@@ -4,23 +4,23 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Pipe Extrusion Plant</Text>
+					<Text>Extrudeuses de Tuyau</Text>
 				</Title>
 				<Icon>
 					<Name>Pipe Extrusion Plant</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Pipe Extrusion Plant is a regular conveyor fitted with a machine for converting metal bars into pipes.</Text>
+					<Text>L’usine d’extrusion de tuyaux est un Convoyeur standard équipé d’une machine permettant de convertir des Lingots métalliques en Tuyaux.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Usage</Text>
 				</Header>
 				<Paragraph>
-					<Text>Feed bars into the Pipe Extrusion Plant from another conveyor, conveyor based machine, or conveyor turntable. The Pipe Extrusion Plant will convert the bars into pipes which can be used in additional recipies.</Text>
+					<Text>Introduisez des Lingots dans l’usine d’extrusion de tuyaux à partir d’un autre convoyeur, d’une machine à convoyeur ou d’un Plateau Tournant. L’Extrudeuses de Tuyau convertira les Lingots en Tuyaux pouvant être utilisés dans des différentes recettes.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>The Pipe Extrusion Plant is essential for the automation of missile production.</Text>
+					<Text>L'Extrudeuses de Tuyau est essentiel pour l'automatisation de la production de missiles.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

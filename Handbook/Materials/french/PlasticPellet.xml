@@ -4,20 +4,20 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Plastic Pellet</Text>
+					<Text>Granule de Plastique</Text>
 				</Title>
 				<Icon>
 					<Name>Plastic Pellet</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Plastics can be manufactured in a Refinery Reactor Vat from Biomass. They are used in the construction of jet turbines.</Text>
+					<Text>Le Plastique peut être fabriqué dans une cuve de Réacteur de Raffinerie VAT à partir de Biomasse. Ils sont utilisés dans la construction de Jet Turbines.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Refinery Controller</Material>
 					</Target>
-					<Text>Refinery Controller</Text>
+					<Text>Contrôleur de Raffinerie</Text>
 				</Link>
 				
 			</Paragraphs>

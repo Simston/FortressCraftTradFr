@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Pyrothermic Generator</Text>
+					<Text>Générateur Pyrothermique</Text>
 				</Title>
 				<Icon>
 					<Name>Pyrothermic Generator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Pyrothermic Generator is the earliest method of generating power once you outgrow the capabilities of the Central Power Hub. It will look for an attached storage hopper containing combustible material and burn it to generate power. The unit itself is capable of storing up to 1000 power which it will distribute to any machine or Power Storage Block attached to it.</Text>
+					<Text>Le Générateur Pyrothermique est la méthode la plus récente pour générer de l'énergie une fois que vous avez dépassé les capacités du HAC. Il recherchera une Trémie de Stockage adjacente contenant des matériaux combustibles et les brûleras pour générer de l'énergie. L'unité est capable de stocker jusqu'à 1 000 d'énergie qu'elle distribuera à n'importe quelle machine ou bloc de stockage d'énergie connecté.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Pyrothermic Generators require a large amount of oxygen to operate, the lack of ventilation underground will quickly decrease the efficiency of the generator with depth. You should consider using Laser Power Transmitters to transfer power from the surface down to your deeper mining operations. </Text>
+					<Text>Les Générateurs Pyrothermiques nécessitent une grande quantité d’oxygène pour fonctionner, le manque de ventilation dans les cavernes diminuera rapidement l’efficacité du Générateur en profondeur. Vous devriez envisager d’utiliser des Lasers Transmetteur d&apos;Energie pour transférer l’énergie de la surface vers vos opérations minières plus profondes. </Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -25,20 +25,20 @@
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Power (rush):
-					Power (plentiful):
-					Power (scarce):
+					<Left>Energie (rush):
+					Energie (abondante):
+					Energie (rare):
 					Capacité Energie:
 					Max. Taux Transfert Energie:
 					Temps de Combustion:
 					Carburant:</Left>
-					<Right>21.3 par seconde (coal)
-					11 par seconde (coal)
-					4.3 par seconde (coal)
+					<Right>21.3 par seconde (charbon)
+					11 par seconde (charbon)
+					4.3 par seconde (charbon)
 					1000
 					128 par seconde
 					30 secondes
-					Wood, Coal.</Right>
+					Bois, Charbon.</Right>
 				</TwoColumnParagraph>
 				
 			</Paragraphs>

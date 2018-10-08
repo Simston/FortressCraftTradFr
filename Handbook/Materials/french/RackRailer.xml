@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Rack Railer</Text>
+					<Text>Usine de Rails Ascenseur</Text>
 				</Title>
 				<Spacer/>
 				<Icon>
@@ -12,14 +12,14 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Rack Railer is a machine capable of molding a pair of Iron Gears into a usable rail for the cargo lift system.</Text>
+					<Text>L'Usine de Rails Ascenseur est une machine capable de mouler une paire Mécanismes de Fer en un Rail utilisable pour le système de levage de cargaison.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Rack Rail</Material>
 					</Target>
-					<Text>Rack Rail</Text>
+					<Text>Rail Ascenseur</Text>
 				</Link>
 				<Spacer/>
 				<Header>
@@ -38,13 +38,13 @@
 				<Spacer/>
 				<Spacer/>
 				<Paragraph>
-					<Text>Refer to Cargo Lift Controller for more information.</Text>
+					<Text>Reportez-vous au Contrôleur Ascenseur de Cargaison pour plus d'informations.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target><Material>Cargo Lift Controller</Material>
 </Target>
-					<Text>Cargo Lift Controller</Text>
+					<Text>Contrôleur Ascenseur de Cargaison</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Liquified Resin</Text>
+					<Text>Résine Liquéfiée</Text>
 				</Title>
 				<Icon>
 					<Name>Hardened Resin</Name>
@@ -23,7 +23,7 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Hardened Resin can be converted and refined using a number of different machines to end up with this final material.</Text>
+					<Text>La Résine Durcie peut être convertie et raffinée à l'aide d'un certain nombre de machines différentes pour aboutir à ce matériau final.</Text>
 				</Paragraph>
 				
 			</Paragraphs>
@@ -32,30 +32,30 @@
 		<Page>
 			<Paragraphs>
 			<Title>
-				<Text>Hardened Resin Refining</Text>
+				<Text>Raffinage de la Résine Durcie</Text>
 				</Title>
 				<Spacer/>
 				<Paragraph>
-					<Text>Use these machines, placed near an active or dead hive mind, to extract and refine this material.</Text>
+					<Text>Utilisez ces machines, placées près d'un Hive Mind (Ruche) actif ou mort, pour extraire et raffiner ce matériau.</Text>
 				</Paragraph>
 		
 				<Link>
 					<Target>
 						<Material>Laser Resin Liquifier</Material>
 					</Target>
-					<Text>Laser Resin Liquifier</Text>
+					<Text>Laser Liquéfacteur de Résine</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Laser Resin Ablator</Material>
 					</Target>
-					<Text>Laser Resin Ablator</Text>
+					<Text>Ablateur Laser de Résine</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Liquid Resin Refiner</Material>
 					</Target>
-					<Text>Liquid Resin Refiner</Text>
+					<Text>Raffinerie de Résine Liquide</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

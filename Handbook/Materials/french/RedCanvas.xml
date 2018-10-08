@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Red Canvas</Text>
+					<Text>Toile Rouge</Text>
 				</Title>
 				<Icon>
 					<Name>Red Canvas</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Full red beautification block.</Text>
+					<Text>Bloc d'embellissement complet rouge.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

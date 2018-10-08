@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Rack Rail</Text>
+					<Text>Rail Ascenseur</Text>
 				</Title>
 				<Spacer/>
 				<Icon>
@@ -12,25 +12,25 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Rails used by cargo lifts to transport materials.</Text>
+					<Text>Rails utilisés par les Ascenseurs de Cargaison pour transporter des matériaux.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Rack Railer</Material>
 					</Target>
-					<Text>Rack Railer</Text>
+					<Text>Usine de Rails Ascenseur</Text>
 				</Link>
 				<Spacer/>
 				<Spacer/>
 				<Paragraph>
-					<Text>Refer to Cargo Lift Controller for more information.</Text>
+					<Text>Reportez-vous au Contrôleur Ascenseur de Cargaison pour plus d'informations.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target><Material>Cargo Lift Controller</Material>
 </Target>
-					<Text>Cargo Lift Controller</Text>
+					<Text>Contrôleur Ascenseur de Cargaison</Text>
 				</Link>
 			</Paragraphs>
 		</Page>
