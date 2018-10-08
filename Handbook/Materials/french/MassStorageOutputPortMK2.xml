@@ -11,25 +11,25 @@
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-          <Text>Place this block next to a Mass Storage block to output items from the Mass Storage to a Conveyor Belt. You need to manually specify the item you want extracted from the Mass Storage. If the specified item is available in the Mass Storage the robot will fetch them one by one and place the item onto the built-in conveyor. This version can carry 12 items in each trip.</Text>
+          <Text>Placez ce bloc à côté d&apos;un Bloc de Stockage de Masse pour déplacer des éléments du Stockage de Masse vers un Convoyeur. Vous devez spécifier manuellement l&apos;élément que vous souhaitez extraire du Stockage de Masse. Si l&apos;article spécifié est disponible dans la mémoire de masse, le robot les récupère un par un et place l&apos;article sur le Convoyeur intégré. Cette version peut transporter 12 articles à chaque voyage</Text>
 				</Paragraph>
 				<Header>
 					<Text>Tips and Tricks!</Text>
 				</Header>
 				<Paragraph>
-          <Text>Be aware of the orientation of this block! Just like a regular conveyor, it will attempt to offload the stored item in the appropriate direction</Text>
+          <Text>Soyez vigilant sur l&apos;orientation de ce bloc! Comme un convoyeur ordinaire, il tentera de décharger l’article stocké dans la direction appropriée.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>To assign a item to be output, select the desired item in your Hotbar, look at the output port and press &#34;T&#34;. More advanced configuration options are available under the usual &#34;E&#34; menu.</Text>
+					<Text>Pour affecter un élément à la Sortie, sélectionnez-le dans votre barre de raccourcis, visez le port de sortie et appuyez sur &#34;T&#34;. Des options de configuration plus avancées sont disponibles &#34;E&#34; dans le menu.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Further information:</Text>
+					<Text>Informations complémentaires:</Text>
 				</Header>
         <Link>
           <Target>
             <Material>MassStorageBlock</Material>
           </Target>
-          <Text>Mass Storage</Text>
+          <Text>Stockage de Masse</Text>
         </Link>
 			</Paragraphs>
 		</Page>

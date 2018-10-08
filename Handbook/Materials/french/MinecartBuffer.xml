@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Minecart Buffer</Text>
+					<Text>Minecart Tampon</Text>
 				</Title>
 				<Icon>
 					<Name>MinecartBuffer</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Turns Minecarts around.</Text>
+					<Text>Fait tourner les Minecarts.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

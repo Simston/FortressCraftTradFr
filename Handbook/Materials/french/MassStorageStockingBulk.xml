@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Bulk Mass Storage Stocking Port</Text>
+					<Text>Port de Stockage de Masse Volumineux</Text>
 				</Title>
 				<Icon>
 					<Name>Mass Storage Input PortMK3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-          <Text>Use this to stock specific resources to a specified limit in Mass Storage. Carries 25 identical resources at a time. If partially-stocked and another type of item is supplied, will drop off the current stack first. Pre-sort for maximum efficiency!</Text>
+          <Text>Utilisez cette option pour stocker des ressources spécifiques jusqu&apos;à une limite spécifiée dans le stockage de masse. Transporte 25 ressources identiques à la fois. S&apos;il est partiellement stocké et qu&apos;un autre type d&apos;article est fourni, il supprimera d&apos;abord la pile actuelle. Tri préalable pour une efficacité maximale!</Text>
 				</Paragraph>
         <Spacer/>
         <Link>

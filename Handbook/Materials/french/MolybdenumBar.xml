@@ -4,16 +4,16 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Molybdenum Bars</Text>
+					<Text>Lingot de Molybdène</Text>
 				</Title>
 				<Icon>
 					<Name>Molybdenum Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Molybdenum bars are used in cold resistant machinery.
-					Required in large amounts for all kinds of cold cavern machinery.
-					They are crafted from Molybdenum Ore, found at least 750m below the surface. </Text>
+					<Text>Les Lingots de Molybdène sont utilisées dans les machines résistant au froid.
+					Requis en grande quantité pour tous les types de machines de les Cavernes Froide.
+					Ils sont fabriqués à partir de minerai de molybdène, trouvé a moins -750m sous la surface. </Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

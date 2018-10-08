@@ -4,20 +4,20 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mass Storage Input Port</Text>
+					<Text>Port d&apos;Entrée de Stockage de Masse</Text>
 				</Title>
 				<Icon>
 					<Name>Mass Storage Input PortMK2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Place this block next to a mass storage block to input items into the mass storage. The input can be fed straight from a conveyor belt to supply the items 1 by 1. Different item types can be imported by the same input port 1 at a time.</Text>
+					<Text>Placez ce bloc à côté d&apos;un bloc de stockage de masse pour entrer des éléments dans le stockage de masse. L&apos;entrée peut être alimentée directement à partir d&apos;un Convoyeur pour alimenter les articles 1 par 1. Différents types d&apos;objets peuvent être importés simultanément par le même port d&apos;entrée 1.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Caution!</Text>
+					<Text>Attention!</Text>
 				</Header>
 				<Paragraph>
-					<Text>Has nothing to do with the Storage Crate!</Text>
+					<Text>N&apos;a rien à voir avec la Caisse de Stockage!</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

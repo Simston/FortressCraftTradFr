@@ -4,26 +4,26 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Crystal Mesh Weaver</Text>
+					<Text>Tisseur de Treillis en Fibres de Cristal</Text>
 				</Title>
 				<Icon>
 					<Name>Mesh Weaver</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Crystal Mesh Weaver Processes crystal deposit at the molecular level to create Crystal Mesh. This machine uses 50 power of the span of 8 secondes to molecularly recombine 32 crystal deposit into Crystal Mesh.</Text>
+					<Text>Le Tisseur de Treillis en Fibres de Cristal Traite les dépôts de cristaux au niveau moléculaire pour créer Treillis en Fibres de Cristal. Cette machine utilise 50 d&apos;énergie en 8 secondes pour recombiner moléculairement 32 dépôts de Cristal en Treillis en Fibres de Cristal.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Material>Crystal Fiber Mesh</Material>
 					</Target>
-					<Text>Crystal Fiber Mesh</Text>
+					<Text>Treillis en Fibres de Cristal</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Pipe Coater</Material>
 					</Target>
-					<Text>Pipe Coater</Text>
+					<Text>Usine à Tuyaux</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

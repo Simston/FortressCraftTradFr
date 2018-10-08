@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Magnetic Machine Block</Text>
+					<Text>Bloc Machine Magnétique</Text>
 				</Title>
 				<Icon>
 					<Name>MagneticMachineBlock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A high level machine used for many cold caverns machines.</Text>
+					<Text>Une machine de haut niveau utilisée pour de nombreuses machines dans les cavernes froides.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

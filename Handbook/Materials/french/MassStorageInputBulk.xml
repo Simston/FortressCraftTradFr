@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Bulk Mass Storage Input Port</Text>
+					<Text>Port d&apos;Entrée de Stockage de Masse Géant</Text>
 				</Title>
 				<Icon>
 					<Name>Mass Storage Input PortMK3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Use this to insert resources into Mass Storage. Carries 25 resources at a time.</Text>
+					<Text>Utilisez-le pour insérer des ressources dans le stockage de masse. Transporte 25 ressources à la fois.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

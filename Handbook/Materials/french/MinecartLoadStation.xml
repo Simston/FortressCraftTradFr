@@ -4,21 +4,21 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Minecart Load Station</Text>
+					<Text>Station de Chargement pour Minecart</Text>
 				</Title>
 				<Icon>
 					<Name>Minecart Load</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Removes materials from attached Storage Hoppers into docked Minecarts.</Text>
+					<Text>Retire les matériaux des trémies de stockage attachées dans les minecarts garés.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Item Load Rate:</Left>
+					<Left>Taux Chargement Objet:</Left>
 					<Right>5 par seconde</Right>
 				</TwoColumnParagraph>
 				<Spacer/>
@@ -26,7 +26,7 @@
 					<Target>
 						<Material>Minecart Depot</Material>
 					</Target>
-				<Text>Minecart Depot</Text>
+				<Text>Dépôt Minecart</Text>
 			</Link>
 			</Paragraphs>
 		

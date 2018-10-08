@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Minecart Empty Gate</Text>
+					<Text>Porte Minecart Vide</Text>
 				</Title>
 				<Icon>
 					<Name>MinecartBufferEmpty</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Minecarts heading in the same direction as the RED arrow will turn around if they are NOT EMPTY. GREEN is freely passable.</Text>
+					<Text>Les Minecarts vont suivre la flèche rouge et tourner s&apos;ils sont VIDES. Vert et ils passeront librement.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

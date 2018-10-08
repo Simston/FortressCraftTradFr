@@ -4,43 +4,43 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Manufacturing Plant</Text>
+					<Text>Usine de Fabrication</Text>
 				</Title>
 				<Icon>
 					<Name>Manufacturing Plant</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The manufacturing plant can be used to create most of the machines and items you will require to survive on this planet. Some items will require specialised assembly machines, this will be listed in the handbook entry for the item. To open the manufacturing interface press the &#39;Interact&#39; key (default &#39;E&#39;). You can also self craft a limited number of items at any time using your suit and build tool by opening the self crafting interface (default &#39;C&#39;).</Text>
+					<Text>L’usine de fabrication peut être utilisée pour créer la plupart des machines et objets dont vous aurez besoin pour survivre sur cette planète. Certains objets nécessiteront des machines d&apos;assemblage spécialisées, cela sera indiqué dans l&apos;entrée du manuel concernant l&apos;objet en question. Pour ouvrir l&apos;interface de fabrication, appuyez sur le bouton &#39;Interagir&#39; touche (par défaut: &#39;E&#39;). Vous pouvez également créer vous-même un nombre limité d&apos;objets à tout moment à l&apos;aide de l&apos;Artisanat Manuel de Combinaison en ouvrant l&apos;interface de création automatique (par défaut &#39;C&#39;).</Text>
 				</Paragraph>
 				<Header>
-					<Text>Manufacturing Interface</Text>
+					<Text>Interface de Fabrication</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>The manufacturing interface is split into four component parts. These are from left to right: The list of available blueprints, selected item information, resource requirements, and below these automation.</Text>
+					<Text>L&apos;interface de fabrication est divisée en quatre parties. De gauche à droite: la liste des plans disponibles, les informations sur les éléments sélectionnés, les besoins en ressources et, et en dessous de ces automatismes.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The tabs along the top of the blueprints window allow you to filter by type, e.g. power, automation &amp; suit upgrades. At the bottom of this window you can filter to only those you have the materials to produce, and below that a custom filter can be entered.</Text>
+					<Text>Les onglets situés en haut de la fenêtre Schémas(blueprints) vous permettent de filtrer par type, par exemple. Energie, automatisation &amp; les améliorations de combinaison. Au bas de cette fenêtre, vous pouvez filtrer uniquement les matériaux à produire acquis, et en dessous vous pouvez entrer un filtre personnalisé.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>		
 				<Paragraph>
-					<Text>When a blueprint is selected information about it and its components will be displayed. If you have the materials required you can manufacture one item by pressing the &#39;Craft&#39; button, or 25 at a time by holding down the &#39;Control&#39; key and pressing the &#34;Craft&#34; button. Contextual help is available for the selected item by pressing the help key (default &#39;H&#39;).</Text>
+					<Text>Lorsqu&apos;un schéma est sélectionné, des informations à son sujet et ses composants sont affichés. Si vous avez le matériel requis, vous pouvez fabriquer un article en appuyant sur la touche &#39;Fabrication&#39;, ou 25 à la fois en maintenant la touche &#39;Control&#39; + &#34;Fabrication&#34;. Une aide contextuelle est disponible pour l&apos;objet sélectionné en appuyant sur la touche d&apos;aide. (défaut &#39;H&#39;).</Text>
 				</Paragraph>
 			
 				<Header>
 					<Text>Automation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Crafting items manually at the manufacturing plant does not require any energy and is almost instantaneous because it interfaces with your suit &amp; build tool to perform the work. If you would like to continuously manufacture an item while you are away this can be done using just the facilities within the manufacturing plant but at the cost of both time and energy. Select the item to manufacture, enter the number of items required, or select &#39;Repeat&#39; to continue forever, and press the Automate button. The materials needed must be in a adjacent storage hopper with I/O permissions set to either &#39;Add/Remove&#39; or &#39;Remove only&#39; (recommended), the manufactured items will also be placed into a storage hopper, which should have I/O status of &#39;Add Seulement&#39;.</Text>
+					<Text>Fabriquer des articles manuellement dans l&apos;usine de fabrication ne nécessite aucune énergie et est presque instantané, car il s&apos;interface avec votre combinaison et fusil de construction pour effectuer le travail. Vous pouvez fabriquer en continu un article en votre absence, en utilisant uniquement les installations de l’Usine de Fabrication, mais cela prend du temps et de l’énergie. Sélectionnez l&apos;élément à fabriquer, entrez le nombre d&apos;éléments requis ou sélectionnez &#39;Répéter&#39; pour continuer, et appuyez sur le bouton Automatiser. Les matériaux nécessaires doivent se trouver dans une trémie de stockage adjacente avec les autorisations d’entrée/sortie définies sur &#39;Ajout/Retrait&#39; ou &#39;Retrait Seul&#39;(recommandé), les articles fabriqués seront également placés dans une trémie de stockage, qui doit avoir le statut E/S &#39;Ajout Seul&#39;.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Automation can be switched to another item, or cancelled entirely by clicking on the progress icon. In both cases the plant will finish manufacturing the item it is currently working on first.</Text>
+					<Text>L&apos;automatisation peut être basculée sur un autre objet ou entièrement annulée en cliquant sur l&apos;icône de progression. Dans les deux cas, l’usine finira par fabriquer l’article sur lequel elle travaille actuellement.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -50,7 +50,7 @@
 					<Text>Modules</Text>
 				</Header>
 				<Paragraph>
-					<Text>Some blueprints may require an additional module to be attached to the manufacturing plant (Such as the Hydrojet Cutter). This will be listed in the handbook entry for the item.</Text>
+					<Text>Certains schémas peuvent nécessiter l’ajout d’un module supplémentaire à l’usine de fabrication (tel que le Tête de Coupe Hydrojet). Sera listé dans l&apos;entrée du manuel pour l&apos;objet.</Text>
 				</Paragraph>
 					
 			</Paragraphs>

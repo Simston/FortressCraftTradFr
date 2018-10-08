@@ -4,28 +4,28 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Multi Matter Mover</Text>
+					<Text>Multi Déplaceur de Matière</Text>
 				</Title>
 				<Icon>
 					<Name>Multi Matter Mover</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Matter Movers are a high-speed, high-energy method of moving resources around your mining operation. They are simple in usage; supply with power as you would any other machine, and place them adjacent to the source Storage Hopper and facing towards the destination Storage Hopper. The cost to mattermit does not depend on distance. Line of sight to the destination hopper is required. This block does not block movement.</Text>
+					<Text>Le Déplaceur de Matière méthode à grande vitesse et à haute énergie pour déplacer des ressources autour de votre exploitation minière. Ils sont simples d&apos;utilisation; alimentez-les comme n&apos;importe quelle autre machine et placez-les à côté de la trémie de stockage source et face à la trémie de stockage de destination. Le coût pour importer ne dépend pas de la distance. Une visibilité directe vers la trémie de destination est requise. Ce bloc ne bloque pas le mouvement.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Max. Transport Rate:
+					<Left>Max. Taux de transport:
 					Energie Requise:
 					Max. Taux de Recharge:
 					Capacité Energie:
 					Max. Portée:</Left>
 					<Right>4800 objets par minute
-					64 per item
-					12288 /s (per face)
+					64 par objet
+					12288 /s (par coté)
 					24576
 					8m</Right>
 				</TwoColumnParagraph>

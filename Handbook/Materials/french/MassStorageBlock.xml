@@ -4,47 +4,47 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mass Storage Block</Text>
+					<Text>Bloc de Stockage de Masse</Text>
 				</Title>
 				<Icon>
 					<Name>Bound Metal Crate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This is the base block for automated mass storage. It cannot be accessed manually. Each block can hold a stack of 25 items. Placing mass storage blocks side by side creates a larger combined storage.</Text>
+					<Text>C&apos;est le bloc de base pour le stockage de masse automatisé. Il n&apos;est pas accessible manuellement. Chaque bloc peut contenir une pile de 25 éléments. La mise en place côte à côte de blocs de stockage de masse crée un stockage combiné plus important.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Despite the name, it&apos;s rarely useful to store huge quantities of items. The Mass Storage excels as an intemediary and final buffer area for crafted goods, and allows you to filter, sort and transfer crafted items to where they&apos;re needed, and ensure that things are ready ahead of time.</Text>
+          <Text>Malgré son nom, il est rarement utile de stocker d’énormes quantités d&apos;objets. Le stockage de masse constitue une zone tampon intermédiaire et finale pour les objets fabriqués. Il vous permet également de filtrer, trier et transférer les objets fabriqués aux endroits où ils sont nécessaires et de vous assurer que tout est prêt à l&apos;avance.</Text>
         </Paragraph>
 				<Header>
 					<Text>Caution!</Text>
 				</Header>
-				<Paragraph><Text>It&apos;s generally better to keep each individual Mass Storage area assigned to a particular task, as opposed to one monolithic storage for literally everything. Whilst the game does support this, the performance will drop massively.</Text>
+				<Paragraph><Text>En règle générale, il est préférable d&apos;assigner une zone de stockage de masse affectée à une tâche particulière, par opposition à un stockage qui centralise tout objets. Les performances du jeu pourraient chutées massivement.</Text>
 </Paragraph>
 			</Paragraphs>
 		</Page>
     <Page>
       <Paragraphs>
         <Title>
-          <Text>Usage</Text>
+          <Text>Utilisation</Text>
         </Title>
         <Icon>
           <Name>Mass Storage Output Port</Name>
           <Alignment>Center</Alignment>
         </Icon>
         <Paragraph>
-          <Text>Mass Storage is fairly simple to setup, and can be configured in many ways. Essentially it always works in the same way; you use a Stocking Port next to a Mass Storage Block to put items into the system, then a Mass Storage Output Port to remove specified items from the Mass Storage. Feed the Stocking Port via a Conveyor, and collect items from the Output Port via a Conveyor.</Text>
+          <Text>Le Stockage de Masse est assez simple à configurer et peut être configuré de différentes manières. Essentiellement, cela fonctionne toujours de la même manière. Vous utilisez un Port d&apos;Entrée de Stockage à côté d&apos;un Bloc de Stockage de Masse pour placer des éléments dans le système, puis un Port de Sortie de Stockage de Masse pour retirer les éléments spécifiés du Stockage de Masse. Alimentez le Port de Stockage via un Convoyeur et collectez les articles du port de sortie via un autre Convoyeur.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The Stocking Ports allow you to determine the maximum number of a certain item in the Mass Storage, allowng you stop it getting clogged with less-used items. Stocking Ports can carry 5, 12 or 25 items - however, if they are carrying item type A and an item type B comes in, the Drone will drop off Item A first. This means that pre-sorting your input can be as much as 25x faster!</Text>
+          <Text>Les Ports de Stockage vous permettent de déterminer le nombre maximal d&apos;un article dans le Stockage de Masse, ce qui vous permet d&apos;empêcher qu&apos;il ne soit bouché par des articles moins utilisés. Les Ports de Stockage peuvent déplacer 5, 12 ou 25 objets. Toutefois, s&apos;ils portent le type d&apos;objet A et qu&apos;un type d&apos;objet B entre, le drone déposera d&apos;abord l&apos;élément A. Cela signifie que le tri préalable de vos entrées peut être jusqu&apos;à 25 fois plus rapide!</Text>
         </Paragraph>
         <Header>
-          <Text>Caution!</Text>
+          <Text>Attention!</Text>
         </Header>
         <Paragraph>
-          <Text>Has nothing to do with the Storage Crate!</Text>
+          <Text>N&apos;a rien à voir avec la caisse de stockage!</Text>
         </Paragraph>
       </Paragraphs>
     </Page>    

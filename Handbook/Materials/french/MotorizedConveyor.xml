@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Motorised Conveyor</Text>
+					<Text>Convoyeur Motorisé</Text>
 				</Title>
 				<Icon>
 					<Name>Motorised Conveyor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Extracts items from a hopper at up to 150 per minute!</Text>
+					<Text>Extrait des objets d&apos;une trémie à 150 unités par minute!</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
@@ -21,7 +21,7 @@
 					<Left>
 					Capacité Energie:
 					Max. Taux de Recharge:
-					Power Per Item:
+					Energie par Objet:
 					</Left>
 					<Right>
 					1500

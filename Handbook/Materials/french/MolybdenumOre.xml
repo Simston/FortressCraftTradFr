@@ -4,19 +4,19 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Molybdenum Ore</Text>
+					<Text>Minerai de Molybdène</Text>
 				</Title>
 				<Icon>
 					<Name>Molybdenum Ore</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Molybdenum Ore is found below the Toxic Caverns. As you go deeper the richness of the veins will increase. It can be mined with a Build Gun MK3, the Hard Rock Grinder and Trencher Extractors.</Text>
+					<Text>Le minerai de molybdène se trouve sous les cavernes toxiques. Au fur et à mesure que vous avancez, la richesse des veines augmentera. Il peut être extrait avec un Fusil Constructeur MK3, le Broyeur de Roche Dure et les Foreuses à Tranchant.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>The first stages of ore smelting can be done with standard Ore Smelters. Molybdenum Ore requires the "Arc Smelter" upgrade to be processed by Ore Smelters as it requires higher melting temperatures than normal.
-					Later, when throughput is valued over efficiency, a Blast Furnace setup is strongly recommended</Text>
+					<Text>Les premières étapes de la fusion du minerai peuvent être réalisées avec des Fonderies de minerais standard. Le minerai de molybdène a besoin de l&apos;amélioration &apos;ARC&apos; pour être traitée par les Fonderies car elle nécessite des températures de fusion plus élevées que la normale.
+					Plus tard, lorsque le débit est supérieur à l&apos;efficacité, une configuration de Haut Fourneau est fortement recommandée</Text>
 				</Paragraph>
 				</Paragraphs>
 		</Page>
@@ -34,13 +34,13 @@
 					
 					2ème Etape de Fonte:</Left>
 					<Right>-750 to -1900m
-					Bright Yellow
-					Build Gun MK3
-					Hard rock grinder
-					Trencher Extractor MK1-MK3
+					Jaune Brillant
+					Fusil Constructeur MK3
+					Broyeur de Roche Dure
+					Foreuse à Tranchant MK1-MK3
 					
-					Ore Smelter with "Arc Smelter" upgrade
-					Blast Furnace setup</Right>
+					Fonderie avec l&apos;amélioration "ARC"
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

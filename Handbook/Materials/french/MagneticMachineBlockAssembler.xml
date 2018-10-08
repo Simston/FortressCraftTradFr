@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Magnetic Machine Block Assembler</Text>
+					<Text>Assembleur de Bloc Magnétique</Text>
 				</Title>
 				<Icon>
 					<Name>MagneticMachineBlockAssembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Coats Imbued Machine blocks in Molybdenum and then magnetises these.</Text>
+					<Text>Enduit des Blocs de Machine Imprégnés de Molybdène, puis les magnétise.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Imbued Machine Block and Molybdenum Bar to start the process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins 1 Bloc Machine Imprégné et un Lingot de Molybdène pour lancer le processus.</Text>
 				</Paragraph>
 
 				<Header>

@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mephetic Missile Assembler</Text>
+					<Text>Assembleur de Missile Mephitic</Text>
 				</Title>
 				<Icon>
 					<Name>Mephitic Missile Assembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses Chlorine Canisters to make Plasma-Imbued Missiles have a damage-over-time effect of half the original damage over 30 secondes.</Text>
+					<Text>Les Cartouches de Chlore utilisées dans la Fabrication de Missiles Imprégnés de Plasma ont un effet additionnel sur la durée des dégâts égal à la moitié des dégâts subis sur 30 secondes.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Chlorine Canister and Plasma-Imbued Missile to start the toxifying process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins une Cartouche de Chlore et un Missile Imprégné de Plasma pour déclencher le processus de toxification.</Text>
 				</Paragraph>
 
 				<Header>

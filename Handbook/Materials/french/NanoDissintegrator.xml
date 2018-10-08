@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>NanoDisintegrator</Text>
+					<Text>Désintégrateur Nano</Text>
 				</Title>
 				<Icon>
 					<Name>NanoDisintegrator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Use this to perfectly excavate a 3x3x3 area of even the very hardest material. Use with care.</Text>
+					<Text>Utilisez-le pour excaver parfaitement une zone de 3x3x3 du matériau le plus dur existant. A utiliser avec précaution.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

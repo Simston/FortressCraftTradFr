@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Missile Turret MK2</Text>
+					<Text>Tourelle Missile MK2</Text>
 				</Title>
 				<Icon>
 					<Name>Missile Turret MK2</Name>
@@ -19,7 +19,7 @@
 				OUTDATED
 				OUTDATED
 				<Paragraph>
-					<Text>Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper.</Text>
+					<Text>Tire des missiles à usage unique sur les plus grandes cibles. Les missiles doivent être stockés dans une trémie de stockage adjacente.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
@@ -27,12 +27,12 @@
 				<TwoColumnParagraph>
 					<Left>Minimum Portée:
 					Portée Maximale:
-					Damage (per missile):
-					Missiles per Salvo:
+					Dommage (par missile):
+					Missiles par Salve:
 					Temps de Rechargement:</Left>
 					<Right>64m
 					512m
-					50,000 (basic missile)
+					50,000 (missile basique)
 					2
 					15 secondes</Right>
 				</TwoColumnParagraph>

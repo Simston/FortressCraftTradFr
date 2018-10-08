@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Missile Turret MK1</Text>
+					<Text>Tourelle Missile MK1</Text>
 				</Title>
 				<Icon>
 					<Name>Missile Turret MK1</Name>
@@ -13,7 +13,7 @@
 				<Spacer/>
 				<Paragraph>
 					
-					<Text>Fires single-use missiles at larger targets. Missiles should be stored in an adjacent Storage Hopper. Missile Turrets require Line-of-sight to their targets, and should be mounted to give the best field of fire.</Text>
+					<Text>Tire des missiles à usage unique sur les plus grandes cibles. Les missiles doivent être stockés dans une trémie de stockage adjacente. Les tourelles de missiles doivent avoir une visibilité directe sur leurs cibles et doivent être élevées pour offrir le meilleur champ de vision possible.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
@@ -22,14 +22,14 @@
 				<TwoColumnParagraph>
 					<Left>Minimum Portée:
 					Portée Maximale:
-					Missiles per Salvo:
+					Missiles par Salve:
 					Temps de Rechargement:
-					Damage (per missile):</Left>
+					Dommage (par missile):</Left>
 					<Right>64m
 					512m
 					1
 					15 secondes
-					75k - 750k (Based on missile)</Right>
+					75k - 750k (Basé sur le Missile)</Right>
 				</TwoColumnParagraph>
 				<Spacer/>
 				<Spacer/>
@@ -37,37 +37,37 @@
 					<Target>
 						<Material>Empty Missile Assembler</Material>
 					</Target>
-					<Text>Empty Missile Assembler</Text>
+					<Text>Assembleur de Missile Vide</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Missile Fueller</Material>
 					</Target>
-					<Text>Missile Fueller</Text>
+					<Text>Carburant de Missile</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Armour Piercing Warhead Fitter</Material>
 					</Target>
-					<Text>Armour Piercing Warhead Fitter</Text>
+					<Text>Monteur d&apos;Ogive Perce-Armure</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Warhead Imbuer</Material>
 					</Target>
-					<Text>Warhead Imbuer</Text>
+					<Text>Imprégnateur d&apos;Ogive</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>CryoChilled Missile Assembler</Material>
 					</Target>
-					<Text>CryoChilled Missile Assembler</Text>
+					<Text>Assembleur de Missile Cryogéniques</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Mephitic Missile Assembler</Material>
 					</Target>
-					<Text>Mephitic Missile Assembler</Text>
+					<Text>Assembleur de Missile Mephitic</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

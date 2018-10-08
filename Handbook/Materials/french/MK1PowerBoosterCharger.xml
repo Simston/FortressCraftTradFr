@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Power Booster Charger MK1</Text>
+					<Text>Amplificateur d&apos;Énergie MK1</Text>
 				</Title>
 				<Icon>
 					<Name>MK1PowerBoosterCharger</Name>
@@ -12,7 +12,7 @@
 				</Icon>
 				<Spacer/>
 				<Paragraph>
-					<Text>This machine will auto-craft and charge up the MK1 Power Boosters. Uses Copper Coils and some power.</Text>
+					<Text>Cette machine créera et chargera automatiquement les Amplificateurs d&apos;Énergie MK1. Utilise des bobines de cuivre et un peu d&apos;énergie.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -24,7 +24,7 @@
 					Energie Requise:
 					Capacité Energie:
 					Max. Taux de Recharge:
-					Power Restored:</Left>
+					Énergie Restaurée:</Left>
 					
 					<Right>5 secondes
 					100 par seconde
@@ -38,31 +38,31 @@
 					<Target>
 						<Material>PowerBoosterMK1</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK1</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK1</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>PowerBoosterMK2</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK2</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK2</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>PowerBoosterMK3</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK3</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK3</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>PowerBoosterMK4</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK4</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK4</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>PowerBoosterMK5</Material>
 					</Target>
-					<Text>ARTHER Power Booster MK5</Text>
+					<Text>ARTHER Amplificateur d&apos;Énergie MK5</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

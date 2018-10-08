@@ -4,16 +4,16 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mass Storage Controller</Text>
+					<Text>Contrôleur de Stockage de Masse</Text>
 				</Title>
 				<Icon>
 					<Name>Mass Storage Controller</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Mass Storage Controller has two purposes. Once built, powered and connected to a Mass Storage, you can simply scan it, and you&apos;ll be presented with the contents of the attached Mass Storage.
+					<Text>Le Contrôleur de Stockage de Masse a deux buts. Une fois construit, alimenté et connecté à un Stockage de Masse, vous pouvez simplement répertorier le contenu du Stockage de Masse associé.
           
-          Once researched and unlocked, the Mass Storage I/O port will only function on Mass Storage setups with a powered and attached Mass Storage Controller.
+          Une fois que vous avez recherché et déverrouillé, le port d&apos;E/S de stockage de masse ne fonctionnera que sur les configurations de stockage de masse dotées d&apos;un contrôleur de stockage de masse alimenté et connecté.
           </Text>
 				</Paragraph>
 				<Header>

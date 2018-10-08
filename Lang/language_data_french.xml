@@ -1540,7 +1540,7 @@
   <string name="Freezon Injector_DESC">Utilise des Cartouches de Freezon afin d&apos;avoir un bénéfice de performance sur certaines machines.</string>
   <string name="H.E.I.S.T.">H.E.I.S.T.</string>
   <string name="H.E.I.S.T._DESC">Videur de Trémie de Stockage vers Inventaire (Hopper Emptying Inventory Storage Transporter) Transmet automatiquement les objets dans l’inventaire du joueur. H.E.I.S.T pour faire court.</string>
-  <string name="NanoDisintegrator">Désintégrateur nano</string>
+  <string name="NanoDisintegrator">Désintégrateur Nano</string>
   <string name="NanoDisintegrator_DESC">Utilisez ceci pour creuser parfaitement une zone de 3x3x3 même le matériau le plus dur. A Utiliser avec précaution.</string>
   <string name="Ruined Organic Thief">Voleur Organique abîmés</string>
   <string name="Ruined Organic Thief_DESC">Non pertinent.</string>
@@ -2682,7 +2682,7 @@
   <string name ="Skin_ViewGameInStore">VOIR LE JEU EN MAGASIN</string>
   <string name ="Skin_ViewInfo">VOIR INFORMATION</string>
   <!--Matter Mover-->
-  <string name ="Matter_Mover">Déplaceur de Matière</string>
+  <string name ="Matter_Mover">Transfert de Matière</string>
   <string name ="Dual_Matter_Mover">Dual Déplaceur à Matière</string>
   <string name ="Quad_Matter_Mover">Quad Déplaceur à Matière</string>
   <string name ="Multi_Matter_Mover">Multi-Déplaceur à Matière</string>
