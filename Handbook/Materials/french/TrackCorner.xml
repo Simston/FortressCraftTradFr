@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Corner Minecart Track</Text>
+					<Text>Coin de Piste</Text>
 				</Title>
 				<Icon>
 					<Name>Track Corner</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Allows Minecarts to travel around corners.</Text>
+					<Text>Permet aux Minecarts de voyager dans les coins.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

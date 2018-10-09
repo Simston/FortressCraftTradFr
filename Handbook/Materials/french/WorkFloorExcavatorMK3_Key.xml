@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Workfloor Excavator MK3</Text>
+					<Text>Excavatrice de Plancher MK3</Text>
 				</Title>
 				<Icon>
 					<Name>WorkFloorExcavator MK3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 mètre tall tunnel, in a 64m range. This model WILL clear ores, meaning you can use this for areas that need large machines built. Wide-open work spaces are conducive to organised bases! 4x faster than the MK2s!</Text>
+					<Text>Créer une face minière basique est très fastidieux, s’il est fait à la main. Cette machine dégagera un tunnel de 3 mètres de hauteur, dans un rayon de 64 m. Ce modèle dégage les minerais, ce qui signifie que vous pouvez l&apos;utiliser pour les zones nécessitant la construction de grosses machines. Les grands espaces de travail sont propices aux bases organisées! 4x plus rapide que les MK2!</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
@@ -20,13 +20,13 @@
 					<Left>Portée:
 					Capacité Energie:
 					Energie par Bloc:
-					Détruit les Linerais:
+					Détruit les Minerais:
 					Max. Taux de Recharge:
 					</Left>
 					<Right>64m
 					512
 					8
-					Yes
+					Oui
 					Illimité
 					</Right>
 				</TwoColumnParagraph>

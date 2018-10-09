@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Housing</Text>
+					<Text>Boîtier en Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple tin housing created from tin plates.</Text>
+					<Text>Un simple boîtier en étain créé à partir de plaques d&apos;étain.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

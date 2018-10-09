@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Room Extractor Fan</Text>
+					<Text>Ventilateur d&apos;Extraction de Salle</Text>
 				</Title>
 				<Icon>
 					<Name>Space Warz Hatch2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A Extractor Fan improves the Clean rating of your room, required to hit Clean Room designation.</Text>
+					<Text>Un Ventilateur d&apos;Extraction améliore la note de propreté de la Pièce, nécessaire pour atteindre le statut de Salle Blanche.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

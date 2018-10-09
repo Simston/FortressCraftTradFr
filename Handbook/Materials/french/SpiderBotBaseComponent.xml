@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>SpiderBot Base</Text>
+					<Text>Base de SpiderBot</Text>
 				</Title>
 				<Icon>
 					<Name>SpiderBot Core Charger</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The SpiderBot Base is your primary method of interaction with your mobile base-defence robot, affectionally known as SpiderBot, SpiderBro or Henrietta, depending on which gender you&apos;ve selected.
+					<Text>La Base de SpiderBot est la principale méthode d’interaction avec votre robot de défense de base mobile, connu sous le nom affectif de SpiderBot, SpiderBro ou Henrietta, selon le sexe que vous avez sélectionné.
 
-					All power and upgrades are deliverered to your Spiderbot base via Logistics Hoppers. Each attached hopper is capable of delivering 1 item to the SpiderBot every 1.2 secondes; utilise plenty of space along the sides for maximum throughput.
+					Toute l&apos;énergie et les améliorations sont livrées à votre Base de Spiderbot via les Trémies Logistiques. Chaque trémie attachée est capable de livrer 1 article au SpiderBot toutes les 1,2 secondes; utilisez beaucoup d&apos;espace sur les côtés pour un débit maximal.
 
-					SpiderBot himself is capable of holding 150,000 power. Power is delivered via the SpiderBot Base Charger, creating SpiderBot Power Cores. These are placed into attached Logistics Hoppers.
+					Le SpiderBot est capable de contenir 150 000 d&apos;énergie. L&apos;alimentation est fournie via le Chargeur de Base SpiderBot, créant ainsi des Noyaux d&apos;Énergie SpiderBot. Ceux-ci sont placés dans des Trémies Logistique adjacentes.
 
-					SpiderBot has 3 tiers of weapon upgrade. Each of these will need to be crafted by hand and placed into an attached Logistics Hopper. SpiderBot will then automatically return to the dock and collect and fit the item. 
+					SpiderBot a 3 niveaux de mise à niveau d&apos;arme. Chacun de ceux-ci devra être fabriqué à la main et placé dans une trémie logistique attachée. Le SpiderBot reviendra alors automatiquement sur le quai pour collecter et ajuster l&apos;objet.
 
-					Seulement one of each of the weapon upgrade items is required; duplicates will be ignored.
+					Seulement l&apos;un de chacun des objets d&apos;amélioration d&apos;arme est requis; les doublons seront ignorés.
 					</Text>
 				</Paragraph>
 				
@@ -29,7 +29,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Available Fitted Upgrades</Text>
+					<Text>Améliorations disponibles</Text>
 				</Title>
 				<Icon>
 					<Name>SpiderBot</Name>
@@ -40,25 +40,25 @@
 					<Target>
 						<Material>SpiderBot Core Charger</Material>
 					</Target>
-					<Text>SpiderBot Core Charger</Text>
+					<Text>Chargeur du Coeur de SpiderBot</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>SpiderBot Blaster</Material>
 					</Target>
-					<Text>SpiderBot Blaster</Text>
+					<Text>Blaster SpiderBot</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>SpiderBot Cannon</Material>
 					</Target>
-					<Text>SpiderBot Cannon</Text>
+					<Text>Cannon SpiderBot</Text>
 				</Link>
 					<Link>
 					<Target>
 						<Material>SpiderBot Particle Rifle</Material>
 					</Target>
-					<Text>SpiderBot Particle Rifle</Text>
+					<Text>Fusil à Particules SpiderBot</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

@@ -4,37 +4,37 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Threat Reducer</Text>
+					<Text>Réducteur de Menaces</Text>
 				</Title>
 				<Icon>
 					<Name>Threat Reducer</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The native wild life appear to react negatively to the byproducts dispersed into the air by industial actions. In an effort to mitigate both current and future conflict with the native wild life devices have been cuntructed to minimize the impact of machinery. The Threat reducer is able to cancle out the electro magnetic waves created by power production and scrub the nearby atmosphear of pollutants. The device utilizes 5 power units par seconde to complete this task. </Text>
+					<Text>La vie sauvage indigène semble réagir négativement aux sous-produits dispersés dans l&apos;air par des actions industrielles. Dans le but d&apos;atténuer les conflits actuels et futurs avec les animaux sauvages indigènes, des dispositifs ont été mis en place afin de minimiser l&apos;impact des machines. Le réducteur de menaces est capable d’annuler les ondes électromagnétiques générées par la production d’énergie et de nettoyer l’atmosphère de polluants à proximité. L&apos;appareil utilise 5 unités d&apos;énergie par seconde pour effectuer cette tâche. </Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>In an effort to further understand the natives reactions to industilization, a new system to measure our impact based on the studied organisms sensitivity to both chemical and electromagnetic pollution has been created. This system measures these factors in “Threat Units” and can be seen in the Threat Scanner. Each active Threat Reducer reduces the threat by approxametly 50 threat units. With enough of these devices the produced threat can be completely minimized no matter how extensive operations grow on this planet.</Text>
+					<Text>Dans le but de mieux comprendre les réactions des formes de vie indigènes à l&apos;industrialisation, un nouveau système de mesure de notre impact basé sur la sensibilité des organismes étudiés à la pollution chimique et électromagnétique a été créé. Ce système mesure ces facteurs en «unités de menace» et peut être vu via le Scanner de Menace. Chaque Réducteur de Menace actif réduit la menace d&apos;environ 50 unités de menace. Avec un nombre suffisant de ces dispositifs, la menace créée peut être complètement minimisée, quelle que soit l&apos;ampleur des opérations menées sur cette planète.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Threat Scanner</Material>
 					</Target>
-					<Text>Threat Scanner</Text>
+					<Text>Scanner de Menaces</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Threat Agitator</Material>
 					</Target>
-					<Text>Threat Agitator</Text>
+					<Text>Agitateur de Menace</Text>
 				</Link>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Requires power:</Left>
-					<Right>Yes</Right>
+					<Left>Énergie Requise:</Left>
+					<Right>Oui</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>

@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Turret MK1</Text>
+					<Text>Tourelle MK1</Text>
 				</Title>
 				<Icon>
 					<Name>Pop Up Turret</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+					<Text>Défense de base basée sur l&apos;énergie. Doit être alimenté par un Générateur d&apos;Énergie, un Bloc de Stockage d&apos;Énergie ou un LTE adjacent.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Turrets should be used to cover a number of critical parts of your base. As well as the CPH, you will want to defend any exposed Power Storage Block, Ore Extractor, and if you&apos;re on a hard enough difficulty, any power-using machine.</Text>
+          <Text>Les Tourelles doivent être utilisées pour couvrir un certain nombre de parties critiques de votre base. En plus du HAC, il faudrait défendre tout bloc de stockage de puissance, extracteur de minerai exposé et, si vous êtes en difficulté assez difficile, toute machine consommant de l&apos;énergie.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>Hint : It&apos;s far better to place a turret down near all your mining operations, than to hope you&apos;ve find a sneaky way to confound the natural threats of this planet.</Text>
+          <Text>Astuce: Il vaut mieux placer une tourelle près de toutes vos opérations minières que d’espérer que vous trouviez un moyen détourné de confondre les menaces naturelles de cette planète.</Text>
         </Paragraph>
         <Spacer/>
 				<Header>

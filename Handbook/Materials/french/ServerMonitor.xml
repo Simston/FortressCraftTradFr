@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Server Monitor</Text>
+					<Text>Moniteur de Serveur</Text>
 				</Title>
 				<Icon>
 					<Name>test arm</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Gives you read-time readouts of your server status. Not a &apos;game&apos; item.</Text>
+					<Text>Vous donne une visibilitée sur l&apos;état de votre serveur.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

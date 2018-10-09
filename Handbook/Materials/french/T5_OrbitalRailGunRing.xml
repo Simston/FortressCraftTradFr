@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Orbital Railgun Ring</Text>
+					<Text>Anneau de Cannon Orbital</Text>
 				</Title>
 				<Icon>
 					<Name>Orbital Power Transmission</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
         <Paragraph>
-          <Text>These magnetically-charged rings are coated with Liquid Resin and cooled using Freezon.</Text>
+          <Text>Ces anneaux chargés magnétiquement sont recouverts de résine liquide et refroidis à l&apos;aide de Freezon.</Text>
         </Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>See the main entry on the Orbital Railgun for more information.</Text>
+          <Text>Reportez-vous à l&apos;entrée principale de Cannon Orbital pour plus d&apos;informations.</Text>
         </Paragraph>
         <Spacer/>
         <Header>
-          <Text>>Orbital Railgun</Text>
+          <Text>Cannon Orbital</Text>
         </Header>
         <Icon>
           <Name>OrbitalRailGunController</Name>

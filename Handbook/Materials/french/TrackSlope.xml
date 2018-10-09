@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Minecart Track Slope</Text>
+					<Text>Rail Incliné Minecart</Text>
 				</Title>
 				<Icon>
 					<Name>Track Slope</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Allows Minecarts to travel around up slopes.</Text>
+					<Text>Permet aux minecarts de parcourir les pentes.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

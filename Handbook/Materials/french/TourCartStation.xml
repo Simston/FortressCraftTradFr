@@ -4,20 +4,20 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tour Cart Station</Text>
+					<Text>Station Chariot de Voyage</Text>
 				</Title>
 				<Icon>
 					<Name>Minecart Depot</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Tour cart stations provide for intelligent navigation within your fortress.</Text>
+					<Text>Les Stations de Chariot de Voyage offrent une navigation intelligente et rapide dans votre forteresse.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-				<Text>A Tour Cart Station will take a tour cart from either your inventory or from an adjacent hopper for you to ride.  The destination must be another tour cart station on the same freight track system.
-				
-				Each station must be named which can be configured in the station interface.  Once named you will use the name to choose your destination station.  Simply open the station interface by pressing E, choose your destination, and off you go!</Text>
+				<Text>Une Station Chariot de Voyage prendra un Chariot de Voyage de votre inventaire ou d&apos;une trémie adjacente pour que vous puissiez monter à l&apos;intérieur. La destination doit être une autre station de voyage sur le même système de voie de fret.
+
+Chaque station doit être nommée et peut être configurée dans l&apos;interface de la station. Une fois nommé, vous utiliserez le nom pour choisir votre station de destination. Ouvrez simplement l&apos;interface de la station en appuyant sur E, choisissez votre destination et c&apos;est parti!</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

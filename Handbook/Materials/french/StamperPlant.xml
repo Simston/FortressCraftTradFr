@@ -4,24 +4,24 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Stamper Plant</Text>
+					<Text>Presse</Text>
 				</Title>
 				<Icon>
 					<Name>Stamper Plant</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Stamper Tlant is a regular Conveyor fitted with a machine for stamping metal Bars into Plates, and behaves like a Conveyor in all circumstances. It runs at the same speed as a Basic Conveyor, except en Rapide mode, where it runs at 3x the speed of a Basic Conveyor. Fast Conveyors does not affect this. </Text>
+					<Text>La Presse est un Convoyeur ordinaire équipé d&apos;une machine à emboutir des Lingots de métal en Plaques et se comporte comme un Convoyeur classique. Il fonctionne à la même vitesse qu&apos;un Convoyeur Basique, sauf en mode Rapide, où il tourne à une vitesse 3 fois supérieure à celle d&apos;un convoyeur de base. </Text>
 				</Paragraph>
         <Spacer/>
 				<Header>
-					<Text>Usage</Text>
+					<Text>Utilisation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Feed metal bars into the Stamper from another Conveyor, Conveyor-based machine, or Conveyor Turntable. The Stamper will convert the Bars into Plates which can be used in additional recipes.</Text>
+					<Text>Introduisez des Lingots de métal dans la Presse à partir d&apos;un autre convoyeur, d&apos;une machine à convoyeur ou d&apos;un Plateur Tournant de Convoyeur. La Presse convertira les Lingots en Plaques pouvant être utilisées dans des recettes supplémentaires.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>The Stamper is essential for the automation of Laboratory Research.</Text>
+					<Text>La Presse est essentiel pour l’automatisation de la recherche en laboratoire.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

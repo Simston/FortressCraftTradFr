@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Plate</Text>
+					<Text>Plaque d&apos;Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple tin plate created from tin bars in a Stamper Plant.</Text>
+					<Text>Une simple Plauqe d&apos;Étain créé à partir de Lingots d&apos;Étain dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

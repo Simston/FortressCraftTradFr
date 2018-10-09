@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Sapphire Crystal</Text>
+					<Text>Cristal de Sapphire</Text>
 				</Title>
 				<Icon>
 					<Name>Sapphire Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A sapphire crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -225 to -300.</Text>
+					<Text>Un Cristal de Sapphire est un matériau rare utilisé comme ingrédient de base pour les Améliorations. On peut le trouver dans les grottes entre -225 et -300m.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

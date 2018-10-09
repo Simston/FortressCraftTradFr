@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Solar Panel</Text>
+					<Text>Panneau Solaire</Text>
 				</Title>
 				<Icon>
 					<Name>Solar Panel</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Solar Panels are a low maintenance source of renewable power. They must be placed with direct access to the sky above them and will only generate power during the day. They will distribute this power to any adjacent machine, Power Storage Block or Laser Power Transmitter.</Text>
+					<Text>Les Panneaux Solaires sont une source d&apos;énergie renouvelable nécessitant peu d&apos;entretien. Ils doivent être placés avec un accès direct sur le ciel et ne génèrent de l’énergie que pendant la journée. Ils distribueront cette énergie à toute machine adjacente, bloc de stockage de puissance ou LTE.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Solar Panels have a low internal power capacity and should therefore be backed up by a suitable number of Power Storage Blocks to ensure a reliable supply of power at all times.</Text>
+					<Text>Les panneaux solaires ont une faible capacité d&apos;alimentation interne et doivent donc être soutenus que par un nombre approprié de blocs de stockage d&apos;énergie afin de garantir une alimentation fiable en permanence.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>

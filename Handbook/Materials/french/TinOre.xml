@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Ore</Text>
+					<Text>Minerai d&apos;Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Ore_Sparse</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Found near the surface, Tin Ore can be smelted into Tin Bars using the smelter. Tin Bars are generally used in basic machines requiring a lightweight construction.</Text>
+					<Text>Trouvé près de la surface, le Minerai d&apos;Étain peut être fondu en Lingots de d&apos;Étain à l&apos;aide de la Fonderie. Les Lingots de d&apos;Étain sont généralement utilisées dans les machines basiques nécessitant une construction légère.</Text>
 				</Paragraph>
 				
 				<Spacer/>
@@ -26,12 +26,12 @@
 					1ère Etape de Fonte:
 					2ème Etape de Fonte:</Left>
 					<Right>-5 to -850m
-					Grey with Blue
-					Build Gun MK1
-					Ore Extractor
+					Gris Bleuté
+					Fusil Constructeur MK1
+					Extracteur de Minerai
 					
-					Ore Smelter
-					Blast Furnace setup</Right>
+					Fonderie
+					Config Haut Fourneaux</Right>
 				</TwoColumnParagraph>			</Paragraphs>
 		</Page>
 				

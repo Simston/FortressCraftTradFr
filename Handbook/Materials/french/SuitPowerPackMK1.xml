@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Suit Power Pack MK1</Text>
+					<Text>Alimentation de Combinaison MK1</Text>
 				</Title>
 				<Icon>
 					<Name>Suit Power Pack MK1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Suit Power Pack MK1 is an additional mountable battery that increases the suit’s native internal buffer of 256 power units to 512 power units. This upgrade is primitive and has room for further improvement. Further improvement of this upgrade is impossible until a better heat conducting material can be found to assist in the necessary cooling technology so that the power storage units’ ambient heat does not compromise the suit’s life support systems.</Text>
+					<Text>L&apos;Alimentation de Combinaison MK1 est une batterie supplémentaire pouvant qui augmente la mémoire tampon interne native de la combinaison de 256 unités d&apos;alimentation à 512 unités d&apos;Énergie. Cette amélioration est primitive et peut encore être améliorée. Il est impossible de mettre à niveau encore cette amélioration tant que nous n’aurons pas trouvé un meilleur matériau thermoconducteur qui contribuerait à la technologie de refroidissement nécessaire pour que la chaleur ambiante des unités de stockage d&apos;énergie ne compromette pas les systèmes de maintien de la vie de la Combinaison.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

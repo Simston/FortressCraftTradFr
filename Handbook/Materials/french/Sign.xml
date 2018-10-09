@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Sign</Text>
+					<Text>Signe</Text>
 				</Title>
 				<Icon>
 					<Name>Sign</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Using technology adapted from the crashed ship further improvements have been made on the Cyberdyne EZ-Sign. This new sign is able to be placed and edited. The Sign should be able to display any standard character that the player can type on an international keyboard.</Text>
+					<Text>En utilisant une technologie adaptée du vaisseau accidenté, de nouvelles améliorations ont été apportées au Cyberdyne EZ-Sign. Ce nouveau signe peut être placé et édité. Le signe devrait pouvoir afficher n&apos;importe quel caractère standard que le joueur peut taper sur un clavier international.</Text>
 				</Paragraph>
         <Spacer/>
         <Header>
-          <Text>The signs can be used to modulate many machines.</Text>
+          <Text>Les signes peuvent être utilisés pour moduler de nombreuses machines.</Text>
         </Header>
         
         <TwoColumnParagraph>
           <Left>Machine
 Waypoint
-RoomController
-OreExtractor
+Contrôleur de Salle
+Extracteur de Minerait
           </Left>
-          <Right>Effect
+          <Right>Effet
 HUD element
-Names Room
-Modifies Offline Error
+Noms Salles
+Modifie les Erreurs Hors-Ligne
           </Right>
         </TwoColumnParagraph>
 

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Room Ventilation Grille</Text>
+					<Text>Grille de Ventilation de Salle</Text>
 				</Title>
 				<Icon>
 					<Name>Room Ventilation Grille</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A Room Ventilation Grille improves the Clean rating of your room, required to hit Clean Room designation.</Text>
+					<Text>Une Grille de Ventilation de Salle améliore la cote de propreté de votre pièce, nécessaire pour atteindre la désignation de salle blanche.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

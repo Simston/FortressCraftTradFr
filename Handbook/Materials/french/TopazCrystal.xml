@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Topaz Crystal</Text>
+					<Text>Cristal de Topaze</Text>
 				</Title>
 				<Icon>
 					<Name>Topaz Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A topaz crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -300 to -375.</Text>
+					<Text>Un Cristal de Topaze est un matériau rare utilisé comme ingrédient de base pour les Améliorations. On le trouve dans les cavernes entre les profondeurs -300 et -375 m.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

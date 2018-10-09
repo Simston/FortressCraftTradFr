@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>RoomLight #4</Text>
+					<Text>Lumière Salle #4</Text>
 				</Title>
 				<Icon>
 					<Name>RoomLight #4</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A long and thin light that spans 3 blocks. Paintable and rotatable.</Text>
+					<Text>Une longue et fine lumière qui s&apos;étend sur 3 blocs. Peinturable et rotatif.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

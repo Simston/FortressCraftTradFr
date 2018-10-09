@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Scrap Ore Freighter</Text>
+					<Text>Fret de Minerai en Féraille</Text>
 				</Title>
 				<Icon>
 					<Name>Minecart</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Slow, high capacity freight transit for ores.</Text>
+					<Text>Transit lent et de grande capacité de Fret pour les minerais.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -27,14 +27,14 @@
 				</TwoColumnParagraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Ore freighters are high capacity freight carts.  Unlike their conventional variants they can only carry one item type at a time and it must be a type of harvestable ore.</Text>>
+					<Text>Les Frets de minerai sont des chariots de transport de grande capacité. Contrairement à leurs variantes conventionnelles Minecart, ils ne peuvent transporter qu&apos;un seul type d&apos;élément à la fois et il doit s&apos;agir d&apos;un type de minerai exploitable.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Freight Cart Depot</Material>
 					</Target>
-					<Text>Freight Cart Depot</Text>
+					<Text>Dépôt Chariot de Fret</Text>
 				</Link>
 			</Paragraphs>
 		</Page>				

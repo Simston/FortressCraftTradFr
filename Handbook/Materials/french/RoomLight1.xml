@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>RoomLight #1</Text>
+					<Text>Lumière Salle #1.</Text>
 				</Title>
 				<Icon>
 					<Name>RoomLight #1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A flat light with a rim of metal around it that is connected to the wall by 2 metal bars. Paintable and rotatable.</Text>
+					<Text>Une lumière plate entourée d&apos;un rebord en métal et reliée au mur par 2 barres en métal. Peut être peint et tourné.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

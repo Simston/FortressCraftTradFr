@@ -4,33 +4,33 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Threat Agitator</Text>
+					<Text>Agitateur de Menace</Text>
 				</Title>
 				<Icon>
 					<Name>Threat Agitator</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Using similar technology as the Threat Reducer, each Threat Agitator adds 10% of the base threat and attracts 5 more insectoids. The 10% incress in threat does not stack exponentaliy. The Threat Agitatior uses four times the power of the Threat Calmer for a total of twenty power units par seconde. </Text>
+					<Text>Utilisant une technologie similaire à celle utilisée pour réduire les menaces, chaque agitateur de menaces ajoute 10% de la menace de base et attire 5 autres insectoïdes. Les 10% d&apos;augmentation de menaces ne s&apos;accumulent pas de manière exponentielle. L&apos;Agitateur de Menaces utilise quatre fois l&apos;énergie de la menace la plus calme pour un total de vingt unités d&apos;énergie par seconde. </Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Threat Reducer</Material>
 					</Target>
-					<Text>Threat Reducer</Text>
+					<Text>Réducteur de Menaces</Text>
 				</Link>
 				<Link>
 					<Target>
 						<Material>Threat Scanner</Material>
 					</Target>
-					<Text>Threat Scanner</Text>
+					<Text>Scanner de Menaces</Text>
 				</Link>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Requires power:</Left>
+					<Left>Energie Requise:</Left>
 					<Right>Yes</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Toxic Particle Filter</Text>
+					<Text>Filtre à Particules Toxiques</Text>
 				</Title>
 				<Icon>
 					<Name>Toxic Particle Filter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Advanced filters fitter to the hazard suit allows it to remove toxic substances from the air. You only need one of these and it must be kept in your inventory to function.</Text>
+					<Text>Des filtres avancés adaptés à la Combinaison de protection lui permettent d’éliminer les substances toxiques de l’air. Vous n&apos;avez besoin que d&apos;un seul d&apos;entre eux et il doit être conservé dans votre inventaire pour fonctionner.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

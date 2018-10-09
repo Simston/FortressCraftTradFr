@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Pipe</Text>
+					<Text>Tuyau en Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple tin pipe created from tin bars in a Pipe Extrusion Plant.</Text>
+					<Text>Un simple Tuyau d’étain créé à partir de Lingots d’étain dans une Usine d’Extrusion de Tuyaux.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

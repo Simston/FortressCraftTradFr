@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Bar</Text>
+					<Text>Lingot d&apos;Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Tin Bars are generally used in basic machines requiring a lightweight construction. They are crafted from Tin Ore, which can be found near the surface.</Text>
+					<Text>Les Lingots d&apos;Étain sont généralement utilisées dans les machines basiques nécessitant une construction légère. Ils sont fabriqués à partir de minerai d&apos;étain, qui peut être trouvé près de la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

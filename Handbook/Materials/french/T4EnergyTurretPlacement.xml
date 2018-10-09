@@ -4,7 +4,7 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>T4 Energy Turret</Text>
+					<Text>Tourelle à Énergie T4</Text>
 				</Title>
 				<Icon>
 					<Name>T4_Turret</Name>
@@ -12,11 +12,11 @@
 				</Icon>
         <Spacer/>
 				<Paragraph>
-					<Text>These massive turrets are the highest-damaging energy-based weapon available, and are easily capable of taking down Heavy and Boss class enemies.</Text>
+					<Text>Ces tourelles massives sont l’arme à base d’énergie la plus puissante disponible, et sont facilement capables d’attaquer les ennemis de classe Heavy et Boss.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>These are best paired with T4 PSBs. When a target is located, the Turret will start to charge from available power sources - once full, it will discharge the full stored energy onto the target.</Text>
+          <Text>Celles-ci sont mieux associées aux PSB T4. Lorsqu&apos;une cible est localisée, la tourelle commence à se charger à partir des sources d&apos;énergie disponibles. Une fois remplie, elle décharge toute l&apos;énergie stockée sur la cible.</Text>
         </Paragraph>
         <Spacer/>
 				<Header>

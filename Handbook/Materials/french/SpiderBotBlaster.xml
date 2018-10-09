@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>SpiderBot Blaster</Text>
+					<Text>Blaster de SpiderBot</Text>
 				</Title>
 				<Icon>
 					<Name>SpiderBot Defences 3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This under-slung weapon can target a single enemy and will provide a small amount of rapid-fire defence against faster-moving, smaller targets. Be aware that fitting this can cause major damage to loose topsoil and snow. Be sure you&apos;re prepared for a war-torn zone before fitting this badboy!</Text>
+					<Text>Cette arme peut cibler un ennemi, c&apos;est une défense à tir rapide contre les cibles les plus petites et se déplaçant plus rapidement. Sachez que cela risque d’endommager gravement la couche arable et la neige. Assurez-vous d&apos;être prêt pour une zone déchirée par la guerre avant de monter ce jouet!</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
-					<Text>You only need to craft and fit one of these!</Text>
+					<Text>Un seul suffit!</Text>
 				</Header>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>SpiderBot Base Component</Material>
 					</Target>
-					<Text>More information regarding SpiderBot!</Text>
+					<Text>Plus d&apos;informations sur SpiderBot!</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

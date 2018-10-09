@@ -4,22 +4,22 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ore Smelter</Text>
+					<Text>Fonderie</Text>
 				</Title>
 				<Icon>
 					<Name>Ore Smelter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The smelter will convert raw ore into bars which can be used in the manufacturing plant and elsewhere to craft new machines and items.</Text>
+					<Text>La Fonderie convertira le minerai brut en Lingots pouvant être utilisées dans l’Usine de Fabrication et ailleurs pour fabriquer de nouvelles machines et de nouveaux articles.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Initially you will need to feed the smelter manually, this can be done by pressing the &#39;Interact&#39; button (default &#39;E&#39;) to open the smelter control panel. You can then add ore by pressing the &#39;Feed ore&#39; button, or by dragging a specific type of ore into the smelter. The control panel will indicate how much ore is required per bar while it is empty.</Text>
+					<Text>Initialement, vous devrez alimenter la Fonderie manuellement. Pour ce faire, appuyez sur le bouton &#39;Interact&#39; (par défaut, &#39;E&#39;) pour ouvrir le panneau de configuration de la Fonderie. Vous pouvez ensuite ajouter du minerai en appuyant sur le bouton &#39;Feed Ore&#39; &#39;Ajout Minerai&#39;ou en faisant glisser un type de minerai spécifique dans la Fonderie. Le panneau de contrôle indiquera combien de minerai est requis par Lingot tant qu&apos;il est vide.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Once the smelter has enough ore it will begin heating up, this requires power from an attached power storage block or power generator. When it reaches the correct temperature it will begin converting ore into bars which can be collected by clicking on the output slot at the bottom of the control panel.</Text>
+					<Text>Une fois que la Fonderie a suffisamment de minerai, elle commence à chauffer. Cela nécessite de l&apos;énergie provenant d&apos;un bloc de stockage ou d&apos;un générateur connecté. Lorsqu&apos;il atteint la température correcte, il commence à convertir le minerai en Lingots pouvant être collectées en cliquant sur la fente de sortie située au bas du panneau de commande.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -27,27 +27,27 @@
 		<Page>
 			<Paragraphs>
 				<Header>
-					<Text>Automation</Text>
+					<Text>Automatisation</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>The smelter should be automated as soon as possible with the addition of both input and output storage hoppers. The input hopper should be set to an I/O status of &#39;Remove only&#39;. The input hopper must be big enough to contain the minimum ore requirement.</Text>
+					<Text>La Fonderie devrait être automatisée dès que possible avec l&apos;ajout de trémies de stockage d&apos;entrée et de sortie. La trémie d’entrée doit être réglé sur l’état E/S &#39;Retrait Seul&#39;. La trémie d&apos;entrée doit être suffisamment grande pour contenir le minimum de minerai requis.</Text>
 				</Paragraph>
 
 				<Header>
-					<Text>Upgrades</Text>
+					<Text>Améliorations</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>The speed (and power requirements) of the smelter can be increase through a number of forced induction upgrades which can be researched. Once crafted these upgrades should be placed on top of the smelter.</Text>
+					<Text>La vitesse (et l&apos;énergie requise) de la fonderie peut être augmentée grâce à un certain nombre de d&apos;amélioration par Induction Forcée qui peuvent être recherchées. Une fois fabriqués, ces améliorations doivent être placées sur la Fonderie.</Text>
 				</Paragraph>
 				
 				<Header>
-					<Text>Additional Smelters</Text>
+					<Text>Fonderies Additionnelles</Text>
 				</Header>
 			
 				<Paragraph>
-					<Text>The smelter you start with is an advanced piece of kit which is difficult to replicate. It will take a significant amount of research and some advanced materials to do so successfully. A basic smelter is also available to help relieve the bottleneck however it is slow, inefficient and cannot be upgraded.</Text>
+					<Text>La Fonderie avec laquelle vous commencez est un kit avancé qui est difficile à reproduire. Il faudra beaucoup de recherche et des matériaux avancés pour la fabriquer. Une fonderie de base est également disponible pour aider à réduire le goulot d&apos;étranglement, mais elle est lente, inefficace et ne peut pas être améliorée.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

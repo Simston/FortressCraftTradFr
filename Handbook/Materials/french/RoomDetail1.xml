@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Room Detail 1</Text>
+					<Text>Décoration Salle 1</Text>
 				</Title>
 				<Icon>
 					<Name>Space Warz Siding3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Specifically designed for Rooms.</Text>
+					<Text>Spécialement conçu pour les Salles.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

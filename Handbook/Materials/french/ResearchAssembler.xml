@@ -4,16 +4,16 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Research Assembler</Text>
+					<Text>Assembleur de Recherche</Text>
 				</Title>
 				<Icon>
 					<Name>Research Assembler</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Automatically manufactures experimental research pods from metal plates and PCBs. This should then be connected directly to your Laboratory to provide automated research. 
+					<Text>Fabrique automatiquement des Capsules de Recherche Expérimentale à partir de plaques métalliques et de PCB. Celui-ci doit ensuite être connecté directement à votre Laboratoire pour permettre une recherche automatisée.
           
-					It&#39;s recommended to automate production of these via filters for efficient production, due to their time-consuming nature.
+					Il est recommandé d&apos;automatiser la production de ceux-ci via des filtres pour une production efficace, en raison de leur temps de fabrication fastidieux.
 					</Text>
 				</Paragraph>
 				<Spacer/>
@@ -22,7 +22,7 @@
 				</Header>
 				<TwoColumnParagraph>
 					<Left>Temps de Fabrication:
-					Power Required(Peak):
+					Energie Requise(Pic):
 					Capacité Energie:
 					Max. Taux de Recharge:</Left>
 					<Right>15 secondes
@@ -36,7 +36,7 @@
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 			
 			</Paragraphs>

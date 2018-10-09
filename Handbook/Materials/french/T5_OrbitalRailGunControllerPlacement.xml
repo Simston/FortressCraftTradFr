@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>T5_OrbitalRailGunControllerPlacement</Text>
+					<Text>T5_Contrôleur Canon Orbital Placement</Text>
 				</Title>
 				<Icon>
 					<Name>OrbitalRailGunController</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Orbital Railgun is your final goal in conquering this planet</Text>
+					<Text>Le Cannon Orbital est le dernier objectif pour conquérir cette planète.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

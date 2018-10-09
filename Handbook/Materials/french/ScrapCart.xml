@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Scrap Freight Cart</Text>
+					<Text>Chariot Fret en Féraille</Text>
 				</Title>
 				<Icon>
 					<Name>Minecart</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Slow intelligent resource transport.</Text>
+					<Text>Transport lent intelligent de ressources.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -27,14 +27,14 @@
 				</TwoColumnParagraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Slow moving cart capable of intelligent distribution of goods between stations.</Text>
+					<Text>Chariot lent capable de distribuer intelligemment les marchandises entre les Stations.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Freight Cart Depot</Material>
 					</Target>
-					<Text>Freight Cart Depot</Text>
+					<Text>Dépôt Chariot de Fret</Text>
 				</Link>
 			</Paragraphs>
 		</Page>				

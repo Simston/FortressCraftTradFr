@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Warning Strobe</Text>
+					<Text>Stroboscope d&apos;Avertissement</Text>
 				</Title>
 				<Icon>
 					<Name>Warning Strobe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Attach to a machine to monitor it.</Text>
+					<Text>Attacher à une machine pour la surveiller.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Workfloor Excavator MK2</Text>
+					<Text>Excavatrice de Plancher MK2</Text>
 				</Title>
 				<Icon>
 					<Name>WorkFloorExcavator MK2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Creating a basic mining face is a lot of tedious, if done by hand. This machine will clear a 3 mètre tall tunnel, in a 32m range. This model WILL clear ores, meaning you can use this for areas that need large machines built. Wide-open work spaces are conducive to organised bases!</Text>
+					<Text>Créer une face minière basique est très fastidieux, s’il est fait à la main. Cette machine dégagera un tunnel de 3 mètres de hauteur, dans un rayon de 32 m. Ce modèle dégage les minerais, ce qui signifie que vous pouvez l&apos;utiliser pour les zones nécessitant la construction de grosses machines. Les espaces de travail ouverts sont propices à des bases organisées! </Text>
 				</Paragraph>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
@@ -20,13 +20,13 @@
 					<Left>Portée:
 					Capacité Energie:
 					Energie par Bloc:
-					Détruit les Linerais:
+					Détruit les Minerais:
 					Max. Taux de Recharge:
 					</Left>
 					<Right>32m
 					512
 					16
-					Yes
+					Oui
 					Illimité
 					</Right>
 				</TwoColumnParagraph>

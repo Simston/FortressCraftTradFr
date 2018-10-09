@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Steel Alloy Smelter</Text>
+					<Text>Fonderie Alliage d&apos;Acier</Text>
 				</Title>
 				<Icon>
 					<Name>Steel Alloy Smelter</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Automatically smelts Low-grade Steel Bars from Iron and Nickel.</Text>
+					<Text>Fusionne automatiquement les Lingots d&apos;Acier provenant du Fer et Nickel.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires hoppers holding at least 1 Iron Bar and Nickel Bar to start the alloying process.</Text>
+					<Text>Cette machine nécessite des trémies contenant au moins une Lingot de Fer et une Lingot de Nickel pour démarrer le processus d&apos;alliage.</Text>
 				</Paragraph>
 
 				<Header>

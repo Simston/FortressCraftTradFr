@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Room Light Reflector</Text>
+					<Text>Réflecteur de Lumière</Text>
 				</Title>
 				<Icon>
 					<Name>Space Column</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Reinforced wall, specifically designed for Rooms.</Text>
+					<Text>Mur renforcé spécialement conçu pour les pièces.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ruined Stinger</Text>
+					<Text>Dard Abîmé</Text>
 				</Title>
 				<Icon>
 					<Name>WaspStingerRuined</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This stinger is exceptionally sharp but too badly damaged to be of any use.</Text>
+					<Text>Ce Dard est exceptionnellement tranchant mais trop endommagé pour être utile.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

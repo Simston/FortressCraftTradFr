@@ -168,8 +168,8 @@
   <string name="High Octane Fuel">Carburant à Haute Teneur en Octane</string>
   <string name="Gold Bar">Lingot d&apos;Or</string>
   <string name="Gold Bars">Lingots d&apos;Or</string>
-  <string name="Tin Bar">Lingot d&apos;étain</string>
-  <string name="Tin Bars">Lingots d&apos;étain</string>
+  <string name="Tin Bar">Lingot d&apos;Étain</string>
+  <string name="Tin Bars">Lingots d&apos;Étain</string>
   <string name="Nickel Bar">Lingot de Nickel</string>
   <string name="Nickel Bars">Lingots de Nickel</string>
   <string name="Titanium Bar">Lingot de Titane</string>
@@ -182,8 +182,8 @@
   <string name="Iron Gear">Engrenage en Fer</string>
   <string name="Iron Gears">Engrenages en Fer</string>
   <string name="Copper Wire (Old)">Fil de Cuivre (Vieux)</string>
-  <string name="Servo Motor">Servomoteur</string>
-  <string name="Servo Motors">Servomoteurs</string>
+  <string name="Servo Motor">ServoMoteur</string>
+  <string name="Servo Motors">ServoMoteurs</string>
   <string name="Lightweight Machine Plate">Plaque de Machine Légère</string>
   <string name="Lightweight Machine Plates">Plaques de Machine Légères</string>
   <string name="Lightweight Machine Housing">Boîtier de Machine Léger</string>
@@ -529,7 +529,7 @@
   <string name="Bedrock_DESC">Cette roche dense comporte des traces de Fer et de Lithium. Cherchez dans les environs pour trouver des minerais utiles !</string>
   <string name="Sand">Sable</string>
   <string name="Sand_DESC" />
-  <string name="Tree Trunk">Tronc d'&apos;'Arbre</string>
+  <string name="Tree Trunk">Tronc d&apos;Arbre</string>
   <string name="Tree Trunk_DESC" />
   <string name="Window">Fenêtre</string>
   <string name="Window_DESC" />
@@ -883,7 +883,7 @@
   <string name="Cold Cavern Flora 6_DESC">Cette plante semble pousser dans une atmosphère froide.</string>
   <string name="Cold Cavern Flora 7">Flore de Caverne Gelée 7</string>
   <string name="Cold Cavern Flora 7_DESC">Cette plante semble pousser dans une atmosphère froide.</string>
-  <string name="TundraBreath">Souffle de Toundra</string>
+  <string name="TundraBreath">TundraBreath</string>
   <string name="TundraBreath_DESC">Cela ne semble pas encore très utile.</string>
   <string name="Toxic Cavern Flora 1">Flore de Caverne Toxique 1</string>
   <string name="Toxic Cavern Flora 1_DESC">Cette plante semble pousser dans une atmosphère toxique.</string>
@@ -915,7 +915,7 @@
   <string name="Rough Hewn Rock_DESC" />
   <string name="Chilled Cavern Stone">Pierre de Caverne Glacée</string>
   <string name="Chilled Cavern Stone_DESC" />
-  <string name="Toxic Cavern Stone">Pierre de Caverne Toxique</string>
+  <string name="Toxic Cavern Stone">Roche de Caverne Toxique</string>
   <string name="Toxic Cavern Stone_DESC" />
   <string name="Bare Wood Floor">Plancher en Bois Nu</string>
   <string name="Bare Wood Floor_DESC" />
@@ -1041,9 +1041,9 @@
   <string name="Conveyor Belt_DESC">Transporte les matériaux depuis les Trémies de Stockage</string>
   <string name="Conveyor Belt Filter">Convoyeur Filtrant</string>
   <string name="Conveyor Belt Filter_DESC">Trie les matériaux en fonction des filtres</string>
-  <string name="Transport Pipe">Tuyau de Transport</string>
+  <string name="Transport Pipe">Tube de Transport</string>
   <string name="Transport Pipe_DESC">Permet de transporter dans toutes les directions</string>
-  <string name="Transport Pipe Filter">Tuyau de Transport Filtrant</string>
+  <string name="Transport Pipe Filter">Tube de Transport Filtrant</string>
   <string name="Transport Pipe Filter_DESC">Supprime les matériaux en fonction des règles</string>
   <string name="Stamper Plant">Presse</string>
   <string name="Stamper Plant_DESC">Transforme les Lingots en Plaques</string>
@@ -1283,7 +1283,7 @@
   <string name="Track Point_DESC" />
   <string name="Track Station">Rail Station</string>
   <string name="Track Station_DESC" />
-  <string name="Threat Agitator">Agitateur de Menaces</string>
+  <string name="Threat Agitator">Agitateur de Menace</string>
   <string name="Threat Agitator_DESC">Génère de la menace supplémentaire.</string>
   <string name="Threat Reducer">Réducteur de Menace</string>
   <string name="Threat Reducer_DESC">Diminue la menace actuelle.</string>
@@ -1329,7 +1329,7 @@
   <string name="Armour Piercing Warhead Fitter_DESC">Utilise des Dards Parfaits pour faire des Projectiles Perce-Armure.</string>
   <string name="Warhead Imbuer">Imprégnateur d&apos;Ogive</string>
   <string name="Warhead Imbuer_DESC">Imprègne les Missiles Basiques avec l&apos;énergie du Plasma Enrichi.</string>
-  <string name="SpiderBot Core Charger">Chargeur du cœur du SpiderBot</string>
+  <string name="SpiderBot Core Charger">Chargeur du Coeur du SpiderBot</string>
   <string name="SpiderBot Core Charger_DESC">Imprègne les Bobines de Lithium avec de l&apos;énergie. Alimente le SpiderBot via le quai de rechargement avec une Trémie de Stockage.</string>
   <string name="Liquid Resin Refiner">Raffinerie de Résine Liquide</string>
   <string name="Liquid Resin Refiner_DESC" />
@@ -1429,7 +1429,7 @@
   <string name="Geothermal Generator comp._DESC">Génère de l&apos;énergie par différence de température. construire en configuration 5x5 horizontalement et 3 de hauteur.</string>
   <string name="Trencher Drill component">Composant de Tête de Coupe</string>
   <string name="Trencher Drill component_DESC">Forme la tête de coupe d&apos;une Foreuse. Construire en 3*3*3 à placer devant un moteur (27 au total)</string>
-  <string name="Trencher Motor component">Composant Moteur Foreuse</string>
+  <string name="Trencher Motor component">Composant Moteur Foreuse à Tranchant</string>
   <string name="Trencher Motor component_DESC">Forme le moteur d&apos;une Foreuse. Construire en configuration 3*3*3 à l&apos;arrière d&apos;une Tête de Coupe. (27 au total)</string>
   <string name="Blast Furnace component">Composant Haut Fourneau</string>
   <string name="Blast Furnace component_DESC">Forme un haut fourneau. Construire dans une configuration 3x7x3. (63 au total)</string>
@@ -1584,7 +1584,7 @@
   <string name="Chilled Reinforced Rock_DESC" />
   <string name="Critter">Bestiole</string>
   <string name="Critter_DESC" />
-  <string name="Waypoint Machine">Machine Balise</string>
+  <string name="Waypoint Machine">Machine à Balise</string>
   <string name="Waypoint Machine_DESC">Placez ceci et donne le pouvoir de générer automatiquement un Point de repère. Remplacez le nom du point de repère en plaçant un signe adjacent.</string>
   <string name="ConstructoBot Direction">Direction pour ConstructoBot</string>
   <string name="ConstructoBot Direction_DESC">Force les ConstructoBots à aller dans cette direction.</string>
@@ -2531,7 +2531,7 @@
   <string name="MISSION_Build a Forced Induction Kit">Fabriquez un Kit d&apos;Induction Forcée.</string>
   <string name="MISSION_Critical Research Automation">Recherche Critique : Automatisation.</string>
   <string name="MISSION_Build an Ore Thief">Fabriquez un Voleur de Minerai.</string>
-  <string name="MISSION_Build a Threat Scanner">Fabriquez un Scaneur de Menaces.</string>
+  <string name="MISSION_Build a Threat Scanner">Fabriquez un Scanner de Menaces.</string>
   <string name="MISSION_Build Research Assembler">Fabriquez un Assembleur de Recherche.</string>
   <string name="MISSION_Critical Research Laboratories">Recherche Critique : Laboratoires.</string>
   <string name="MISSION_Build a 3x3x3 Laboratory">Fabriquez un Laboratoire 3x3x3 !</string>
@@ -4650,9 +4650,9 @@
   <string name="UI_Power_Delta_X">Delta Energie: {0}</string>
   <string name="UI_T_Store_Power">T pour stocker l&apos;énergie</string>
   <string name="UI_Q_Retrive_Power">A pour Récuperer l&apos;énergie</string>
-  <string name="UI_Automated_Zipper_merge">Automated Zipper Merge&#xD;&#xA;(En attente de Brevet)</string>
-  <string name="UI_Zipper_Merge_3n1">Zipper Merge (Three&apos;n&apos;One edition!)&#xD;&#xA;(En attente de Brevet)</string>
-  <string name="UI_Rapid_Zipper_merge">Rapid Zipper Merge&#xD;&#xA;(En attente de Brevet)</string>
+  <string name="UI_Automated_Zipper_merge">Fusionneur Automatique&#xD;&#xA;(En attente de Brevet)</string>
+  <string name="UI_Zipper_Merge_3n1">Fusionneur 3en1&#xD;&#xA;(En attente de Brevet)</string>
+  <string name="UI_Rapid_Zipper_merge">Fusionneur Rapide&#xD;&#xA;(En attente de Brevet)</string>
   <string name="UI_Bender_Plant">Usine Cintreuse</string>
   <string name="UI_Pipe_Extruder_desc">Extrudeuse de Tuyaux&#xD;&#xA;Convertit les Lingots en Tubes</string>
   <string name="UI_Extruder_desc">Usine Extrudeuse&#xD;&#xA;Convertit les Lingots en Fils</string>

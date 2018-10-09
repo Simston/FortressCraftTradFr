@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Plate</Text>
+					<Text>Plaque de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Plate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple titanium plate created from titanium bars in a Stamper Plant.</Text>
+					<Text>Une simple Plaque de Titane créée à partir de Lingots de Titane dans une Presse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

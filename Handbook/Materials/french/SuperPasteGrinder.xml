@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Super Construction Paste Grinder</Text>
+					<Text>Broyeur de Pâte de Construction</Text>
 				</Title>
 				<Icon>
 					<Name>Super Construction Paste Grinder</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Uses &apos;garbage&apos; or Coal blocks to make Construction Paste at a 1:8 ratio.</Text>
+					<Text>Utilise &apos;Déchets&apos; ou des blocs de charbon pour obtenir une pâte de construction à un ratio de 1:8.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

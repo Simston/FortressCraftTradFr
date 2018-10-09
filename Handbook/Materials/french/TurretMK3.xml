@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Turret MK3</Text>
+					<Text>Tourelle MK3</Text>
 				</Title>
 				<Icon>
 					<Name>Pop Up Turret MK3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Long range energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+					<Text>Défense basée sur l&apos;énergie à longue portée. Doit être alimenté par un Générateur d&apos;Énergie, un bloc de stockage de puissance ou un LTE.</Text>
 				</Paragraph>
 				<Spacer/>
         <Paragraph>
-          <Text>The MK3 turret is substantially more power-efficient than previous tiers of turrets, and the usual limiting factor in a successful defence is placement and then power usage - not generally &apos;number of turrets&apos;</Text>
+          <Text>La Tourelle MK3 est nettement plus efficace en puissance que les niveaux précédents, et le facteur limitant habituel pour une défense efficace est le placement puis la consommation d’énergie, et non le nombre de tourelles.</Text>
         </Paragraph>
         <Spacer/>
 				<Header><Text>Caractéristiques</Text>

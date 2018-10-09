@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mandragora</Text>
+					<Text>Mandragore</Text>
 				</Title>
 				<Icon>
 					<Name>TriSeed</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Une plante indéfinissable trouvée à la surface et dans les cavernes de cette planète. The seeds can be easily crafted into Crude lenses.</Text>
+					<Text>Une plante indéfinissable trouvée à la surface et dans les cavernes de cette planète. Les graines peuvent être facilement transformées en lentilles brutes.</Text>
 				</Paragraph>
 		
 				<Spacer/>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Trencher Motor Component</Text>
+					<Text>Composant Moteur Foreuse à Tranchant</Text>
 				</Title>
 				<Icon>
 					<Name>Trencher Motor component</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Forms the motor of a Trencher Drill. Build in a 3wx3hx3d configuration behind a drill head. (27 in total)</Text>
+					<Text>Forme le moteur d&apos;une Perceuse à Tranchant. Construisez dans un 3lx3hx3p derrière une tête de forage. (27 au total)</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

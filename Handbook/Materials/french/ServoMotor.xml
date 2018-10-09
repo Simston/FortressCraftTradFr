@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Servo Motor</Text>
+					<Text>ServoMoteur</Text>
 				</Title>
 				<Icon>
 					<Name>Servo Motor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Accurate and fast motor.</Text>
+					<Text>Moteur précis et rapide.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

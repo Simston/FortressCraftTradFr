@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Room Wall Panel</Text>
+					<Text>Panneau Mur de Salle</Text>
 				</Title>
 				<Icon>
 					<Name>Space Panel</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Paintable, reinforced wall, specifically designed for Rooms.</Text>
+					<Text>Mur à peindre, renforcé, spécialement conçu pour les salles.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tree Trunk</Text>
+					<Text>Tronc d&apos;Arbre</Text>
 				</Title>
 				<Icon>
 					<Name>Tree Trunk</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Basic ingredient for Wooden Planks. You can get them by cutting down trees. The block can be placed. No manufacturing plant required to craft Wooden Planks.</Text>
+					<Text>Ingrédient de base pour les planches de bois. Vous pouvez les obtenir en abattant des arbres. Le bloc peut être placé. Aucune usine de fabrication nécessaire pour fabriquer des planches de bois.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

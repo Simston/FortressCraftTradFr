@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Bar</Text>
+					<Text>Lingot de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Bar</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Titanium Bars are generally used in advanced machines requring a strong an lightweight construction. They are crafted from Titanium Ore, which can be found at least 350m below the surface.</Text>
+					<Text>Les Lingots de Titane sont généralement utilisées dans les machines de pointe nécessitant une construction solide et légère. Ils sont fabriqués à partir de minerai de titane, qui peut être trouvé à moins de 350 m sous la surface.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

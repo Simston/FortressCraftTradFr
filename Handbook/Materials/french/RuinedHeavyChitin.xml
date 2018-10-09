@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ruined Heavy Chitin</Text>
+					<Text>Chitine Lourde Abîmée</Text>
 				</Title>
 				<Icon>
 					<Name>WaspHeavyChitinRuined</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Pronounced KY-tin, Chitin is a long-chain polymer containing carbon, hydrogen, oxygen and nitrogen. It appears to be a fundamental component of many local lifeforms.</Text>
+					<Text>La chitine est un polymère à longue chaîne contenant du carbone, de l&apos;hydrogène, de l&apos;oxygène et de l&apos;azote. Cela semble être un élément fondamental de nombreuses formes de vie locales.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

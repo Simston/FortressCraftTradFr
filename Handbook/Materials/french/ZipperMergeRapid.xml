@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Rapid Zipper Merge</Text>
+					<Text>Fusionneur Rapide</Text>
 				</Title>
 				<Icon>
 					<Name>Zipper Merge Fast</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Rapidly combines 2 lines into 1 with a guaranteed 50:50 ratio.</Text>
+					<Text>Combine rapidement 2 lignes en 1 avec un rapport garanti 50:50.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

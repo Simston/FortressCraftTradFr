@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Toxic Cavern Stone</Text>
+					<Text>Roche de Caverne Toxique</Text>
 				</Title>
 				<Icon>
 					<Name>Toxic Cavern Flora 4</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This material is found around 400 to 700 mètres below the surface. The block causes no poison damage itself, although the caverns in which you find them are filled with poisonous particles. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</Text>
+					<Text>Ce matériau se trouve à environ 400 à 700 mètres sous la surface. Le bloc ne cause aucun dommage de poison, bien que les cavernes dans lesquelles vous les trouvez soient remplies de particules toxiques. Peut être broyé dans un Macérateur pour éventuellement extraire du minerai utile. Le bloc peut être placé.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

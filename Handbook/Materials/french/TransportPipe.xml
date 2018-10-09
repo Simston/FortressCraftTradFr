@@ -4,31 +4,31 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Transport Pipe</Text>
+					<Text>Tube de Transport</Text>
 				</Title>
 				<Icon>
 					<Name>Transport Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Transport Pipes are far more expensive than regular conveyors however they are much faster, immune to extreme cold, and far less susceptible to attack due to their enclosed nature. Like the conveyor belt they also do not require external power.</Text>
+					<Text>Les Tubes de Transport coûtent beaucoup plus cher que les Convoyeurs ordinaires, mais ils sont beaucoup plus rapides, insensibles au froid extrême et beaucoup moins susceptibles d&apos;être attaqués en raison de leur cloisons fermées. Comme le Convoyeur, ils ne nécessitent pas d&apos;alimentation externe.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>Upgrading your network to use Transport Pipes should be considered a long term project. Initially focus on the bottlenecks.</Text>
+					<Text>L&apos;améliorations de votre réseau pour utiliser les tubes de transport doit être considérée comme un projet à long terme. Concentrez-vous d&apos;abord sur les goulots d&apos;étranglement.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Usage</Text>
+					<Text>Utilisation</Text>
 				</Header>
 				<Paragraph>
-					<Text>Transport Pipes follow the same rules as the regular Conveyors. To saturate them, either use a Motorised Conveyor or collapse several lines into one.</Text>
+					<Text>Les Tubes de Transportt suivent les mêmes règles que les convoyeurs classiques. Pour les saturer, utilisez un convoyeur motorisé ou réduisez plusieurs lignes en une seule.</Text>
 				</Paragraph>
         <Spacer/>
 				<Link>
 					<Target>
 						<Material>Conveyor Belt</Material>
 					</Target>
-					<Text>Conveyor Belt</Text>
+					<Text>Convoyeurs</Text>
 				</Link>
 				<Spacer/>
 			</Paragraphs>

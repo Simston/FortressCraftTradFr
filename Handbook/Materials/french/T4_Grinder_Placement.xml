@@ -4,30 +4,30 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Hard Rock Grinder</Text>
+					<Text>Broyeur de Roche Dure</Text>
 				</Title>
 				<Icon>
 					<Name>T4_Grinder</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>We&#39;re going to need to bootstrap our machines. To this end, we&#39;ve got a single-use Grinder - a couple of these should just about give us enough ore to construct a much larger, tougher drilling machine.</Text>
+					<Text>Nous allons devoir amorcer nos machines. À cette fin, nous avons un Broyeur à usage unique. Quelques-uns d&apos;entre eux devraient nous donner assez de minerai pour construire une machine de forage beaucoup plus grande et plus solide.</Text>
 				</Paragraph>
 	
 				<Spacer/>
 			
 				<Paragraph>
-					<Text>Usage should be pretty straightforward. Find or make a 3x3 horizontal flat area of the ore you want (Chromium or Molybdenum), place the Grinder down, give it power, wait until completion, and give it plenty of Storage Hoppers to offload the final material into.</Text>
+					<Text>L&apos;utilisation devrait être assez simple. Trouvez ou faites une zone horizontale 3x3 du minerai que vous voulez (Chrome ou Molybdène), placez le Broyeur vers le bas, donnez-lui de l&apos;énergie, attendez la fin et laissez-lui suffisamment de trémies de stockage pour décharger le matériau final.</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Paragraph>
-					<Text>If you&#39;re having issues finding a 3x3 horizontal area, then the Nano Disintegrator or Charged Explosives are your friends!</Text>
+					<Text>Si vous rencontrez des problèmes pour trouver une zone horizontale 3x3, alors le Désintégrateur Nano ou les Charges Explosives sont vos amis!</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				<Paragraph>
-					<Text>These machines are horribly inefficient and expensive, and require a large amount of the refined Resin from the Hiveminds surrounding us. We should move onto better miners ASAP.</Text>
+					<Text>Ces machines sont horriblement inefficaces et coûteuses, et nécessitent une grande quantité de Résine Raffinée des Hiveminds qui nous entourent. Nous devrions passer à de meilleurs Foreuses dès que possible.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
@@ -38,7 +38,7 @@
 					<Target>
 						<Material>NanoDisintegrator</Material>
 					</Target>
-					<Text>NanoDisintegrator</Text>
+					<Text>Désintégrateur Nano</Text>
 				</Link>
 
 				<Icon>
@@ -52,11 +52,11 @@
 					<Text>Caractéristiques</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>Grinding Time:
+					<Left>Temps de Broyage:
 					Energie Requise:
 					Capacité Energie:
 					Max. Taux de Recharge:
-					Ore Mined:</Left>
+					Minerai Extrait:</Left>
 					<Right>600 secondes
 					512 par seconde
 					4096

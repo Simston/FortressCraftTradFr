@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Pipe</Text>
+					<Text>Tuyau en Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Pipe</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple titanium pipe created from titanium bars in a Pipe Extrusion Plant.</Text>
+					<Text>Un simple tuyau en titane créé à partir de Lingots de Titane dans une Usine d’Extrusion de Tuyaux.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

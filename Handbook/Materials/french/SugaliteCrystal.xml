@@ -4,19 +4,19 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Sugalite Crystal</Text>
+					<Text>Cristaux de Sugulite</Text>
 				</Title>
 				<Icon>
 					<Name>Sugalite Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A sugalite crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -375 to -2500+.</Text>
+					<Text>Un cristal de sugalite est un matériau rare utilisé comme ingrédient de base pour les Améliorations. On peut le trouver dans les cavernes situées entre les profondeurs comprises entre -375 et -2500+ m.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Trucs et Astuces.</Text>
 				</Header>
-				<Paragraph><Text>You may encounter sugalite crystals in all deep caves. It&#39;s a rare find. At extreme depths cave generation stops.</Text>
+				<Paragraph><Text>Vous pouvez rencontrer des cristaux de sugalite dans toutes les cavernes profondes. C&apos;est une trouvaille rare. Aux profondeurs extrêmes, la ou la génération de cavernes ce finie.</Text>
 </Paragraph>
 				
 			</Paragraphs>

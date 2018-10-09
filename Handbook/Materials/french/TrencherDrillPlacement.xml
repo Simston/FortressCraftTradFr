@@ -4,26 +4,26 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Trencher Drill</Text>
+					<Text>Foreuse à Tranchant</Text>
 				</Title>
 				<Icon>
 					<Name>Trencher Drill component</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>These massive multi-block drilling machines can be used to harvest all known materials in a very rapid fashion. To build one, you&#39;ll need to build the drillhead in a 3x3x3 layout, then the motor in a 3x3x3 fashion, touching it. The Trencher&#39;s facing is dictated by this; the motor always goes at the back. You can use this to make Trencher face any angle, including straight up!</Text>
+					<Text>Ces énormes machines de forage multi-blocs peuvent être utilisées pour récolter très rapidement tous les matériaux connus. Pour en construire un, vous devez construire la tête de forage dans une disposition 3x3x3, puis le moteur 3x3x3 accolés ensemble. Le face du Trancheur en avant; le moteur va toujours à l&apos;arrière. Vous pouvez vous en servir dans n’importe quel angle, y compris droit!</Text>
 				</Paragraph>
 	
 				<Spacer/>
 			
 				<Paragraph>
-					<Text>Be aware that these new drills are very power-hungry, and can drop off hundreds of ore per minute. You&#39;ll need to think big when it comes to moving this stuff up to the Cold Caverns for smelting - Cargo Lifts and Minecarts are the order of the day!</Text>
+					<Text>Sachez que ces nouvelles foreuses consomment beaucoup d&apos;énergie et peuvent déposer des centaines de minerai à la minute. Vous aurez besoin de voir grand quand il s&apos;agira de déplacer ces matériaux dans les Cavernes Froides pour qu&apos;ils soient fondus - les ascenseurs à cargaison et les minecarts sont à l&apos;ordre du jour!</Text>
 				</Paragraph>
 				
 				<Spacer/>
 				
 				<Paragraph>
-					<Text>The currently fitted drills have a very high ore loss depending on the hardness or brittleness of ores. This drill needs to be improved if veins are to last for longer times.</Text>
+					<Text>Les foreuses actuellement équipées présentent une perte de minerai très importante en fonction de la dureté ou de la fragilité des minerais. Cet exercice doit être amélioré pour que les veines durent plus longtemps.</Text>
 				</Paragraph>
 				
 				<Spacer/>

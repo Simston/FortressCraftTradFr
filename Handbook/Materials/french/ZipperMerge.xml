@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Zipper Merge</Text>
+					<Text>Fusionneur</Text>
 				</Title>
 				<Icon>
 					<Name>Zipper Merge</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Zipper Merge flawlessly combines two conveyor lines at a 1:1 ratio. The zipper merge should be able to output at 100 items a minute. The zipper merge is most useful for automating items that need an even amount of two items like Low-Grade Steel Alloy.</Text>
+					<Text>Le Fusionneur combine parfaitement deux lignes de convoyeurs dans un rapport 1:1. Le Fusionneur devrait pouvoir déplacer 100 éléments par minute. La fusion est particulièrement utile pour automatiser des éléments nécessitant un nombre pair de deux éléments, par exemple un Alliage d&apos;Acier de qualité inférieure.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>

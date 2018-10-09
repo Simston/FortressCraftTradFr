@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Wire</Text>
+					<Text>Fil de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple titanium wire created from titanium bars in an Extrusion Plant.</Text>
+					<Text>Un simple Fil de Titane créé à partir de Lingots de Titane dans une Usine d&apos;Extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

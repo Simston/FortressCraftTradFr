@@ -4,55 +4,55 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Slime Attractor</Text>
+					<Text>Attracteur de Slime</Text>
 				</Title>
 				<Icon>
 					<Name>Slime Attractor</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>	The Slime Attractor is the first step to defeating the menaces that roam this hostile environment. Using the rotting remains of their comrades the attraction of slimes is now possible. </Text>
+					<Text>	L&apos;Attracteur de Slime est la première étape pour éliminer les menaces qui envahissent cet environnement hostile. En utilisant les restes de pourriture de leurs camarades, l’attraction des Slimes est maintenant possible. </Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>	Though turret technology cannot detect this specific menace the frequent deaths of slimes at the hands of gravity shows that slimes are not invincible to more natural means of destruction.</Text>
+					<Text>	Bien que la technologie des tourelles ne puisse détecter cette menace spécifique, la mort fréquente de Slimes dues à la gravité montre que ces Slimes ne sont pas invincibles avec des moyens de destruction plus naturels.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>Spoiled Organic Remains</Material>
 					</Target>
-					<Text>Spoiled Organic Remains</Text>
+					<Text>Restes Organiques Pourris</Text>
 				</Link>
 				<Spacer/>
 				<Header><Text>Caractéristiques</Text>
 </Header>
 				<TwoColumnParagraph>
-					<Left>Requires power:
-					Requirments:</Left>
-					<Right>No
-					Spoiled Organic Remains</Right>
+					<Left>Energie Requise:
+					Exigences:</Left>
+					<Right>Non
+					Restes Organiques Pourris</Right>
 				</TwoColumnParagraph>
 			</Paragraphs>
 		</Page>
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Troubleshooting </Text>
+					<Text>Dépannage </Text>
 				</Title>
 				<Spacer/>
 				<Spacer/>
 				<Spacer/>
 				<Paragraph>
-					<Text>* Slimes will occasionally get stuck due to poor pathing to the trap, or a bad spawn location. A well-running trap should have Slimes dying on a regular basis. If that&#39;s not the case, walk around and look for trouble spots where slimes collect in groups.</Text>
+					<Text>* Les Slimes seront parfois bloquées en raison d&apos;un mauvais cheminement vers le piège ou d&apos;un mauvais emplacement. Un piège qui fonctionne bien devrait entraîner la mort régulière de Slimes. Si ce n&apos;est pas le cas, promenez-vous et cherchez les points chauds où les Slimes se rassemblent en groupes.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>* Like players, Slimes can travel up 1m block heights automatically. Therefore, look for hills and valleys that Slimes may be stuck behind because there isn&#39;t a smooth transition in heights. If you find any try to smooth it out for them. If it&#39;s a large mountain, often a simple tunnel can provide an adequate path. Additionally, Slimes can get stuck in 1m tall spaces. Like players, they need 2m tall spaces to move, so either fill in the 1m tall gaps (kill the slime with your gun first) or dig out a 2m space.</Text>
+					<Text>* Comme les joueurs, les Slimes peut voyager automatiquement jusqu’à 1m de hauteur. Par conséquent, recherchez les collines et les vallées derrière lesquelles Slimes pourrait être coincé, car il n’ya pas de transition en douceur dans les hauteurs. Si vous en trouvez, essayez de les traiter. S&apos;il s&apos;agit d&apos;une grande montagne, un simple tunnel peut souvent constituer un chemin adéquat. De plus, les Slimes peuvent rester coincés dans des espaces d’un mètre de hauteur. Comme les joueurs, ils ont besoin de 2 m de hauteur pour bouger. Vous devez donc combler les vides de 1 m (tuez les slimes avec votre arme) ou creusez un espace de 2 m.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Paragraph>
-					<Text>* Try building your Slime Attractor far from your base. Underground floors that have been excavated as well as well as terrain damage from SpiderBot can all create unexpected terrain complications for Slimes. </Text>
+					<Text>* Essayez de construire votre Attracteur de Slime loin de votre base. Les sols souterrains creusés ainsi que les dégâts de terrain causés par SpiderBot peuvent tous créer des complications inattendues sur le terrain pour les Slimes. </Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

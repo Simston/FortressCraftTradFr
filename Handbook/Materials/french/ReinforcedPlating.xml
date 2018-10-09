@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Reinforced Plating</Text>
+					<Text>Placage Renforcé</Text>
 				</Title>
 				<Icon>
 					<Name>Plating</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Paintable, reinforced wall, specifically designed for Rooms.</Text>
+					<Text>Mur à peindre, renforcé, spécialement conçu pour les salles.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Rubble</Text>
+					<Text>Gravats</Text>
 				</Title>
 				<Icon>
 					<Name>Rubble</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Found as by-product during manual ore mining. Can be crushed in macerator to possibly extract useful ore. The block can be placed.</Text>
+					<Text>Trouvé comme sous-produit lors de l&apos;extraction manuelle du minerai. Peut être broyé dans un Macérateur pour éventuellement extraire du minerai utile. Le bloc peut être placé.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ruby Crystal</Text>
+					<Text>Cristal de Rubis</Text>
 				</Title>
 				<Icon>
 					<Name>Ruby Crystal</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A ruby crystal is a rare material used as base ingredient for upgrades. It can be found in caves between depth -150 to -225.</Text>
+					<Text>Un cristal de rubis est un matériau rare utilisé comme ingrédient de base pour les Améliorations. On peut le trouver dans les grottes entre -150 et -225m.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Lithium Coil Charger</Text>
+					<Text>Chargeur de Bobine de Lithium</Text>
 				</Title>
 				<Icon>
 					<Name>SpiderBot Core Charger</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This charger uses a moderate amount of power to charge Lithium Coils for use as components by many energy handling machines.</Text>
+					<Text>Ce chargeur utilise une quantité modérée d’énergie pour charger des bobines de lithium qui serviront de composants à de nombreuses machines de traitement de l’énergie.</Text>
 				</Paragraph>
 				<Paragraph>
-					<Text>This machine requires a hopper holding at least 5 Lithium Coils to start the charging process.</Text>
+					<Text>Cette machine nécessite une trémie contenant au moins 5 bobines de lithium pour démarrer le processus de chargement.</Text>
 				</Paragraph>
 
 				<Header>

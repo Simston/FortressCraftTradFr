@@ -4,18 +4,18 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Turret MK2</Text>
+					<Text>Tourelle MK2</Text>
 				</Title>
 				<Icon>
 					<Name>Pop Up Turret MK2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Basic energy-based defence. Must be powered by an adjacent Power Generator, Power Storage Block or via a Laser Power Transmitter.</Text>
+					<Text>Défense de base basée sur l&apos;énergie. Doit être alimenté par un Générateur d&apos;Énergie, un Bloc de Stockage d&apos;Énergie ou un LTE adjacent.</Text>
 				</Paragraph>
         <Spacer/>
         <Paragraph>
-          <Text>The MK2 turret is more power-efficient than the MK1. The the usual limiting factor in a successful defence is placement and then power usage - you are likely to need to upgrade these turrets with drops from the larger mobs.</Text>
+          <Text>La tourelle MK2 est plus économe en énergie que la MK1. Le facteur limitant habituel d’une défense efficace est le placement puis la consommation d’énergie. Vous devrez probablement mettre à niveau ces tourelles avec des drops provenant des monstres les plus importants.</Text>
         </Paragraph>
         <Spacer/>
         

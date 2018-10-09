@@ -4,28 +4,28 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Track Junction</Text>
+					<Text>Jonction de Piste</Text>
 				</Title>
 				<Icon>
 					<Name>TrackJunction</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Track Junction is the key to enabling intelligent distribution of resources across your entire fortress. Junctions link to each other to form a transport grid that freight carts can navigate to freight station destinations. With these it is possible to connect every production center, near and far, with a supply of resources from anywhere in the fortress.</Text>
+					<Text>La jonction de piste est la clé pour permettre une distribution intelligente des ressources sur l’ensemble de votre forteresse. Les jonctions se lient les unes aux autres pour former un réseau de transport dans lequel les chariots de fret peuvent naviguer vers les Stations de fret. Avec ceux-ci, il est possible de connecter tous les centres de production, proches et lointains, avec un approvisionnement en ressources de n&apos;importe où dans la forteresse.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>			
 		<Page>
 			<Paragraphs>
 				<Title>
-				<Text>Track Networks</Text>
+				<Text>Réseau de Pistes</Text>
 				</Title>
 				<Paragraph>
-				<Text>The track junction&apos;s color will change to reflect the number of registered connections. Red indicates no connections have been registered, orange indicates 1, yellow 2, green 3, and blue indicates all 4 routes are connected.
+				<Text>La couleur de la jonction de piste changera pour refléter le nombre de connexions enregistrées. Le rouge indique qu&apos;aucune connexion n&apos;a été enregistrée, l&apos;orange indique 1, le jaune 2, le vert 3 et le bleu indique que les 4 routes sont connectées.
 					
-				It is perfectly valid for a junction path to lead back to itself. A connection can lead to a station, turn the cart around with a buffer, and return to the original junction and register as a valid connection. Closed loops that do not end at a junction however are forbidden.
+				Il est parfaitement valable pour un chemin de jonction de revenir sur lui-même. Une connexion peut mener à une station, faire pivoter le chariot avec un tampon de chariot, revenir à la jonction d&apos;origine et s&apos;enregistrer en tant que connexion valide. Les boucles fermées qui ne se terminent pas à une jonction sont toutefois interdites.
 				
-				Currently, connections are only recognized as broken when a junction, station, or depot is removed. If a track connected to a junction is modified or removed the junction will need to be replaced or reset to refresh the connections. If a connection is broken without refreshing the junction carts will continue to attempt to travel the broken route!  Press Q on a junction to reset the track connections. This is advisable after any track layout change.</Text>
+				Actuellement, les connexions ne sont reconnues comme rompues que lorsqu&apos;une jonction, une station ou un dépôt est supprimé. Si une piste connectée à une jonction est modifiée ou supprimée, elle devra être remplacée ou réinitialisée pour actualiser les connexions. Si une connexion est interrompue sans rafraîchissement, les chariots de jonction continueront d&apos;essayer de suivre l&apos;itinéraire interrompu! Appuyez sur A en visant une intersection pour réinitialiser les connexions de piste. Ceci est conseillé après tout changement de tracé de piste.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>		

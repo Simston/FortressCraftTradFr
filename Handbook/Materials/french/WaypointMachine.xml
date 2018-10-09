@@ -4,17 +4,17 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Waypoint Machine</Text>
+					<Text>Machine à Balise</Text>
 				</Title>
 				<Icon>
 					<Name>Waypoint Machine</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Place this and give power to auto-generate a waypoint. Override the waypoint name by placing an adjacent sign.</Text>
+					<Text>Placez-le et donnez le pouvoir de générer automatiquement un Waypoint(Balise). Remplacez le nom du Waypoint(Balise) en plaçant un signe adjacent.</Text>
 				</Paragraph>
         <Paragraph>
-          <Text>Placing this next to an Ore Vein will automatically name the Waypoint according to the Vein type.</Text>
+          <Text>Le placer à côté d&apos;une veine de minerai nommera automatiquement le Waypoint(Balise) en fonction du type de veine.</Text>
         </Paragraph>
 
         <Header>

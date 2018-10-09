@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Suit Power Pack MK2</Text>
+					<Text>Alimentation de Combinaison MK2</Text>
 				</Title>
 				<Icon>
 					<Name>Suit Power Pack MK2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Suit Power Pack MK2 is an additional mountable battery that improves upon its predecessor by increasing the suit’s native internal buffer. This upgrade again doubles the internal buffer from 512 power units to 1024 power units. While the cooling issues have been henceforth solved an additional issue has reared its head. A further upgrade in capacity is, unfortunately, impossible until a new material for a more advanced electromagnetic shielding system can be found.</Text>
+					<Text>L&apos;Alimentation de Combinaison MK2 est une batterie supplémentaire pouvant être montée qui améliore son prédécesseur en augmentant la mémoire tampon interne de la combinaison. Cette mise à niveau double à nouveau le tampon interne de 512 unités d&apos;alimentation à 1024 unités d&apos;alimentation. Bien que les problèmes de refroidissement soient désormais résolus, un autre problème a surgi. Une augmentation supplémentaire de la capacité est malheureusement impossible tant que l’on n’a pas trouvé un nouveau matériau pour un système de blindage électromagnétique plus avancé.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Spacer/>
@@ -19,7 +19,7 @@
 					<Target>
 						<Material>Suit Power Pack MK1</Material>
 					</Target>
-					<Text>Suit Power Pack MK1</Text>
+					<Text>Alimentation de Combinaison MK1</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

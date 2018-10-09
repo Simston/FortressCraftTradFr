@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Storage Crate</Text>
+					<Text>Caisse de Stockage</Text>
 				</Title>
 				<Icon>
 					<Name>StorageCrate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Read &#39;chest&#39;. Placing Storage crates next to each other will create a larger combined storage. Each crate has 2 item slots.</Text>
+					<Text>Lire &#39;Coffre&#39;. Placer les caisses de stockage les unes à côté des autres créera un stockage combiné plus grand. Chaque caisse a 2 emplacements d&apos;objets.</Text>
 				</Paragraph>
         </Paragraphs>
 		</Page>

@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>SpiderBot Particle Rifles</Text>
+					<Text>Fusils à Particules SpiderBot</Text>
 				</Title>
 				<Icon>
 					<Name>SpiderBot Defences 1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This pair of shoulder-mounted particle rifles are capable of dealing heavy damage to the very largest of targets. They are independently targetting, and will intelligently ignore smaller targets and focus on boss-class mobs.</Text>
+					<Text>Cette paire de fusils à particules montés sur l&apos;épaule est capable d&apos;infliger de gros dégâts à la plus grande des cibles. Ils visent indépendamment, ignorent intelligemment les cibles plus petites et se concentrent sur les Mobs de classe BOSS.</Text>
 				</Paragraph>
 				<Spacer/>
 				<Header>
-					<Text>You only need to craft and fit one of these - they come as a set!</Text>
+					<Text>Un seul suffit!</Text>
 				</Header>
 				<Spacer/>
 				<Link>
 					<Target>
 						<Material>SpiderBot Base Component</Material>
 					</Target>
-					<Text>More information regarding SpiderBot!</Text>
+					<Text>Plus d&apos;informations sur SpiderBot!</Text>
 				</Link>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Housing</Text>
+					<Text>Boîtier en Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Housing</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple titanium housing created from titanium plates.</Text>
+					<Text>Un simple Boîtier de Titane créé à partir de Plaques de Titane.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

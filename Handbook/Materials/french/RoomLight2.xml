@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>RoomLight #2</Text>
+					<Text>Lumière Salle #2</Text>
 				</Title>
 				<Icon>
 					<Name>RoomLight #2</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A small directed light. Paintable and rotatable.</Text>
+					<Text>Une petite lumière dirigée. Peinturable et rotatif.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

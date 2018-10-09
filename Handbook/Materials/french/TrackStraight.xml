@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Straight Minecart Track</Text>
+					<Text>Piste Droite Minecart</Text>
 				</Title>
 				<Icon>
 					<Name>Track Straight</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Allows Minecarts to travel in a straight line.</Text>
+					<Text>Permet aux Minecarts de voyager en ligne droite.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

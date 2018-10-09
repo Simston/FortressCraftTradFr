@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Titanium Coil</Text>
+					<Text>Bobine de Titane</Text>
 				</Title>
 				<Icon>
 					<Name>Titanium Coil</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple titanium coil created from titanium wires in a Coiler Plant.</Text>
+					<Text>Une Bobine de Titane simple créée à partir de Fils de titane dans une Usine de Bobine.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

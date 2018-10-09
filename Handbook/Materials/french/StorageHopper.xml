@@ -4,60 +4,60 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Storage Hopper</Text>
+					<Text>Trémie de Stockage</Text>
 				</Title>
 				<Icon>
 					<Name>StorageHopper</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The storage hopper is one of the most important machines for automating your base. It has a storage capacity of 100 items and can process items very quickly. Cheaper alternatives with a smaller capacity and longer processing time are available and can be useful when first setting up a base.</Text>
+					<Text>La Trémie de Stockage est l’une des machines les plus importantes pour l’automatisation de votre base et production. Elle a une capacité de stockage de 100 articles et peut traiter les articles très rapidement. Des alternatives moins chères avec une capacité plus petite et un temps de traitement plus long sont disponibles et peuvent être utiles lors de la première installation d&apos;une base.</Text>
 				</Paragraph>
 				<Header>
-					<Text>I/O Status</Text>
+					<Text>Statut E/S</Text>
 				</Header>
 				<Paragraph>
-					<Text>The storage hopper can be set to one of four input/output statuses. These are: Add/Remove, Remove Seulement, Add Seulement and Locked. The status can be cycled by pressing the &#39;Interact&#39; key (default &#39;E&#39;). These status codes only apply to standalone machines, such as a smelter or assembly plant. They do not apply to conveyors or conveyor based assembly machines with the single exception that a locked hopper will not output onto a conveyor.</Text>
+					<Text>La Trémie de Stockage peut être définie sur l’un des quatre états d’Entrée/Sortie. Ce sont: Ajouter/Retrait, Retrait Seul, Ajout Seul et Verrouillé. Le statut peut être modifié en appuyant sur la touche &#39;Interaction&#39; (par défaut, &#39;E&#39;). Ces différences d&apos;état ne s&apos;appliquent qu&apos;aux machines autonomes, telles qu&apos;une Fonderie ou une Usine d&apos;Assemblage. Ils ne s&apos;appliquent pas aux Convoyeurs ni aux Machines Convoyeurs, à la seule exception près qu&apos;une Trémie verrouillée ne sortira pas sur un Convoyeur.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 			<Page>
 			<Paragraphs>
 				<Paragraph>
-					<Text>A machine will only extract from a hopper if it is set to Add/Remove or Remove Seulement and will only place items back into the hopper if it is set to Add/Remove or Add Seulement. For machines which have both an input and output it is advisable to have two hoppers, one set to Remove Seulement containing the raw materials, and one set to Add Seulement into which the manufactured component will be placed. This will ensure the system does not become deadlocked.</Text>
+					<Text>Une machine extrait uniquement d&apos;une Trémie si elle est définie sur Ajout/Retrait ou Retrait Seul, et ne replacera les éléments dans la Trémie que si elle est définie sur Ajout/Retrait ou Ajout Seul. Pour les machines qui ont à la fois une Entrée et une Sortie, il est conseillé de disposer deux Trémies, l&apos;une définie sur Retrait Seul contenant les matières premières et l&apos;autre définie sur Ajout Seul dans laquelle le composant fabriqué sera placé. Cela garantira que le système d&apos;automatisation reste fluide.</Text>
 				</Paragraph>
 				<Header>
-					<Text>Conveyors</Text>
+					<Text>Convoyeurs</Text>
 				</Header>
 				<Icon>
 					<Name>Conveyor Belt</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The I/O status does not apply to conveyors, this allows you to use them to insert raw materials into a machine input hopper marked as &#39;Remove Seulement&#39; and vice versa. Any conveyor directly facing the hopper will insert materials into that hopper. The hopper will output onto any other conveyor above, below or to the side of it unless the hopper is locked.</Text>
+					<Text>L&apos;état des E/S ne s&apos;applique pas aux Convoyeurs. Cela vous permet de les utiliser pour insérer des matières premières dans une Trémie d&apos;Entrée de la machine définie sur &#39;Retrait Seul&#39; et inversement. Tout Convoyeur faisant directement face à la Trémie insérera des matériaux dans cette Trémie. La Trémie sortira sur tout autre convoyeur situé en opposée, au-dessous ou à côté de celle-ci, à moins que la Trémie ne soit verrouillée.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>
 			<Page>
 			<Paragraphs>				
 				<Header>
-					<Text>Manually Storing Items</Text>
+					<Text>Stockage Manuel des Objets</Text>
 				</Header>
 				<Paragraph>
-					<Text>While the hopper is intended to be used for automation it is possible to manually store items within it by pressing the &#39;Store&#39; key (default &#39;T&#39;). The selected item or stack in the hotbar will be stored in the hopper if there is space. You can also store 10 items only by pressing Shift+T. To store an exact amount you can split the stack in your inventory (hold Shift and drag). Each press of T will insert the last matching stack in your inventory.</Text>
+					<Text>Alors que la Trémie est destinée à être utilisée pour l’automatisation, il est possible de stocker manuellement les éléments qu’elle contient en appuyant sur la touche &#39;Déposer&#39; (par défaut, &#39;T&#39;). L&apos;élément ou la pile sélectionné dans la barre de raccourci sera stocké dans la Trémie s&apos;il y a de la place. Vous pouvez également stocker 10 éléments uniquement en appuyant sur &#39;Maj + T&#39;. Pour stocker un montant exact, vous pouvez fractionner la pile dans votre inventaire (maintenez la touche Maj enfoncée et faites glisser). Chaque pression sur &#39;T&#39; insérera la dernière pile correspondante dans votre inventaire.</Text>
 				</Paragraph>
 				
 				<Header>
-					<Text>Manually Extracting Items</Text>
+					<Text>Extraire Manuellement les Objets</Text>
 				</Header>
 				<Paragraph>
-					<Text>All items in a hopper can be removed by pressing the &#39;Extract&#39; key (default &#39;Q&#39;).</Text>
+					<Text>Tous les éléments d&apos;une trémie peuvent être supprimés en appuyant sur la touche &#39;Extraire&#39; (&#39;A&#39; par défaut).</Text>
 				</Paragraph>
 				<Header>
-					<Text>Toggle Vacuum Mode</Text>
+					<Text>Mode Bascule Aspiration</Text>
 				</Header>
 				<Paragraph>
-					<Text>The vacuum mode can be toggled using a modified interact (default &#39;Shift+E&#39;). When the vacuum mode is turned on the hopper will suck in any nearby objects so long as there is enough storage space remaining.</Text>
+					<Text>Le mode Aspiration peut être basculé en utilisant une interaction (par défaut &#39;Shift + E&#39;). Lorsque le mode Aspiration est activé, la Trémie aspire les objets à proximité aussi longtemps qu&apos;il restera d&apos;espace de stockage.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

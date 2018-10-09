@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Tin Wire</Text>
+					<Text>Fil d&apos;Étain</Text>
 				</Title>
 				<Icon>
 					<Name>Tin Wire</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A simple tin wire created from tin bars in an Extrusion Plant.</Text>
+					<Text>Un Fil d&apos;étain simple créé à partir de Lingots d&apos;étain dans une usine d&apos;extrusion.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

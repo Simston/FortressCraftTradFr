@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Toxic Cavern Flora 3</Text>
+					<Text>Flore de Caverne Toxique 3</Text>
 				</Title>
 				<Icon>
 					<Name>Toxic Cavern Flora 3</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>This plant appears to be immune to the toxic environment in this cavern.</Text>
+					<Text>Cette plante semble être immunisée contre l&apos;environnement toxique de cette caverne.</Text>
 				</Paragraph>
 		
 				<Spacer/>

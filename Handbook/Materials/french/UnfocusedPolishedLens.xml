@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Unfocused Polished Lens</Text>
+					<Text>Lentille Polie non Focalisée</Text>
 				</Title>
 				<Icon>
 					<Name>UnfocusedPolishedLens</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A lens that is capable of focussing a lot of energy once it goes through chroming.</Text>
+					<Text>Une lentille capable de concentrer beaucoup d’énergie une fois qu’elle passe au chromage.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

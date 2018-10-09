@@ -4,15 +4,15 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Sand</Text>
+					<Text>Sable</Text>
 				</Title>
 				<Icon>
 					<Name>Sand</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Sand is coarse and rough and irritating and it gets everywhere.
-					Will fall off ledges.</Text>
+					<Text>Le sable est grossier et rugueux et irritant et il va partout.
+					Tombe des rebords.</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

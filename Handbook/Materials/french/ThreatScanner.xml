@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Threat Scanner</Text>
+					<Text>Scanner de Menaces</Text>
 				</Title>
 				<Icon>
 					<Name>Threat Scanner</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>The Threat Scanner has two modes, a scanning mode, and an active mode. When in scanning mode the scanner will display the amount of threat the base produces and an estimated time till the next attack starts. At that point a siren will sound, and the readout will show the composition of the attacking force and the approximate time till the next wave of hostiles spawn.</Text>
+					<Text>Le Scanner de Menaces a deux modes, un mode de balayage et un mode actif. En mode de balayage, le scanner affiche la quantité de menace générée par la base et le temps estimé avant le début de la prochaine attaque. À ce stade, une sirène retentira et l&apos;affichage indiquera la composition de la force offensive et le temps approximatif jusqu&apos;à l&apos;apparition de la prochaine vague d&apos;hostiles.</Text>
 				</Paragraph>
 				<Spacer/>
 			

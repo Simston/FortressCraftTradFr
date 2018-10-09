@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>ServoMotor Maker</Text>
+					<Text>Fabricateur de ServoMoteurs</Text>
 				</Title>
 				<Icon>
 					<Name>ServoMotor Maker</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Turns a Copper Wire into a Servo Motor.</Text>
+					<Text>Transforme un Fil de Cuivre en ServoMoteur.</Text>
 				</Paragraph>
 				<Header>
 					<Text>Caractéristiques</Text>

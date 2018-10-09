@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Mandragora Seed</Text>
+					<Text>Graine de Mandragora</Text>
 				</Title>
 				<Icon>
 					<Name>Mandragora</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Used to plant Mandragora or for use in the Ampule Crafter</Text>
+					<Text>Utilisé pour planter des Mandragores ou pour être utilisé dans le Fabricateur d’Ampoule</Text>
 				</Paragraph>
 			</Paragraphs>
 		</Page>

@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Suit Heater MK1</Text>
+					<Text>Chauffage de Combinaison MK1</Text>
 				</Title>
 				<Icon>
 					<Name>Suit Heater MK1</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>A much stronger thermal core allows the upgraded Suit Heater to keep the user safe at temperatures down to near Absolute Zero. Power usage is also increased. You only need one of these and it must be kept in your inventory to function.</Text>
+					<Text>Un noyau thermique beaucoup plus dense permet au Chauffage de Combinaison amélioré de garder l&apos;utilisateur en sécurité à des températures proches du zéro absolu. La consommation d&apos;énergie est également augmentée. Vous n&apos;en avez besoin que d&apos;un seul et celui-ci doit être conservé dans votre inventaire pour fonctionner.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

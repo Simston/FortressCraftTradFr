@@ -4,14 +4,14 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Rock</Text>
+					<Text>Roche</Text>
 				</Title>
 				<Icon>
 					<Name>Rock</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Stone type usually found as the top layer of high peaks. Can be crushed in macerator to possibly extract useful ore.</Text>
+					<Text>Cette Roche se trouve généralement en couche supérieure de hauts sommets. Peut être broyé dans un Macérateur pour éventuellement extraire du minerai utile.</Text>
 				</Paragraph>
 				
 			</Paragraphs>

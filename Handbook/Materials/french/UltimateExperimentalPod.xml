@@ -4,25 +4,25 @@
 		<Page>
 			<Paragraphs>
 				<Title>
-					<Text>Ultimate Experimental Pod</Text>
+					<Text>Capsule Expérimentale Ultime</Text>
 				</Title>
 				<Icon>
 					<Name>ResearchPod_Ultimate</Name>
 					<Alignment>Center</Alignment>
 				</Icon>
 				<Paragraph>
-					<Text>Experimental pods are used in a laboratory to conduct experiments and complete research projects. For more information on laboratory research please visit the following guide.</Text>
+					<Text>Les Capsules Expérimentales sont utilisés dans un Laboratoire pour mener des expériences et mener à bien des projets de recherche. Pour plus d&apos;informations sur la recherche en laboratoire, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				<Link>
 					<Target>
 						<Chapter>laboratory research</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Laboratory Research</Text>
+					<Text>Recherche en Laboratoire</Text>
 				</Link>
 				<Spacer/>
 				<Paragraph>
-					<Text>For more information on creating experimentation pods please read the following guide.</Text>
+					<Text>Pour plus d&apos;informations sur la création de Capsules Expérimentales, veuillez consulter le guide suivant.</Text>
 				</Paragraph>
 				
 				<Link>
@@ -30,7 +30,7 @@
 						<Chapter>experimental pods</Chapter>
 						<Page>0</Page>
 					</Target>
-					<Text>Experimental Pods</Text>
+					<Text>Capsules Expérimentales</Text>
 				</Link>
 		
 			</Paragraphs>
