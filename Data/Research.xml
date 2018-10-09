@@ -11,11 +11,11 @@
 
   <ResearchDataEntry>
     <Key>suit upgrades</Key>
-    <Name>Suit Upgrading</Name>
+    <Name>Amélioration de Combinaison</Name>
     <IconName>SuitUpgrades</IconName>
     <ResearchCost>8</ResearchCost>
-    <PreDescription>Your environmental suit is the most advanced piece of exploration engineering known to man. Unfortunately its utility depends upon a modular upgrade system currently beyond our manufacturing capabilities. It is time to look into how you can create your own upgrades away from the factories back home. You can use a bit of help surviving in this harsh environment.</PreDescription>
-    <PostDescription>With some minor adjustments, it should be possible to produce suit upgrades from basic machinery design, miniaturised to be wearable. The most obvious upgrades are a better solar cell and cold insulation to operate at higher efficiency on this hostile planet. You're going to need to use a Hydrojet Cutter upgrade on your Manufacturing Plant for this!</PostDescription>
+    <PreDescription>Votre combinaison environnementale est la pièce d’ingénierie d’exploration la plus avancée connue de l’homme. Malheureusement, son utilité dépend d'un système d'amélioration modulaire qui dépasse actuellement nos capacités de fabrication. Il est temps de voir comment vous pouvez créer vos propres améliorations hors des usines de votre base. Vous pouvez utiliser un peu l'aide pour survivre dans cet environnement hostile.</PreDescription>
+    <PostDescription>Avec quelques ajustements mineurs, il devrait être possible de produire des mises à niveau de la conception des machines de base, miniaturisées pour être portables. Les améliorations les plus évidentes sont; une meilleure cellule solaire et une isolation au froid pour fonctionner à plus haut rendement sur cette planète hostile. Vous devrez utiliser une amélioration Coupeur Hydrojet sur votre usine de fabrication pour y arriver !</PostDescription>
     <ResearchRequirements>
       <Research>black box</Research>
       <Research>T0 assist machines</Research><!-- You literally can't craft the stuff you need else-->
@@ -25,11 +25,11 @@
 
   <ResearchDataEntry>
 		<Key>Local Life Forms</Key>
-		<Name>Local Life Forms</Name>
+		<Name>Formes de Vie Locale</Name>
 		<IconName>Local Life Forms</IconName>
 		<ResearchCost>5</ResearchCost>
-		<PreDescription>This planet is not dead! Scanners are detecting both plant and animal life forms. This project will investigate the life forms and determine whether they present a threat.</PreDescription>
-		<PostDescription>This planet appears to contain a variety of plant and animal life, not all of it friendly. Scanners are detecting a number of flying lifeforms nearby which pose a potential risk. Designs for a Threat Scanner are available to monitor their progress. We should also investigate setting up some base defenses. Potentially more concerning we have detected a number of large organic structures underground which could interfere with our efforts to secure a reliably supply of resources.</PostDescription>
+		<PreDescription>Cette planète n&apos;est pas morte ! Les scanners détectent des formes de vie végétale et animale. Ce projet étudiera les formes de vie et déterminera si elles représentent une menace.</PreDescription>
+		<PostDescription>Les scanners détectent un certain nombre de formes de vie proches qui présentent un risque potentiel. Le design pour un Scanner de Menaces est disponible pour surveiller leurs progrès. Nous devrions également enquêter sur la mise en place de certaines défenses de base. Potentiellement plus préoccupant, nous avons détecté un certain nombre de grandes structures organiques souterraines qui pourraient interférer avec nos efforts pour sécuriser un approvisionnement fiable en ressources.</PostDescription>
 		<!--
 		<ProjectItemRequirements>
 			<Requirement>
@@ -47,11 +47,11 @@
 	</ResearchDataEntry>
 		<ResearchDataEntry>
 		<Key>Anthropological Osteology</Key>
-		<Name>Anthropological Osteology</Name>
+		<Name>Ostéologie anthropologique</Name>
 		<IconName>Anthropological Osteology</IconName>
 		<ResearchCost>15</ResearchCost><!-- This is only for greg-level games, tbh -->
-		<PreDescription>With all these perfectly-preserved animal parts we're finding, maybe some use can be made of this? Yes, it's a real word. Go look it up!</PreDescription>
-		<PostDescription>We've found a number of uses for these! Let's drape their corpses all over our base!</PostDescription>
+		<PreDescription>Avec toutes ces parties animales parfaitement conservées que nous trouvons, peut-être qu'on pourrait en faire usage? Oui, c'est un vrai mot. Allez le chercher!</PreDescription>
+		<PostDescription>Nous avons trouvé un certain nombre d'utilisations pour ceux-ci! Couvrons leurs cadavres partout dans notre base!</PostDescription>
 		<ScanRequirements>
 			<Scan>Bedrock</Scan> <!-- Why doesn't this work ? -->
 		</ScanRequirements>
@@ -73,11 +73,11 @@
 
 	<ResearchDataEntry>
 		<Key>ResinHandling</Key>
-		<Name>Resin Handling</Name>
+		<Name>Traitement de la résine</Name>
 		<IconName>Geiger</IconName>
 		<ResearchCost>0</ResearchCost>
-		<PreDescription>We need to analyse large quantities of resin in order to deal with the Hivemind threat.</PreDescription>
-		<PostDescription>We should now be able to deal with the hardened resin that is pervading the world. It appears our mining operations' vibrations has awoken and is attracting these monsters.</PostDescription>
+		<PreDescription>Nous devons analyser de grandes quantités de résine afin de faire face à la menace de Hivemind.</PreDescription>
+		<PostDescription>Nous devrions maintenant pouvoir traiter la résine durcie qui envahit le monde. Il semble que les vibrations de nos opérations minières réveillent et attirent ces monstres.</PostDescription>
 		<ProjectItemRequirements>
 			<Requirement>
 				<Key>SoftResin</Key>
@@ -92,11 +92,11 @@
 
   <ResearchDataEntry>
     <Key>AdvancedResinHandling</Key>
-    <Name>Advanced Resin Handling</Name>
+    <Name>Traitement avancé de la résine</Name>
     <IconName>Geiger</IconName>
     <ResearchCost>0</ResearchCost>
-    <PreDescription>Our current methods for extracting refined Resin aren't good enough.</PreDescription>
-    <PostDescription>We can now poke the giant alien growths with a stick. Metaphorically spealing.</PostDescription>
+    <PreDescription>Nos méthodes actuelles d'extraction de résine raffinée ne suffisent pas.</PreDescription>
+    <PostDescription>Nous pouvons maintenant attaquer les excroissances géantes extraterrestres avec un bâton. Métaphoriquement parlant.</PostDescription>
     <ProjectItemRequirements>
       <Requirement>
         <Key>RefinedLiquidResin</Key>
@@ -114,8 +114,8 @@
 		<Name>Laboratories</Name>
 		<IconName>Laboratory Component</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>Our research progress is being limited by the constraints of the research station. We need to design a new laboratory to continue with more advanced projects!</PreDescription>
-		<PostDescription>We now have a design for a research laboratory and the assembly machines required to supply it with experimentation pods. View the relevant handbook entry for more information.</PostDescription>
+		<PreDescription>Nos recherches sont limitées par les contraintes de la station de recherche. Nous avons besoin de concevoir un nouveau laboratoire pour faire des recherches plus avancées !</PreDescription>
+		<PostDescription>Nous avons maintenant la conception d'un laboratoire de recherche et les machines d'assemblage nécessaires pour l'alimenter en capsules d'expérimentation. Voir l'entrée du manuel correspondant pour plus d'informations.</PostDescription>
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 			<Research>mining upgrade 1</Research>
@@ -123,11 +123,11 @@
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>Base Defence</Key>
-		<Name>Base Defence</Name>
+		<Name>Défense de la Base</Name>
 		<IconName>ARTHER Turret</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>We're not alone. We shall have to bring FREEDOM to this planet!</PreDescription>
-		<PostDescription>We can now make machines to bring FREEDOM to the life on this planet!</PostDescription>
+		<PreDescription>Nous ne sommes pas seuls. Nous devrons gagner notre liberté sur cette planète!</PreDescription>
+		<PostDescription>Nous pouvons maintenant fabriquer des machines pour apporter la liberté à la vie sur cette planète!</PostDescription>
 		<ResearchRequirements>
 			<Research>Local Life Forms</Research>
 			<Research>T1 Power</Research>
@@ -139,8 +139,8 @@
 		<Name>SpiderBot</Name>
 		<IconName>SpiderBot</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>Our modular Spider Combat Robot can be used for many tasks, but we're going to need a Docking and Upgrade station for it.</PreDescription>
-		<PostDescription>We can now make SpiderBot Weapon upgrades! To charge SpiderBot, we'll need to build him a base, then use the Lithium Coils Chargers to power-up Lithium Coils, to feed to SpiderBot via attached Storage Hoppers.</PostDescription>
+		<PreDescription>Notre robot de combat modulaire Spider peut être utilisé pour de nombreuses tâches, mais nous allons avoir besoin d'un accueil et d'une station d'amélioration.</PreDescription>
+		<PostDescription>Nous pouvons maintenant faire des améliorations d'arme de SpiderBot! Pour charger SpiderBot, nous devons lui construire une base, puis utiliser les chargeurs de bobines de lithium et alimenter des bobines de lithium, afin d'alimenter SpiderBot via des trémies de stockage attachées.</PostDescription>
 		<ResearchRequirements>
 			<Research>Base Defence</Research>
 			<Research>T1 assist machines</Research>
@@ -151,22 +151,22 @@
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>SpiderBot Defences1</Key>
-		<Name>Basic SpiderBot Defences</Name>
+		<Name>SpiderBot Defenses Basiques</Name>
 		<IconName>SpiderBot Defences 1</IconName>
 		<ResearchCost>10</ResearchCost>
-		<PreDescription>The only way to defend ourselves is going to be via mobile defences! This research will let us fit weapons to the SpiderBot Combat Robot, meaning both a solid base defence and an endless supply of useful organic parts.</PreDescription>
-		<PostDescription>We can now make  the first of the SpiderBot Weapon upgrades!</PostDescription>
+		<PreDescription>Le seul moyen de se défendre consiste à utiliser les défenses mobiles! Cette recherche nous permettra d’ajuster des armes au robot de combat SpiderBot, ce qui signifie à la fois une défense de base solide et une réserve infinie de pièces organiques utiles.</PreDescription>
+		<PostDescription>Nous pouvons maintenant faire la première améliorations d'armes de SpiderBot!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot</Research>
 		</ResearchRequirements>
 	</ResearchDataEntry>
   <ResearchDataEntry>
     <Key>SpiderBot Logistics1</Key>
-    <Name>Basic SpiderBot Logistics</Name>
+    <Name>SpiderBot Logistic Basique</Name>
     <IconName>SpiderBot Logistics</IconName>
     <ResearchCost>10</ResearchCost>
-    <PreDescription>Well. That endless supply of useful parts is just all over the floor. We can adapt the FALCORs to collect them, however.</PreDescription>
-    <PostDescription>Feed a FALCOR Beacon to the SpiderBot Base and we'll fit it. Then specially-modified SpiderCORS can collect items from in the field.</PostDescription>
+    <PreDescription>Bien. Cet approvisionnement sans fin de pièces utiles est juste sur le sol. Nous pouvons cependant adapter les FALCOR pour les collecter.</PreDescription>
+    <PostDescription>Insérez une balise FALCOR dans la base SpiderBot et nous l’adapterons. Ensuite, SpiderCORS spécialement modifié peut collecter des éléments dans l'environnement.</PostDescription>
     <ResearchRequirements>
       <Research>SpiderBot Defences1</Research>
       <Research>T2 assist machines</Research>
@@ -174,7 +174,7 @@
   </ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>SpiderBot Defences2</Key>
-		<Name>Intermediate SpiderBot Defences</Name>
+		<Name>SpiderBot Defenses Intérmediaire</Name>
 		<IconName>SpiderBot Defences 2</IconName>
 		<!-- Basic T2 -->
 		<ProjectItemRequirements>
@@ -188,8 +188,8 @@
 			</Requirement>
 		</ProjectItemRequirements>
 
-		<PreDescription>We're gonna need some much heavier firepower to take down the heavier mobs.</PreDescription>
-		<PostDescription>The Cannon weapon upgrade is now available!</PostDescription>
+		<PreDescription>Nous aurons besoin d'une puissance de feu beaucoup plus lourde pour éliminer les mobs les plus imposants.</PreDescription>
+		<PostDescription>La mise à niveau du Cannon est maintenant disponible!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot Defences1</Research>
 			<Research>advanced research</Research>
@@ -197,7 +197,7 @@
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>SpiderBot Defences3</Key>
-		<Name>Advanced SpiderBot Defences</Name>
+		<Name>Défenses SpiderBot Avancées</Name>
 		<IconName>SpiderBot Defences 3</IconName>
 		<!-- 'Worth it' T2 -->
 		<ProjectItemRequirements>
@@ -210,8 +210,8 @@
 				<Amount>150</Amount>
 			</Requirement>
 		</ProjectItemRequirements>
-		<PreDescription>Even the cannons are of little use against the largest of the enemies. We'll need better firepower.</PreDescription>
-		<PostDescription>The Pulse Rifle upgrade is now available!</PostDescription>
+		<PreDescription>Même les canons sont peu utiles contre le plus grand des ennemis. Nous aurons besoin d'une meilleure puissance de feu.</PreDescription>
+		<PostDescription>La mise à niveau du fusil à impulsion est maintenant disponible!</PostDescription>
 		<ResearchRequirements>
 			<Research>SpiderBot Defences2</Research>
 			<Research>advanced research</Research>
@@ -219,10 +219,10 @@
 	</ResearchDataEntry>
 	<ResearchDataEntry>
 		<Key>Cold Research</Key>
-		<Name>Cold Research</Name>
+		<Name>Recherche sur le froid</Name>
 		<IconName>Blue GlowPod</IconName>
-		<PreDescription>The recently-discovered cavern appears to be filled with a methane gas. We're going to need to research special forms of heating in order to progress deeper.</PreDescription>
-		<PostDescription>We now have access to the suit heater technology. Crafting this will allow us to progress deeper into the planet.</PostDescription>
+		<PreDescription>La caverne récemment découverte semble être remplie de méthane. Nous allons devoir rechercher des formes spéciales de chauffage afin de progresser plus profondément.</PreDescription>
+		<PostDescription>Nous avons maintenant accès à la technologie de chauffage de costume. Fabriquer cela nous permettra de progresser plus profondément dans la planète.</PostDescription>
 		<ResearchRequirements>
 			<Research>suit upgrades</Research>
 		</ResearchRequirements>
